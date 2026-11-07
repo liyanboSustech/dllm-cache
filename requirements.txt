@@ -1,0 +1,12 @@
+# Install requirements-torch.txt from the CUDA 12.4 index first.
+transformers==4.57.1
+accelerate==1.14.0
+numpy==1.26.4
+scipy==1.12.0
+safetensors==0.8.0
+tokenizers==0.22.2
+huggingface-hub==0.34.4
+einops==0.7.0
+sentencepiece==0.1.99
+protobuf==3.20.3
+tiktoken==0.5.2

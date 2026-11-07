@@ -1,0 +1,379 @@
+{
+  "gsm8k_train_0050_bac945a104b1aa": {
+    "complete": false,
+    "correct": false,
+    "rule": "Concludes total chores, but never gives requested monthly average. Consistent with prior review.",
+    "ambiguous": true
+  },
+  "gsm8k_train_0050_41ef65cfcefdb7": {
+    "complete": false,
+    "correct": false,
+    "rule": "Concludes total chores, but never gives requested monthly average. Consistent with prior review.",
+    "ambiguous": true
+  },
+  "gsm8k_train_0050_21c5c2355110e4": {
+    "complete": false,
+    "correct": false,
+    "rule": "Concludes total chores, but never gives requested monthly average. Consistent with prior review.",
+    "ambiguous": true
+  },
+  "gsm8k_train_0050_b7f62fa5241d79": {
+    "complete": false,
+    "correct": false,
+    "rule": "Only total seasonal cost; no monthly chore average."
+  },
+  "gsm8k_train_0049_46f4604ed84ef4": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit requested Alan quantity 48."
+  },
+  "gsm8k_train_0052_79d509788366e3": {
+    "complete": true,
+    "correct": true,
+    "rule": "Concludes requested per-box quantity 5."
+  },
+  "gsm8k_train_0052_0f69c59a1d2ed7": {
+    "complete": true,
+    "correct": true,
+    "rule": "Concludes requested per-box quantity 5."
+  },
+  "gsm8k_train_0052_bbf28dca72ca14": {
+    "complete": false,
+    "correct": false,
+    "rule": "Only concludes total pencils 50, not requested per-box quantity.",
+    "ambiguous": true
+  },
+  "gsm8k_train_0051_3006374dce31f1": {
+    "complete": true,
+    "correct": false,
+    "rule": "Concludes an incorrect final quantity after attempting the fabric update."
+  },
+  "gsm8k_train_0051_dd281ffefb6cbf": {
+    "complete": true,
+    "correct": false,
+    "rule": "Concludes an incorrect final quantity after attempting the fabric update."
+  },
+  "gsm8k_train_0051_cd65da394d7590": {
+    "complete": true,
+    "correct": false,
+    "rule": "Concludes an incorrect final quantity after attempting the fabric update."
+  },
+  "gsm8k_train_0051_85d6d06ba6dddc": {
+    "complete": false,
+    "correct": false,
+    "rule": "Stops before bedroom subtraction and final remaining area."
+  },
+  "gsm8k_train_0056_23b35446773c57": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit requested target calculation and correct final quantity."
+  },
+  "gsm8k_train_0054_6870ad2c30fff1": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit requested target calculation and correct final quantity."
+  },
+  "gsm8k_train_0054_87b8bff34fc7b8": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit requested target calculation and correct final quantity."
+  },
+  "gsm8k_train_0054_d27022a36cfdf2": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit requested target calculation and correct final quantity."
+  },
+  "gsm8k_train_0053_705bc76e77a206": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit requested target calculation and correct final quantity."
+  },
+  "gsm8k_train_0056_7b8c291663c7a2": {
+    "complete": false,
+    "correct": false,
+    "rule": "Only first and second part times; no requested third-part time."
+  },
+  "gsm8k_train_0055_56815d3b2fed12": {
+    "complete": false,
+    "correct": false,
+    "rule": "Only solution plan or total flower count; no requested non-rose percentage."
+  },
+  "gsm8k_train_0055_1f8687520a4c64": {
+    "complete": false,
+    "correct": false,
+    "rule": "Only solution plan or total flower count; no requested non-rose percentage."
+  },
+  "gsm8k_train_0058_0f2e50ebb81624": {
+    "complete": false,
+    "correct": false,
+    "reason": "Stops mid allowance multiplication before either total or requested sum."
+  },
+  "gsm8k_train_0057_93f731ff295537": {
+    "complete": false,
+    "correct": false,
+    "ambiguous": true,
+    "reason": "Computes remaining butter after only two cookie types; third use omitted. Completed-looking intermediate, conservatively incomplete."
+  },
+  "gsm8k_train_0057_0a820ec45b9a63": {
+    "complete": true,
+    "correct": true,
+    "reason": "Concludes requested remaining butter is 2 kg."
+  },
+  "gsm8k_train_0056_fdb8b233469c3c": {
+    "complete": true,
+    "correct": true,
+    "reason": "Concludes third assignment part took 45 minutes."
+  },
+  "gsm8k_train_0058_b2e2a3c5302e7f": {
+    "complete": false,
+    "correct": false,
+    "reason": "Only plan and first heading, no requested total."
+  },
+  "gsm8k_train_0058_84a35ff1cabd93": {
+    "complete": false,
+    "correct": false,
+    "reason": "Stops mid first subgroup calculation, no requested total."
+  },
+  "gsm8k_train_0060_159a7fc9078161": {
+    "complete": false,
+    "correct": false,
+    "reason": "Stops mid practice calculation; requested total not computed."
+  },
+  "gsm8k_train_0058_dde434c07e933e": {
+    "complete": false,
+    "correct": false,
+    "reason": "Stops within first fraction expression; no total allowance."
+  },
+  "gsm8k_train_0060_f4d28037140687": {
+    "complete": true,
+    "correct": true,
+    "reason": "Explicitly gives requested total 96 hours; trailing prose does not erase the completed numeric answer."
+  },
+  "gsm8k_train_0060_48fb90895a9256": {
+    "complete": true,
+    "correct": false,
+    "reason": "Concludes incorrect total 128 hours."
+  },
+  "gsm8k_train_0062_a0acccb1ef9616": {
+    "complete": false,
+    "correct": false,
+    "reason": "Only computes first 10 cans, then stops mid sentence."
+  },
+  "gsm8k_train_0062_5667c5034621d6": {
+    "complete": false,
+    "correct": false,
+    "reason": "Only computes first 10 cans, then stops before remaining oil calculation."
+  },
+  "gsm8k_train_0061_5c7773704d80b8": {
+    "complete": false,
+    "correct": false,
+    "reason": "Stops mid salmon fraction; small-animal contribution not calculated."
+  },
+  "gsm8k_train_0061_2803c6ad978380": {
+    "complete": true,
+    "correct": true,
+    "reason": "Explicitly concludes requested small-animal gain is 200 pounds."
+  },
+  "gsm8k_train_0064_e98b8860762ff2": {
+    "complete": false,
+    "correct": false,
+    "reason": "Stops during main-job expression; no second-job income or weekly total."
+  },
+  "gsm8k_train_0064_0d84ccd6a33e3d": {
+    "complete": true,
+    "correct": false,
+    "reason": "Explicit final total660 is incorrect."
+  },
+  "gsm8k_train_0063_ee631d1b4da366": {
+    "complete": true,
+    "correct": false,
+    "reason": "Explicit final19 is incorrect."
+  },
+  "gsm8k_train_0064_d696cd7d72f292": {
+    "complete": false,
+    "correct": false,
+    "reason": "Stops midway through main-job earnings; requested weekly total absent."
+  },
+  "gsm8k_train_0064_d170f7360cf048": {
+    "complete": true,
+    "correct": false,
+    "reason": "Explicit weekly total720 is incorrect."
+  },
+  "gsm8k_train_0064_c3b6d4df6856c8": {
+    "complete": false,
+    "correct": false,
+    "reason": "Computes main income and second-job hours only; no second-job earnings or weekly total."
+  },
+  "gsm8k_train_0063_1b94f936d562f6": {
+    "complete": true,
+    "correct": false,
+    "reason": "Explicit final30 is incorrect."
+  },
+  "gsm8k_train_0066_90688f3f845416": {
+    "complete": false,
+    "correct": false,
+    "ambiguous": true,
+    "reason": "Concludes an incorrect balance after down payment only; no four-month payments. Completed-looking intermediate, conservative incomplete."
+  },
+  "gsm8k_train_0066_ff63905c6506a5": {
+    "complete": true,
+    "correct": true,
+    "reason": "Explicit requested balance after four months is520."
+  },
+  "gsm8k_train_0066_a277cc43f0ab88": {
+    "complete": false,
+    "correct": false,
+    "ambiguous": true,
+    "reason": "Gives balance after down payment only, omitting four monthly payments. Completed-looking intermediate, conservative incomplete."
+  },
+  "gsm8k_train_0067_9542972676b936": {
+    "complete": false,
+    "correct": false,
+    "ambiguous": true,
+    "reason": "Computes only Jesse daily average; Mia and requested average of both absent. The intermediate6 happens to match gold; not an explicit answer to requested joint quantity."
+  },
+  "gsm8k_train_0068_8b18934c05941c": {
+    "complete": false,
+    "correct": false,
+    "reason": "Stops mid fraction before coin counts or requested remainder."
+  },
+  "gsm8k_train_0068_7e3665abbd1638": {
+    "complete": false,
+    "correct": false,
+    "reason": "Only states ratio and total equations; requested remainder not calculated."
+  },
+  "gsm8k_train_0067_82a109464eeac4": {
+    "complete": true,
+    "correct": true,
+    "reason": "Computes both daily averages and requested mean6."
+  },
+  "gsm8k_train_0067_1e0dd560456346": {
+    "complete": false,
+    "correct": false,
+    "ambiguous": true,
+    "reason": "Only Jesse remaining total18 miles, not either daily average or joint average; completed-looking intermediate."
+  },
+  "gsm8k_train_0068_8b5c5c58ff5869": {
+    "complete": true,
+    "correct": true,
+    "reasoning_error": true,
+    "unit_mismatch": true,
+    "reason": "Explicitly concludes requested remaining90; reasoning misstates spent fraction and labels coins dollars. Numeric target criterion satisfied, reasoning is not correct."
+  },
+  "gsm8k_train_0067_e9d763efb7fe41": {
+    "complete": false,
+    "correct": false,
+    "ambiguous": true,
+    "reason": "Concludes only Jesse daily6 with inconsistent arithmetic; requested average of both people absent. Intermediate6 matches gold coincidentally."
+  },
+  "gsm8k_train_0067_a0634dfba2c28f": {
+    "complete": false,
+    "correct": false,
+    "ambiguous": true,
+    "reason": "Gives Mia remaining total18 miles, not requested average of daily averages."
+  },
+  "gsm8k_train_0068_0aad1ea5048c56": {
+    "complete": true,
+    "correct": false,
+    "reason": "Explicit requested remaining40 is incorrect."
+  },
+  "gsm8k_train_0071_9fe407cfefbcc5": {
+    "complete": true,
+    "correct": true,
+    "reason": "Concludes requested post-deposit remainder25."
+  },
+  "gsm8k_train_0072_3b46b341010490": {
+    "complete": false,
+    "correct": false,
+    "reason": "Only calculates initial half-full volume36; subsequent spill and tripling absent."
+  },
+  "gsm8k_train_0072_c384d6e584ca56": {
+    "complete": true,
+    "correct": true,
+    "reason": "Explicitly concludes final water volume54 cubic feet."
+  },
+  "gsm8k_train_0074_0f4ee259ad01d5": {
+    "complete": true,
+    "correct": true,
+    "reason": "Concludes each remaining person lost28kg."
+  },
+  "gsm8k_train_0073_0bc66a820c3275": {
+    "complete": false,
+    "correct": false,
+    "ambiguous": true,
+    "reason": "Only concludes18 people, not required number of six-pouch packs; completed-looking intermediate."
+  },
+  "gsm8k_train_0074_552b43f482188a": {
+    "complete": true,
+    "correct": true,
+    "reason": "Concludes each remaining person lost28kg."
+  },
+  "gsm8k_train_0073_ef592be077dd6a": {
+    "complete": true,
+    "correct": true,
+    "reason": "Concludes required3 packs."
+  },
+  "gsm8k_train_0073_c32eca1cc8cd3e": {
+    "complete": false,
+    "correct": false,
+    "ambiguous": true,
+    "reason": "Concludes only18 people; no six-pouch pack count. Completed-looking intermediate."
+  },
+  "gsm8k_train_0073_a692d17486be76": {
+    "complete": false,
+    "correct": false,
+    "reason": "Stops mid enumeration of helpers; no pack count."
+  },
+  "gsm8k_train_0073_443e5bb5495130": {
+    "complete": false,
+    "correct": false,
+    "ambiguous": true,
+    "reason": "Final Total18 refers to people, not required packs; conservatively incomplete intermediate."
+  },
+  "gsm8k_train_0078_be5edff55b1d93": {
+    "complete": false,
+    "correct": false,
+    "ambiguous": true,
+    "reason": "Only gives total slices30 and eaten26, not requested remaining slices. Completed-looking intermediate."
+  },
+  "gsm8k_train_0077_1848d8f0ba743d": {
+    "complete": true,
+    "correct": true,
+    "reason": "Concludes final weight85kg."
+  },
+  "gsm8k_train_0078_8740e1b05d4248": {
+    "complete": true,
+    "correct": false,
+    "reason": "Explicit remaining5 is incorrect."
+  },
+  "gsm8k_train_0078_732c91148273de": {
+    "complete": true,
+    "correct": false,
+    "reason": "Explicit remaining5 is incorrect."
+  },
+  "gsm8k_train_0078_fa8bcc03840bc8": {
+    "complete": true,
+    "correct": false,
+    "reason": "Explicit remaining3 is incorrect."
+  },
+  "gsm8k_train_0077_bd26fb2de9a16d": {
+    "complete": true,
+    "correct": true,
+    "reason": "Concludes final weight85kg."
+  },
+  "gsm8k_train_0080_23a1e142d4617b": {
+    "complete": false,
+    "correct": false,
+    "reason": "Only repeats ratio and headings; no requested total."
+  },
+  "gsm8k_train_0080_568d8470ad3028": {
+    "complete": true,
+    "correct": false,
+    "reason": "Explicit final110 is incorrect."
+  },
+  "gsm8k_train_0080_924bdb9ab2266f": {
+    "complete": false,
+    "correct": false,
+    "reason": "Computes additional60 only, then stops after Therefore Jennifer brought home without requested total100."
+  }
+}

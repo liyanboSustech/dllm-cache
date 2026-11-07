@@ -1,0 +1,25 @@
+{
+  "revision": "3fd8986bee4ddd68e70ee8041da3a8c9de44f405",
+  "files": {
+    "Cache.py": {
+      "url": "https://raw.githubusercontent.com/OpenMOSS/Sparse-dLLM/3fd8986bee4ddd68e70ee8041da3a8c9de44f405/opencompass/models/sparse_dllm/dream/Cache.py",
+      "sha256": "81ef86391b83a6b34415396bbc0d7352fcb310291a5fdd9fee408943e6ad68b6"
+    },
+    "configuration_dream.py": {
+      "url": "https://raw.githubusercontent.com/OpenMOSS/Sparse-dLLM/3fd8986bee4ddd68e70ee8041da3a8c9de44f405/opencompass/models/sparse_dllm/dream/configuration_dream.py",
+      "sha256": "2b8bb828971bbca57bc79097accf120a9a6bd9abe34d32582a43fa659298b962"
+    },
+    "generation_utils.py": {
+      "url": "https://raw.githubusercontent.com/OpenMOSS/Sparse-dLLM/3fd8986bee4ddd68e70ee8041da3a8c9de44f405/opencompass/models/sparse_dllm/dream/generation_utils.py",
+      "sha256": "18ae6afc27deed6b6219c8db6b52920b3ee4ecd588e2f6a15631d12e9b78fc56"
+    },
+    "modeling_dream.py": {
+      "url": "https://raw.githubusercontent.com/OpenMOSS/Sparse-dLLM/3fd8986bee4ddd68e70ee8041da3a8c9de44f405/opencompass/models/sparse_dllm/dream/modeling_dream.py",
+      "sha256": "6f51c67839ff4c00f9a09f3951d86a23b012b60172c4a57eee32a7cc22b179fe"
+    },
+    "tokenization_dream.py": {
+      "url": "https://raw.githubusercontent.com/OpenMOSS/Sparse-dLLM/3fd8986bee4ddd68e70ee8041da3a8c9de44f405/opencompass/models/sparse_dllm/dream/tokenization_dream.py",
+      "sha256": "1d7f04104fa673831f48256e3cd42cd0bbd1bddd801b4abea5c74cc47d98bdd2"
+    }
+  }
+}

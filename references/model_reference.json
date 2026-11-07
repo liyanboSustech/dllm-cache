@@ -1,0 +1,47 @@
+{
+  "python": "3.10.21",
+  "packages": {
+    "torch": "2.6.0+cu124",
+    "transformers": "4.57.1",
+    "numpy": "1.26.4",
+    "scipy": "1.12.0",
+    "matplotlib": "3.8.3"
+  },
+  "models": {
+    "llada": {
+      "metadata_sha256": {
+        "config.json": "5f99fefe855fdb5100bb6cadb57bdb09fae723ad54811f95c00ecacf29d58a6a",
+        "generation_config.json": "00b3d1ffda2ca0a45633deb52ca4413dda046e7c94e9b05b73ed4a565b0677b3",
+        "model.safetensors.index.json": "28b4ec27206e42e7ade630450e6ce618bd197acf34d35120e8e86d2bb910a408",
+        "special_tokens_map.json": "e9f1f0f6fa133da3169ae69b1969c51cced047a900050893d7a0711c6bd063aa",
+        "tokenizer.json": "071eb20fe7bd601550b1b7838ff696d6c93b88f51257f753303d3df23163c381",
+        "tokenizer_config.json": "b9a6102c39a4f42f47f0d63fc6cee58a2381199d90f2a4f39b3f6871f32b4119"
+      },
+      "weight_files": {
+        "model-00005-of-00006.safetensors": 2919239128,
+        "model-00003-of-00006.safetensors": 2986883656,
+        "model-00004-of-00006.safetensors": 2952797224,
+        "model-00002-of-00006.safetensors": 2948598128,
+        "model-00001-of-00006.safetensors": 2109747184,
+        "model-00006-of-00006.safetensors": 2113931792
+      }
+    },
+    "dream": {
+      "metadata_sha256": {
+        "added_tokens.json": "32ad9d49fafda64e737853737fe3be3e33cce3f719a159ed73f04cbd81a690ce",
+        "config.json": "11afc7fe7a1881e73dcd70cca6868aaaf8eb89ad45ea5fc6426c3fb82dec9340",
+        "generation_config.json": "e4fa42a31ef22740804534395c7a18f335a3c1f9abd9db83a6941b1c8748b2ee",
+        "model.safetensors.index.json": "998a078123ffc97763690de7f2a677eb89168af5eaf8a5e12e6bc24d18e25bdb",
+        "special_tokens_map.json": "fa14641fdc084244b0a530556b1d5bfcb9fa0ed9151a780ffec3b44ba96a0dfe",
+        "tokenizer_config.json": "b0e9c1a6299d8832a1362d6b24f007de8a2acfe0243d8a3a1d1b57aa8250f7ee",
+        "vocab.json": "87a257b04b17642a0688c98cd1df89c398bda4fee532d6f88b38a659ecb4ac8d"
+      },
+      "weight_files": {
+        "model-00002-of-00004.safetensors": 4932751008,
+        "model-00004-of-00004.safetensors": 1089994880,
+        "model-00003-of-00004.safetensors": 4330865200,
+        "model-00001-of-00004.safetensors": 4877660776
+      }
+    }
+  }
+}

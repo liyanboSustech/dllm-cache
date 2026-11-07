@@ -1,0 +1,428 @@
+{
+  "gsm8k_train_0049_74763cace8363f": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0049_8de031ea91a99e": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0050_47fb61b3895855": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0050_a54d92705720b8": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0051_0ca03bd29070cc": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0051_2ae2629edeb98c": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0051_2bd3116819a86b": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0052_4d1be62456f6dd": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0052_6fdaa046850307": {
+    "complete": true,
+    "correct": true,
+    "rule": "Solves x5 and explicitly says5 pencils per box.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0052_893aafa8389f39": {
+    "complete": true,
+    "correct": true,
+    "rule": "Defines x as pencils per box and solves x5; requested target is reached, even if closing prose lacks units.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0053_1daa788b074ad6": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0053_4f87b8ae3ba350": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0053_85cdbbb8f03d14": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0054_380e0c702676a3": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0054_525d08d2234d35": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0055_77cd0cd130cf79": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0055_a508006ed558a5": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0056_2eddb0bb827e88": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0056_5dfdc7fd5067df": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0057_1c94081a896694": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0057_7313e82438f98d": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0058_a5bf77967d2eaf": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0058_f38cbf5b1b87fc": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0059_0ddb06fcdd30f2": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0059_2d340d8d113580": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0060_cd744c75bceabe": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0060_e61ff6c251a053": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0061_92cbcab06753b2": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0061_e204386846f854": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0062_02b4f3fa7fdf1d": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0062_83c0c399c09366": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0062_afb699034e0ab3": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0062_b973ae452b4bff": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0063_8e2f3305997d0b": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0063_ebd5a8c3ba0e1e": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0064_3aed1fee91159a": {
+    "complete": true,
+    "correct": false,
+    "rule": "Last explicitly declared answer is 240, overriding earlier 840.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0064_854018f3583411": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0064_f4f77dd7b9b4f4": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0065_2f85aa6372f3ed": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit total 338 differs from 558.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0065_d792afe1f057e8": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0066_841fbe03e60aca": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0066_e12a0feff66612": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0067_1c79aca73acfc7": {
+    "complete": true,
+    "correct": false,
+    "rule": "Concludes requested average with wrong numeric answer.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0067_b8f6696a7e776f": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0068_6e0af5794a6610": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0068_d3b3fff6f54e1e": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0069_0bcb2b88c9fd8b": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0069_9c34ef35132cff": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0070_233d3ac45ef7bd": {
+    "complete": true,
+    "correct": false,
+    "rule": "Final boxed answer 10 overrides earlier intermediate 19.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0070_7b93ce7b9b35cc": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0070_abe5b5fc75a48c": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0071_00370509e7b189": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0071_bf0a82eacdd100": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0072_ed182db8029ae7": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0072_fdfb20689400d8": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0073_2a452db408d8eb": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0073_5fa580a2b5beb6": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0074_12ad0a33ab123d": {
+    "complete": true,
+    "correct": true,
+    "rule": "Concludes each last person lost 28 kilograms.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0074_69798dc8a62869": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0075_6075db9459b58a": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0075_fd270e8893a8a8": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0076_1c6c8a96fdc3e5": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0076_22ca4c7499291f": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0077_d592d46f5cfcd5": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0077_e3e8f96a9902e9": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0078_2e7c1a343ebc90": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0078_c09a463c547420": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0079_843ea98d0b6cc2": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit combined experience 70 years.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0079_9ca003e959e505": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0080_2baff38509de92": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  },
+  "gsm8k_train_0080_f13364c94fbe0a": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged."
+  }
+}

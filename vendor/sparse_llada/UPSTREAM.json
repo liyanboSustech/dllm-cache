@@ -1,0 +1,17 @@
+{
+  "revision": "3fd8986bee4ddd68e70ee8041da3a8c9de44f405",
+  "files": {
+    "modeling_llada.py": {
+      "url": "https://raw.githubusercontent.com/OpenMOSS/Sparse-dLLM/3fd8986bee4ddd68e70ee8041da3a8c9de44f405/opencompass/models/sparse_dllm/modeling_llada.py",
+      "sha256": "ed7cdb5cda933f2c674db6adc23eaec3b6fa3a400fc755c29e822cf0ffdb9829"
+    },
+    "configuration_llada.py": {
+      "url": "https://raw.githubusercontent.com/OpenMOSS/Sparse-dLLM/3fd8986bee4ddd68e70ee8041da3a8c9de44f405/opencompass/models/sparse_dllm/configuration_llada.py",
+      "sha256": "d60e2431bb80fef5c099b0bfb4802fe5375acd42c43bbe6e2e81d84b3509c999"
+    },
+    "llada_generate.py": {
+      "url": "https://raw.githubusercontent.com/OpenMOSS/Sparse-dLLM/3fd8986bee4ddd68e70ee8041da3a8c9de44f405/opencompass/models/sparse_dllm/llada_generate.py",
+      "sha256": "3ed45fae1ccf1934e97d4fec4a1e928c2899c84d4e90044280a6b386f71107d0"
+    }
+  }
+}

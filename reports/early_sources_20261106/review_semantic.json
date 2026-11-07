@@ -1,0 +1,1333 @@
+{
+  "gsm8k_train_0050_e06c71c13a699c": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算总支出400，未给每月平均任务数。"
+  },
+  "gsm8k_train_0050_175bb3c3839f08": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算总支出400，未给每月任务数。"
+  },
+  "gsm8k_train_0049_1480370a0363c2": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "最终称Alan收集8个，目标48，完整错误。"
+  },
+  "gsm8k_train_0050_6080c67fbc7ce5": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算错误总费用480，未给每月任务数量。"
+  },
+  "gsm8k_train_0049_d6ad5f41878db5": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确最终48个，正确。"
+  },
+  "gsm8k_train_0050_47f2d807a53b13": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只给总储蓄额400及时间，未给每月任务数。"
+  },
+  "gsm8k_train_0050_3dabea0d4d2c12": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算总储蓄400，未给每月任务数量。"
+  },
+  "gsm8k_train_0050_7c1abaa880ab57": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确每月40项，目标5，完整错误。"
+  },
+  "gsm8k_train_0050_caf2be9665bf72": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只给错误总任务400，未给月均；若视为隐含目标回答则完整错误。",
+    "ambiguous": true,
+    "complete_if_ambiguous": true
+  },
+  "gsm8k_train_0049_79466ba92d1e29": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确Alan48个，正确。"
+  },
+  "gsm8k_train_0050_55df0ef9099fb5": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算共40项，未除以8个月给月均5项。"
+  },
+  "gsm8k_train_0052_55085b102e2db7": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "仅给初始总数50，未算每盒数量。"
+  },
+  "gsm8k_train_0051_e9f0482e63a718": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算整块面积192，未给剩余。"
+  },
+  "gsm8k_train_0051_3cddb68cd36648": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只给两块窗帘面积，未给剩余布料面积。"
+  },
+  "gsm8k_train_0051_29620dbeb9eb77": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只有解法，无目标数值。"
+  },
+  "gsm8k_train_0052_6c801da708fd5f": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确每盒x等于5，正确。"
+  },
+  "gsm8k_train_0051_bc3e6a490b1067": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算整块面积192，未给剩余。"
+  },
+  "gsm8k_train_0051_dacb5241a29643": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "声称扣除两块后168，目标160，完整错误。"
+  },
+  "gsm8k_train_0052_6c1b386f97167f": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只有计算方法，无每盒数值。"
+  },
+  "gsm8k_train_0052_350dd4f2c3e3bd": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确每盒10，目标5，完整错误。"
+  },
+  "gsm8k_train_0051_13d6317b26ef0a": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "最终剩余160正确；中间推导错误单独保留，不改变目标答案评分。"
+  },
+  "gsm8k_train_0051_a9e0bd266b5108": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确最终0，目标160，完整错误。"
+  },
+  "gsm8k_train_0051_8cd5814c5d67f3": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "仅列原面积及两个裁剪面积，未给剩余面积。"
+  },
+  "gsm8k_train_0052_538a69c5388326": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "给出总数50和10x，尚未求出每盒x。"
+  },
+  "gsm8k_train_0051_04b778a0f2e130": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只扣客厅布料，未扣卧室得到最终剩余。"
+  },
+  "gsm8k_train_0051_c939a8d1c9a08d": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "给出最终128，目标160，完整错误。"
+  },
+  "gsm8k_train_0053_537f0541613327": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确给出差额0，目标36，完整错误。"
+  },
+  "gsm8k_train_0051_2a736f0c9743ab": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确剩余160，正确。"
+  },
+  "gsm8k_train_0051_f19d1d8e2d6bb0": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确剩余160，正确。"
+  },
+  "gsm8k_train_0051_173c9f1d7a7988": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "最终等号后164错误，虽前面表达式可算160，以错误最终数值为准。"
+  },
+  "gsm8k_train_0054_773988dc085034": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确损失11美元，正确。"
+  },
+  "gsm8k_train_0054_f2e324ee75afde": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算奶昔后的错误余额，未给狗毁坏金额。"
+  },
+  "gsm8k_train_0053_fc7ee6c70d5d5f": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确差额36，正确。"
+  },
+  "gsm8k_train_0053_94201b3c72e9d5": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确多花4美元，目标36，完整错误。"
+  },
+  "gsm8k_train_0053_fdf02b9e187aaa": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确差额36，正确。"
+  },
+  "gsm8k_train_0054_610480b7781403": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只给钱包里12美元，未扣剩余1美元求损失。"
+  },
+  "gsm8k_train_0053_a06994c08225bc": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算两类支出40和4，未给差额。"
+  },
+  "gsm8k_train_0054_a124667b4e4798": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确最终12，目标11，完整错误。"
+  },
+  "gsm8k_train_0054_f9bbbbeb3d26a6": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确没有损失，目标11，完整错误。"
+  },
+  "gsm8k_train_0053_0bcd18b021ad14": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确差额36，正确。"
+  },
+  "gsm8k_train_0054_0916f8da3f7699": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确损失11，正确。"
+  },
+  "gsm8k_train_0054_3d0acbbe10523d": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确损失11，正确。"
+  },
+  "gsm8k_train_0053_d313b9a0b5b1fa": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "第二类支出句子截断，未给差额。"
+  },
+  "gsm8k_train_0053_03778d0dd07138": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算两类支出，未给差额。"
+  },
+  "gsm8k_train_0056_8fbd789ad83af4": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "仅算前两部分共75分钟，未给第三部分。"
+  },
+  "gsm8k_train_0055_f471b85c12812a": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只有计算思路，未给百分比。"
+  },
+  "gsm8k_train_0055_0aecf6df8ce929": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只有思路，未给百分比。"
+  },
+  "gsm8k_train_0056_345f83c9b41191": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确第三部分45分钟，正确。"
+  },
+  "gsm8k_train_0056_7bd9bed5054414": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确第三部分45分钟，正确。"
+  },
+  "gsm8k_train_0056_24e0e13b87947c": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只有计算步骤，未给第三部分数值。"
+  },
+  "gsm8k_train_0056_540b1798c29059": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "仅前两部分合计75，未给第三部分。"
+  },
+  "gsm8k_train_0056_66fecdaa789851": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "列出已知量并要求相减，但未给目标数值或闭合数值表达式。"
+  },
+  "gsm8k_train_0056_9dc133e97c5135": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "仅换算总时间120，未给第三部分。"
+  },
+  "gsm8k_train_0056_4e04ddf77431dc": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确第三部分45分钟，正确。"
+  },
+  "gsm8k_train_0056_c09a2e80618fd5": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确第三部分45分钟，正确。"
+  },
+  "gsm8k_train_0056_805dc8de295e00": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "仅前两部分总计75，未给第三部分。"
+  },
+  "gsm8k_train_0055_0a218d15342732": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只有通用步骤和公式，无目标百分比。"
+  },
+  "gsm8k_train_0056_819af244415cbe": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只列前两部分用时，未算第三部分。"
+  },
+  "gsm8k_train_0057_8d3c23aec3d58d": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确剩余2千克，正确。"
+  },
+  "gsm8k_train_0059_1d795aea930e15": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确总90枚，目标120，完整错误。"
+  },
+  "gsm8k_train_0058_4938a2f468fcf6": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只有步骤说明，没有总金额。"
+  },
+  "gsm8k_train_0058_295c8d4903a320": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只有计算引言，没有总金额。"
+  },
+  "gsm8k_train_0058_a0d74615064794": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "第二组人数处截断，没有总金额。"
+  },
+  "gsm8k_train_0058_4ab1018fb7fc87": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确总金额320，正确。"
+  },
+  "gsm8k_train_0056_62dfd94a33d85c": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "算出前两部分和总时间，未给第三部分。"
+  },
+  "gsm8k_train_0055_ded372009ce28f": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只有步骤，没有百分比。"
+  },
+  "gsm8k_train_0059_75e5e6fe0ca383": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "仅列各时段净收集数，没有求总数。"
+  },
+  "gsm8k_train_0060_0df82bd662336d": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "末句宣称总时间32，主判完整错误；若视为仅比赛时长中间量则未完成。",
+    "ambiguous": true,
+    "complete_if_ambiguous": false
+  },
+  "gsm8k_train_0059_7b7955f4beddfe": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "仅列各小时数量，没有求总数。"
+  },
+  "gsm8k_train_0055_c177aefd77b504": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只有步骤，没有百分比。"
+  },
+  "gsm8k_train_0060_c10d9bb3bd99b8": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算比赛32小时，未加训练时间。"
+  },
+  "gsm8k_train_0058_b23905c9d1356f": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算两组人数，没有总津贴。"
+  },
+  "gsm8k_train_0056_026b0afdebb0bb": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "仅算前两部分合计75，未给第三部分。"
+  },
+  "gsm8k_train_0056_f98df51a4f06f6": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只列前两部分时间，未给第三部分。"
+  },
+  "gsm8k_train_0058_2c6cccb2854cf8": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算第一组人数40，没有总金额。"
+  },
+  "gsm8k_train_0058_0ef52e5fdb69fd": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "第二组人数处截断，没有总金额。"
+  },
+  "gsm8k_train_0057_57f6772772c097": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确三种饼干后剩余3千克，目标2，完整错误。"
+  },
+  "gsm8k_train_0058_9bb94b534dfd5a": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "仅计算引言，无目标结果。"
+  },
+  "gsm8k_train_0059_8272ed2220487c": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确最终80枚，目标120，完整错误。"
+  },
+  "gsm8k_train_0060_288bd76b559ec2": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确总40小时，目标96，完整错误。"
+  },
+  "gsm8k_train_0061_3fac03d9a76088": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "仅算浆果和橡果共600，未给小动物贡献。"
+  },
+  "gsm8k_train_0060_73c952e43872f4": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "训练时间计算处截断，未给总时间。"
+  },
+  "gsm8k_train_0061_73b89e62a3d428": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只给错误鲑鱼贡献400，未给小动物贡献。"
+  },
+  "gsm8k_train_0060_610974f42fa796": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "训练时间乘法截断，未给总时间。"
+  },
+  "gsm8k_train_0059_c22d4b1327a8f3": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确最终120枚，正确。"
+  },
+  "gsm8k_train_0056_56ebeff30417d8": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算前两部分及错误总时间，未给第三部分。"
+  },
+  "gsm8k_train_0061_ad400dcf7e83c7": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只有步骤，未给小动物贡献数值。"
+  },
+  "gsm8k_train_0061_2b56ff68cc6b36": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "鲑鱼步骤截断，未给小动物贡献。"
+  },
+  "gsm8k_train_0055_d527c7265cece7": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确75%，正确。"
+  },
+  "gsm8k_train_0057_f5f83d6a7bbc6a": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "仅算前两种饼干后剩余3，未处理第三种。"
+  },
+  "gsm8k_train_0057_c85c3f0a184385": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "仅算前两种后剩余3，未处理第三种。"
+  },
+  "gsm8k_train_0062_fff87fde1d7dd3": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只有步骤，未给每罐油量。"
+  },
+  "gsm8k_train_0059_dc6ae2ec2d85b7": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "最终等号后90，目标120，完整错误。"
+  },
+  "gsm8k_train_0061_8c0aa2fafc7a59": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "鲑鱼步骤截断，未给小动物贡献。"
+  },
+  "gsm8k_train_0058_a9cb8250582151": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只有步骤，没有总金额。"
+  },
+  "gsm8k_train_0055_05dc76d12f7af9": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只有步骤，没有百分比。"
+  },
+  "gsm8k_train_0060_86e7a72063149e": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确宣称总48小时，主判完整错误；若仅视为一个女儿中间量则未完成。",
+    "ambiguous": true,
+    "complete_if_ambiguous": false
+  },
+  "gsm8k_train_0062_96a6920d91169b": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只有计算步骤，没有每罐油量。"
+  },
+  "gsm8k_train_0062_49fdb39046e43e": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算剩余总油210，未除以剩余14罐。"
+  },
+  "gsm8k_train_0057_b79456cff88554": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "仅算前两种后剩余3，未处理第三种。"
+  },
+  "gsm8k_train_0057_5b927685876a5c": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只给第三种饼干的错误用量2，未给最终剩余；数字与gold巧合不算正确。"
+  },
+  "gsm8k_train_0062_9ebd4898788703": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算10罐总80，未给剩余每罐。"
+  },
+  "gsm8k_train_0057_27fd4548b2f517": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确三种后剩余2千克，正确。"
+  },
+  "gsm8k_train_0056_a5341e0c1cb156": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确第三部分45分钟，正确。"
+  },
+  "gsm8k_train_0061_c66ebe8c35a150": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只列两类错误增重，没有小动物贡献。"
+  },
+  "gsm8k_train_0058_69eed853bcfafa": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "第二组人数步骤未完成，未给总金额。"
+  },
+  "gsm8k_train_0060_40b9289bacb8dd": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算比赛32小时，未加训练时间。"
+  },
+  "gsm8k_train_0062_8d23bf42967254": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "最后除法未完成，未给每罐数量。"
+  },
+  "gsm8k_train_0061_3e1f0dbfb890d8": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "鲑鱼除法截断，未给小动物贡献。"
+  },
+  "gsm8k_train_0061_2ff6b9e6a0791c": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确小动物贡献200正确；推导将浆果量直接套用，保留推理错误但目标正确。"
+  },
+  "gsm8k_train_0062_b52ec2b7aff392": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确每罐15升，正确。"
+  },
+  "gsm8k_train_0064_473eebdf548205": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "仅列工资和工时，未给总周收入。"
+  },
+  "gsm8k_train_0064_a34020975484b9": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "仅列工资和工时，未给总周收入。"
+  },
+  "gsm8k_train_0062_f853b7a96d97c9": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "最后除法未完成，未给每罐数量。"
+  },
+  "gsm8k_train_0064_ce2673a7a41d15": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "主业工时处截断，未给总收入。"
+  },
+  "gsm8k_train_0063_69ae6fee364ac0": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确11个，目标59，完整错误。"
+  },
+  "gsm8k_train_0064_2fe54f463eead4": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确总周收入840，正确。"
+  },
+  "gsm8k_train_0063_3b050dae979f61": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确30个，目标59，完整错误。"
+  },
+  "gsm8k_train_0063_f7079c09d867cb": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确29个，目标59，完整错误。"
+  },
+  "gsm8k_train_0063_31b3ce7164fe17": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确20个，目标59，完整错误。"
+  },
+  "gsm8k_train_0062_749ada79974eed": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算10罐80升，未给每个剩余罐油量。"
+  },
+  "gsm8k_train_0061_b7b40afdf0e85c": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确小动物贡献200正确，推导错误保留，不改变目标评分。"
+  },
+  "gsm8k_train_0063_5f281eba81573a": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确11个，目标59，完整错误。"
+  },
+  "gsm8k_train_0063_90cc4f1207da19": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确30个，目标59，完整错误。"
+  },
+  "gsm8k_train_0063_84d4bb59b719fa": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "开头明确星期三9个，后续错误计算不改变错误目标结论。"
+  },
+  "gsm8k_train_0062_811c8b6d96d6bb": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算10罐80升，未给每个剩余罐油量。"
+  },
+  "gsm8k_train_0066_8f118679c42290": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只有步骤，未给最终余额。"
+  },
+  "gsm8k_train_0063_048382289d748a": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确19个，目标59，完整错误。"
+  },
+  "gsm8k_train_0064_5485ab483edd53": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "总工时处截断，未给总收入。"
+  },
+  "gsm8k_train_0063_ff6e9c00b58cbf": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确19个，目标59，完整错误。"
+  },
+  "gsm8k_train_0064_bd355ef3b8a9b2": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "主业收入计算截断，未给总收入。"
+  },
+  "gsm8k_train_0064_6570b8cfd1442d": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "乘法处截断，未给总收入。"
+  },
+  "gsm8k_train_0065_674040d08673ec": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "最终560错误，目标558；最终数值优先于可正确计算的前置表达式。"
+  },
+  "gsm8k_train_0066_c977dbe785221d": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只有列表编号，没有结果。"
+  },
+  "gsm8k_train_0067_3cbd01d9144cea": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "仅算两人此前错误总里程，未给最后三天平均。"
+  },
+  "gsm8k_train_0068_6b44a70381449d": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只有步骤，没有剩余金币数。"
+  },
+  "gsm8k_train_0067_8cc76ee9335ccc": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只给Jesse错误剩余总里程，未给两人平均。"
+  },
+  "gsm8k_train_0067_3b1401fc22bf3e": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只给Jesse剩余18英里，未给两人平均。"
+  },
+  "gsm8k_train_0066_dbeae8b0ca9612": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "仅首付后780，未扣四个月分期。"
+  },
+  "gsm8k_train_0067_bd9039b0acd524": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算Jesse每天6英里，未计算Mia和两人的平均；数字与gold相同不足以完成该目标。"
+  },
+  "gsm8k_train_0065_28d4604d2a7c4a": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "最终总收入528，目标558，完整错误。"
+  },
+  "gsm8k_train_0068_bb6fe78ed2d401": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只到初始金币分配，未给消费后剩余。"
+  },
+  "gsm8k_train_0067_791336d56ac2e1": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只给两人剩余各18英里，未求每天平均。"
+  },
+  "gsm8k_train_0068_e38854b329f273": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "每份数量处截断，未给剩余金币数。"
+  },
+  "gsm8k_train_0068_8f6e8ac736d2a7": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只有解法，未给剩余金币数。"
+  },
+  "gsm8k_train_0066_5b1ff1f83b7521": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "仅列首付及错误余额820，未处理四个月分期；若将余额当作最终回答则完整错误。",
+    "ambiguous": true,
+    "complete_if_ambiguous": true
+  },
+  "gsm8k_train_0068_6dbe541a540a3b": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "消费步骤开头截断，未给剩余金币数。"
+  },
+  "gsm8k_train_0067_aec7f04a5d946f": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "仅算Jesse错误剩余14，未给两人平均。"
+  },
+  "gsm8k_train_0067_32e8de11dbb7e7": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "仅给Jesse剩余18，未给两人平均。"
+  },
+  "gsm8k_train_0067_b3cce960443209": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Jesse剩余里程处截断，未给平均。"
+  },
+  "gsm8k_train_0066_1d552b563d718e": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "仅首付后780，未扣四个月分期。"
+  },
+  "gsm8k_train_0067_23be3b62d8037a": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只编列Jesse若干天里程，未给两人平均。"
+  },
+  "gsm8k_train_0070_099340bab6f84a": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确Harry68个，目标19，完整错误。"
+  },
+  "gsm8k_train_0067_43ef1b6e0e667b": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只给Jesse某一天错误里程，未给最后三天两人平均。"
+  },
+  "gsm8k_train_0065_6ec852373deb7a": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "加小费处截断，未给总收入。"
+  },
+  "gsm8k_train_0068_a897ab385e87f5": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "方程开头截断，未给剩余金币数。"
+  },
+  "gsm8k_train_0067_2d0247cd45a3db": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只给Jesse剩余18，未给两人平均。"
+  },
+  "gsm8k_train_0065_700fc0e45d2641": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算错误基础割草收入328，未加小费给总收入。"
+  },
+  "gsm8k_train_0071_c637f28ab38c77": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "扣存款处截断，未给剩余。"
+  },
+  "gsm8k_train_0071_a913e3e0a53d88": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确最终剩余43，目标25，完整错误。"
+  },
+  "gsm8k_train_0072_768d9ff84f2a1a": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只有步骤，无最终水量。"
+  },
+  "gsm8k_train_0071_056796541112ef": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算存款前总收入43，未扣18。"
+  },
+  "gsm8k_train_0072_96f6bd7004cc66": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只有步骤，无最终水量。"
+  },
+  "gsm8k_train_0071_d3e64979943a93": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算收入43，未扣存款。"
+  },
+  "gsm8k_train_0072_25484ab0b54ab3": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确最终54，正确。"
+  },
+  "gsm8k_train_0071_11cf625c41c4bb": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确剩余25，正确。"
+  },
+  "gsm8k_train_0072_f4a5f5975d6958": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确最终54，正确。"
+  },
+  "gsm8k_train_0072_a6672309f68113": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算鱼缸容量72，后续未完成。"
+  },
+  "gsm8k_train_0071_cd42c538e7c359": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "小费金额处截断，未给剩余。"
+  },
+  "gsm8k_train_0073_1b24511f03c2d6": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确3包，正确。"
+  },
+  "gsm8k_train_0072_44ca4d3e36b1f9": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算鱼缸容量72，未给实际最终水量。"
+  },
+  "gsm8k_train_0069_66a2f1d5a88061": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "最后给出的总数表达式49加14为63，目标49；前置正确表达式被错误等号右侧覆盖。"
+  },
+  "gsm8k_train_0068_f8a456a838297c": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只有步骤，无剩余金币数。"
+  },
+  "gsm8k_train_0074_ee43e6cd534581": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确每人28千克，正确。"
+  },
+  "gsm8k_train_0071_41f029c365f591": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "小费处截断，未给剩余。"
+  },
+  "gsm8k_train_0072_c6bda0cd72dc46": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确最终54，正确。"
+  },
+  "gsm8k_train_0074_d454fe4bf49824": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只给前两人减重，未给后两人各自减重。"
+  },
+  "gsm8k_train_0067_05a1d8749c06fd": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只给两人此前各12英里，未给最后三天平均。"
+  },
+  "gsm8k_train_0066_9ae97a8be62a1d": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "最后余额计算截断，未给目标结果。"
+  },
+  "gsm8k_train_0074_dd71d36498a00c": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确后两人各28千克，正确。"
+  },
+  "gsm8k_train_0066_0c2758f7405c61": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确最终余额520，正确。"
+  },
+  "gsm8k_train_0073_a48220a821b138": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确3包，正确。"
+  },
+  "gsm8k_train_0073_7fec92882edcf3": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只有引言，无包数。"
+  },
+  "gsm8k_train_0073_53e32d3e2ab8f5": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只有引言，无包数。"
+  },
+  "gsm8k_train_0073_ae3caad2a3ac2f": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "人数求和截断，未给包数。"
+  },
+  "gsm8k_train_0074_228db312f5e42d": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算剩余两人合计56，未给每人数量。"
+  },
+  "gsm8k_train_0074_86f0f0731cd3fd": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确每人28，正确。"
+  },
+  "gsm8k_train_0073_7cf7bb4fa2784e": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "人数求和截断，未给包数。"
+  },
+  "gsm8k_train_0073_db10a87442026e": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确18包，目标3，完整错误。"
+  },
+  "gsm8k_train_0074_2f6a77cfc83c18": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确每人28，正确。"
+  },
+  "gsm8k_train_0074_15922a55a0e03a": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只给剩余两人合计56，未给每人数量。"
+  },
+  "gsm8k_train_0075_fb34b7ad5e33c3": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "算完Dale后Andrew处截断，未给两人总价。"
+  },
+  "gsm8k_train_0076_9e51d036429248": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确总768，正确。"
+  },
+  "gsm8k_train_0075_dc4106dcf6ac57": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确总8英镑，目标15，完整错误。"
+  },
+  "gsm8k_train_0073_a3efa0658d0286": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确3包，正确。"
+  },
+  "gsm8k_train_0075_3b0c96ffe2a056": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确总10，目标15，完整错误。"
+  },
+  "gsm8k_train_0075_09c1ed71557d4f": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确总10，目标15，完整错误。"
+  },
+  "gsm8k_train_0078_53cf735d14d627": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确剩余4，正确。"
+  },
+  "gsm8k_train_0073_d7008d3b549427": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "人数列表后截断，未给包数。"
+  },
+  "gsm8k_train_0075_d9b20e314ea640": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "给出两人各项成本但未合计，主判未完成；若接受分别给出两人的完整成本作为隐含总价15，则完整正确。",
+    "ambiguous": true,
+    "complete_if_ambiguous": true,
+    "correct_if_ambiguous": true
+  },
+  "gsm8k_train_0073_1fe55259bbb0f8": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确18包，目标3，完整错误。"
+  },
+  "gsm8k_train_0076_c3dd95c7ca78e8": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算并强调辣椒354，未给全部蔬菜总数。"
+  },
+  "gsm8k_train_0078_2a2513793a813e": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确剩余5，漏老师，目标4，完整错误。"
+  },
+  "gsm8k_train_0073_aec75453f82faa": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确18包，目标3，完整错误。"
+  },
+  "gsm8k_train_0078_1c1cfbd3da08a7": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确剩余7，目标4，完整错误。"
+  },
+  "gsm8k_train_0077_5fef5a61a8292a": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确最终85千克，正确。"
+  },
+  "gsm8k_train_0078_6d590108e3d695": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确剩余4，正确。"
+  },
+  "gsm8k_train_0078_df11603c84ba31": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只说吃掉4片，未给剩余；数值与目标巧合不算正确。"
+  },
+  "gsm8k_train_0078_f5261c4641d6c7": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确剩余4正确，但30减6等于4的推导错误保留。"
+  },
+  "gsm8k_train_0077_abf0b9cf26a725": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确最终85千克，正确。"
+  },
+  "gsm8k_train_0078_e5f2326f753277": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确剩余5，目标4，完整错误。"
+  },
+  "gsm8k_train_0080_10b150329ebd14": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确总100罐，正确。"
+  },
+  "gsm8k_train_0078_3addf5f048b382": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确剩余4，正确。"
+  },
+  "gsm8k_train_0080_7da1260dae8e0a": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算额外60罐，未加原40罐给总数。"
+  },
+  "gsm8k_train_0078_966e947fb621fe": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确剩余4正确，推导26乘1等于4错误保留。"
+  },
+  "gsm8k_train_0080_45dae2fb40bc16": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "总罐数计算前截断，没有目标结果。"
+  },
+  "gsm8k_train_0080_f1ab6edf2a58a3": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "额外数量乘法未完成，没有总罐数。"
+  },
+  "gsm8k_train_0078_8e2c5f2cf45143": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确剩余4，正确。"
+  },
+  "gsm8k_train_0080_654fafedce024b": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确总100罐，正确。"
+  },
+  "gsm8k_train_0080_e42f9e2eb14828": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "比例表达式处截断，没有总罐数。"
+  }
+}

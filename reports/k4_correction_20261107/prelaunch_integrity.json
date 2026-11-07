@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "old_immutable_files_checked": 3245,
+  "source_count": 44,
+  "cpu_validation": {
+    "passed": true,
+    "selection_cases": 48,
+    "JS_formula_symmetry_null_signed_gain": true,
+    "native_priority_exact_including_inf_GQA_lastblock": true
+  }
+}

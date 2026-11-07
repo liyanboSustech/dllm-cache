@@ -1,0 +1,3126 @@
+{
+  "gsm8k_train_0050_0601340cb38c81": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Stops before deriving the requested average number of chores."
+  },
+  "gsm8k_train_0050_511fa1ce61c922": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicitly concludes ten chores per month, incorrect against five."
+  },
+  "gsm8k_train_0052_c57219bd72e111": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Computes total pencils only; never divides by ten boxes for target per box."
+  },
+  "gsm8k_train_0051_3bca6193a6fe6d": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Only introduces the area calculation, no remaining area."
+  },
+  "gsm8k_train_0051_e9152f515df842": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Gives original area only, no remaining area after cuts."
+  },
+  "gsm8k_train_0051_fd59d6b467cd6c": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Gives original area only, no remaining area after cuts."
+  },
+  "gsm8k_train_0054_0ab9940c886afc": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicitly concludes loss of twelve instead of eleven."
+  },
+  "gsm8k_train_0054_cb43421c3b48f2": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Final loss stated as thirteen, incorrect against eleven."
+  },
+  "gsm8k_train_0055_79947378064e75": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Only describes intended calculation; no percentage."
+  },
+  "gsm8k_train_0053_88694a923348eb": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Calculates requested forty-minus-four difference as thirty-six; final milk wording is a referent typo."
+  },
+  "gsm8k_train_0057_b26e8d52095176": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit remaining butter sixteen-thirds is wrong against two."
+  },
+  "gsm8k_train_0057_e70b998af38bff": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Stops before sugar-cookie allocation or requested remaining total; alternative reading implies all butter used but still wrong.",
+    "ambiguous": true,
+    "complete_if_ambiguous": true
+  },
+  "gsm8k_train_0055_cb878cfda63b35": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Stops during total-flower calculation before target percentage."
+  },
+  "gsm8k_train_0053_5b361b4cdb3c15": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit monetary comparison is wrong in amount and direction."
+  },
+  "gsm8k_train_0056_726e418a5a2103": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit target third-part duration forty-five minutes."
+  },
+  "gsm8k_train_0056_169bebb8fdadd9": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Only first and second durations; no third duration."
+  },
+  "gsm8k_train_0058_cb21da589651c4": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Only group student count, no total allowance."
+  },
+  "gsm8k_train_0057_f70f64eb0c3772": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicitly gives three kilograms remaining instead of two."
+  },
+  "gsm8k_train_0056_40b27803e784d5": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated second-part duration; no third duration."
+  },
+  "gsm8k_train_0056_fac566c9498271": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Only first and second durations; no third duration."
+  },
+  "gsm8k_train_0056_5ee4597a2298a7": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Only first and second durations; no third duration."
+  },
+  "gsm8k_train_0056_8278b55a5d978f": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Gives total and second-part duration, no target third duration."
+  },
+  "gsm8k_train_0058_b39ee0372e76a2": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated first-group size before allowance total."
+  },
+  "gsm8k_train_0060_febb6638aae194": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Gives an erroneous game-time intermediate only; no combined practice-plus-games total."
+  },
+  "gsm8k_train_0060_df5fab956851fb": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Lists inputs only without requested combined hours."
+  },
+  "gsm8k_train_0060_1b7cebe4d7dd64": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Gives game hours only and omits practice; alternative regards thirty-two as an implicit wrong final total.",
+    "ambiguous": true,
+    "complete_if_ambiguous": true
+  },
+  "gsm8k_train_0057_fbe3850a8ad1b4": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit remaining butter 1.4 kilograms is incorrect."
+  },
+  "gsm8k_train_0059_46ae37be75ed51": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Lists separate period subtotals but never combines them into requested final coin count."
+  },
+  "gsm8k_train_0061_4594d4fe6b34e1": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Concludes salmon weight only; target is weight from small animals, despite equal numeric gold."
+  },
+  "gsm8k_train_0062_4d1700d7bef24e": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Describes intended method but gives no liters per remaining can."
+  },
+  "gsm8k_train_0061_becc99aee4b325": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Lists calculation steps without the requested numeric result."
+  },
+  "gsm8k_train_0063_02ef74467a5ded": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit Wednesday target nine is wrong against fifty-nine."
+  },
+  "gsm8k_train_0061_7103e8524bdb40": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Concludes salmon weight only, not target weight from small animals."
+  },
+  "gsm8k_train_0061_b66dfedb5480f8": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicitly attributes remaining two hundred pounds to small animals."
+  },
+  "gsm8k_train_0061_13bdfdac4f9de8": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Standalone concluding two hundred pounds answers target; alternative treats it as repeated salmon subtotal without target attribution.",
+    "ambiguous": true,
+    "correct_if_ambiguous": false
+  },
+  "gsm8k_train_0061_c9221e32bd4091": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Only describes method, no numeric target result."
+  },
+  "gsm8k_train_0066_3401803cf8012c": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Only down-payment intermediate, no balance after four months."
+  },
+  "gsm8k_train_0066_2e444051c48eb3": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Gives down payment only, not requested remaining balance."
+  },
+  "gsm8k_train_0067_ef8080c32a027f": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Only Jesse intermediate mileage, not average required for both runners over final days."
+  },
+  "gsm8k_train_0067_966dbdc3f1bd6b": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Only a wrong fourth-day intermediate, no requested average."
+  },
+  "gsm8k_train_0067_1b931496041127": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Gives Jesse four-day total only, not requested future daily average."
+  },
+  "gsm8k_train_0067_75bc74c3733d60": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit target average two miles per day is incorrect."
+  },
+  "gsm8k_train_0067_bdcaa5bf107bc6": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Ends with remaining total mileage, not the required average of daily averages; numeric six is an intermediate."
+  },
+  "gsm8k_train_0069_4c8a886c4cf116": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit correct total forty-nine arms."
+  },
+  "gsm8k_train_0072_e07cf8c9de1e8f": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Aquarium capacity only, not final water volume."
+  },
+  "gsm8k_train_0071_ca0862b4d74d9d": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated after sales revenue; no remaining dollars after deposit."
+  },
+  "gsm8k_train_0072_c351f73d8f3630": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Lists steps only; no target water volume."
+  },
+  "gsm8k_train_0071_cfbb17764fbbc8": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Gives proceeds before deposit only, not final remaining money."
+  },
+  "gsm8k_train_0073_0b6da4f499be1d": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Introduces calculation without number of packs."
+  },
+  "gsm8k_train_0074_a6f4ee7e693b23": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit third-person loss twenty-seven implies equal last-person target, wrong against twenty-eight."
+  },
+  "gsm8k_train_0075_b0f9b10f73ccc9": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit total breakfast cost eight is wrong against fifteen."
+  },
+  "gsm8k_train_0078_0b634c7179cd27": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Total original slices only, no remaining slices after sharing."
+  },
+  "gsm8k_train_0080_56e31a2f895d5c": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit correct total one hundred cans."
+  },
+  "gsm8k_train_0080_e7e9bd7d40cd1c": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit final total seventy-two cans is incorrect."
+  },
+  "gsm8k_train_0747_3e3d0f910df2d8": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit combined height fifteen hundred feet."
+  },
+  "gsm8k_train_0673_cf9dcf6da8a82b": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Standalone answer one dollar is incorrect."
+  },
+  "gsm8k_train_0673_0e131db165396b": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Only describes calculation; no amount paid."
+  },
+  "gsm8k_train_0285_27b33fe10c29fe": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Gives total viewing hours without dividing by five days for daily target."
+  },
+  "gsm8k_train_0747_9175ebf41ba8a3": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit combined height fifteen hundred feet."
+  },
+  "gsm8k_train_0281_f1b83072749877": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Computes one account only, not combined balance of two."
+  },
+  "gsm8k_train_0789_0f76a7a5a767d9": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Healing duration only, omits later waits and total until heavy lifting."
+  },
+  "gsm8k_train_0789_3969be66d4f6f9": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Healing-duration intermediate only, no total until heavy lifting."
+  },
+  "gsm8k_train_0285_3712deaf7c05a6": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Closed calculation divides total hours by five days to obtain two."
+  },
+  "gsm8k_train_0285_ac350fe4792bb6": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit final answer ten instead of daily two hours."
+  },
+  "gsm8k_train_0094_07dffe961ec4de": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit total thirty days is incorrect."
+  },
+  "gsm8k_train_0094_30dc9d6b04b4b9": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Total pages only, no required days."
+  },
+  "gsm8k_train_0094_8abe65a0e763ee": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Total pages only, no required days."
+  },
+  "gsm8k_train_0281_e71429b5f004eb": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated setup; no combined balance."
+  },
+  "gsm8k_train_0346_18cfa4f3eb470a": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no can count."
+  },
+  "gsm8k_train_1057_8499bc54c27e28": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated container calculation, no pints consumed."
+  },
+  "gsm8k_train_1057_7a255aa5767b4b": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit seven pints consumed."
+  },
+  "gsm8k_train_0673_f6a3273c60c72e": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Gives prediscount cost and discount, but not final amount or closed subtraction."
+  },
+  "gsm8k_train_0281_dacb1075a07078": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "One-account balance only; no combined target."
+  },
+  "gsm8k_train_0346_7e89f493a4b538": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no can count."
+  },
+  "gsm8k_train_0442_2ab8c171298157": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Ends before evaluating average percentage."
+  },
+  "gsm8k_train_1057_fbb9f9c34cbdf1": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Gives pints per container only, not consumed amount."
+  },
+  "gsm8k_train_0673_a827044e9a52cc": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no payment amount."
+  },
+  "gsm8k_train_1022_f5518a9a0c26bf": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit correct Rachel age nineteen."
+  },
+  "gsm8k_train_1022_f78c75dcc989eb": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Unsolved symbolic system, no target age."
+  },
+  "gsm8k_train_1057_a01824c1536c41": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Total tea volume only, no consumed amount."
+  },
+  "gsm8k_train_0346_63b84bd32aa3de": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Partial wall areas only, no can count."
+  },
+  "gsm8k_train_1022_aa25a36e8b607b": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated substitution before target age."
+  },
+  "gsm8k_train_1057_963a9fb3cb6f43": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no consumed amount."
+  },
+  "gsm8k_train_0442_28dd3903ad58b6": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated input list, no average percentage."
+  },
+  "gsm8k_train_0281_75d9b1ab21bc38": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit combined balance 1728."
+  },
+  "gsm8k_train_0673_d239ccf1311147": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no payment amount."
+  },
+  "gsm8k_train_0442_9e1db1f54a060a": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit average 13.5 percent is incorrect against thirteen."
+  },
+  "gsm8k_train_1093_4b126f15a4bc6a": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit total 10800 is incorrect."
+  },
+  "gsm8k_train_0442_14e4d2d6a19913": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated first percentage; no average."
+  },
+  "gsm8k_train_1093_99e1cc2467e03c": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Partial setup only; no combined tack count."
+  },
+  "gsm8k_train_0556_ee3e5b412a322e": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit correct current salary 134400."
+  },
+  "gsm8k_train_0556_be978331fbd700": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit current salary 144000 is incorrect."
+  },
+  "gsm8k_train_0241_f5db9d89c9dabe": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit twelve desktop computers."
+  },
+  "gsm8k_train_0556_8ade6078130e33": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit current salary 112000 is incorrect."
+  },
+  "gsm8k_train_0168_89df01a1068160": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Quiche subtotal only; no discounted order total."
+  },
+  "gsm8k_train_0556_b46345c057e959": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit current salary 144000 is incorrect."
+  },
+  "gsm8k_train_0241_f4a94daf9d4a69": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Laptop count only, no desktops."
+  },
+  "gsm8k_train_1093_497f3fa1194cfb": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no numeric tack count."
+  },
+  "gsm8k_train_0267_a14b4c8021d9c4": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Partial inputs and minutes, no leftover pizzas."
+  },
+  "gsm8k_train_0241_aa46e0efcd6b3e": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no desktop count."
+  },
+  "gsm8k_train_0267_5e7af6dfeafc46": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated production calculation, no leftover pizzas."
+  },
+  "gsm8k_train_1093_25964367640f06": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no tack count."
+  },
+  "gsm8k_train_0168_8999139005e123": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit answer sixty omits discount and is wrong."
+  },
+  "gsm8k_train_0241_becb2b10a8a548": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no desktop count."
+  },
+  "gsm8k_train_0452_d7d91eff338aa9": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Gives marbles handed back only, not marbles remaining."
+  },
+  "gsm8k_train_0556_168a9792a6dbde": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Previous salary only; no current salary after second raise."
+  },
+  "gsm8k_train_0452_5a9de44a1d582a": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Intermediate total before return only, no final remaining marbles."
+  },
+  "gsm8k_train_0168_fad20254901e08": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit discounted order total fifty-four."
+  },
+  "gsm8k_train_0267_e0208f50fd30a0": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Carnival production count only, not pizzas from leftover flour."
+  },
+  "gsm8k_train_0168_07ac3bd06becf4": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit answer sixty omits discount and is wrong."
+  },
+  "gsm8k_train_0452_809015427ff69c": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Describes marbles given by Megan only, no final amount after return."
+  },
+  "gsm8k_train_0267_c977dbe785221d": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Only an empty numbered item, no answer."
+  },
+  "gsm8k_train_0355_5cf4bec16870fa": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no green-square count."
+  },
+  "gsm8k_train_0338_e056b7e0f57d9c": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no fuel-efficiency result."
+  },
+  "gsm8k_train_0355_4992a5e7559e11": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no green-square count."
+  },
+  "gsm8k_train_0534_88671348930fd2": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit correct current Jessica age twenty-four."
+  },
+  "gsm8k_train_0338_b2eca00150105d": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit 2.2 miles per gallon is incorrect."
+  },
+  "gsm8k_train_0338_5becc5983c1b82": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Partial distance calculations only, no rate."
+  },
+  "gsm8k_train_0437_f33c41725c5dce": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit fifty chickens sold."
+  },
+  "gsm8k_train_0338_6742294af411ad": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit 2.2 mpg is incorrect."
+  },
+  "gsm8k_train_0609_4f6288aff216a7": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit twenty dollars tax."
+  },
+  "gsm8k_train_0437_3480aaaf8cb997": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Unsolved symbolic equation only, no chicken count."
+  },
+  "gsm8k_train_0609_1eb29bcf1ad2c1": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated subtotal, no tax amount."
+  },
+  "gsm8k_train_0534_92942d16929a1d": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit current age twenty-four."
+  },
+  "gsm8k_train_0437_bfe8662e3c8599": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated symbolic derivation, no target count."
+  },
+  "gsm8k_train_0437_ef003e47aab3ca": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Unsolved symbolic equation only, no chicken count."
+  },
+  "gsm8k_train_0241_0b4df23a5dee40": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Laptop intermediate only, no desktop count."
+  },
+  "gsm8k_train_0609_70085dad76f4d7": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit correct tax twenty despite imprecise intermediate wording."
+  },
+  "gsm8k_train_0609_9a865f3b60cb73": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Concludes total expenses rather than requested tax; alternative interprets twenty as intended tax with a wording error.",
+    "ambiguous": true,
+    "complete_if_ambiguous": true,
+    "correct_if_ambiguous": true
+  },
+  "gsm8k_train_0521_12b1207f7319fa": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit eighteen strawberries left for mother."
+  },
+  "gsm8k_train_0437_07012496db7287": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Unsolved symbolic equation only, no chicken count."
+  },
+  "gsm8k_train_0521_37491440901873": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit eighteen strawberries for mother."
+  },
+  "gsm8k_train_0609_efcca3eec48ff5": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit correct twenty-dollar tax."
+  },
+  "gsm8k_train_0819_6a5ea95ed2da61": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated second-day count, no remaining daily target."
+  },
+  "gsm8k_train_0521_41d8e101d63564": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit eighteen strawberries for mother."
+  },
+  "gsm8k_train_0083_a88045f514ff12": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit twenty-eight hats each is wrong."
+  },
+  "gsm8k_train_0306_13bc60c45d09e4": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Individual heights only, no average; Parker height equals gold by coincidence."
+  },
+  "gsm8k_train_0819_5a948bd6257973": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "First three days only, no remaining daily collection."
+  },
+  "gsm8k_train_0104_9cb2f0a59c7bf5": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit correct ninety-six people."
+  },
+  "gsm8k_train_0355_546715c683a80c": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Stops before blue count and green remainder."
+  },
+  "gsm8k_train_0306_13d818bee778e2": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Reese height only, no average."
+  },
+  "gsm8k_train_0412_24124e7b9f5296": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated method, no fridge cookie count."
+  },
+  "gsm8k_train_0306_ec4ac18079972c": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated individual-height calculation, no average."
+  },
+  "gsm8k_train_0083_99331ece8152ef": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Therefore sixty-four is an incorrect concluding answer; alternative treats it as repeated Zola subtotal and incomplete.",
+    "ambiguous": true,
+    "complete_if_ambiguous": false
+  },
+  "gsm8k_train_0423_5d1fc70ed760c6": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit thirty-seven euros remaining is wrong."
+  },
+  "gsm8k_train_0306_24ce9e7a95e5cf": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no average height."
+  },
+  "gsm8k_train_0521_36942a91b5793c": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Correct closed subtraction yielding eighteen."
+  },
+  "gsm8k_train_0423_f2c335ffabd955": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit thirty-seven euros remaining is wrong."
+  },
+  "gsm8k_train_0083_bb395c9f2cf219": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated before combined and shared count."
+  },
+  "gsm8k_train_0104_16d11412d9b70e": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit ninety-six people over two days."
+  },
+  "gsm8k_train_0083_961f2795ea494b": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit final result 108 is wrong for each-person target."
+  },
+  "gsm8k_train_0412_0bed0e33ddce80": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no fridge cookie count."
+  },
+  "gsm8k_train_0412_993a6e80af86dc": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated inputs, no fridge cookie count."
+  },
+  "gsm8k_train_0411_008cba114f5697": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit thirty-two grandchildren is wrong."
+  },
+  "gsm8k_train_0898_736ab7492ce22c": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no final rope length."
+  },
+  "gsm8k_train_0411_3aa82442693683": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit twenty-eight grandchildren is wrong."
+  },
+  "gsm8k_train_0122_b75e64b6a8c23a": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Capacity and occupied-chair intermediate only, no attendees."
+  },
+  "gsm8k_train_0593_1265713e0db483": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit correct original drift twenty inches."
+  },
+  "gsm8k_train_0104_0acf8fdf858112": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit forty-eight people in two days is wrong."
+  },
+  "gsm8k_train_0122_b8be0fbe3d9567": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Empty-chair intermediate only, no attendance count."
+  },
+  "gsm8k_train_0819_e19f6b0e5ff4c6": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit fifty tins each remaining day."
+  },
+  "gsm8k_train_0122_25559adb502106": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit forty-eight attendees."
+  },
+  "gsm8k_train_0898_84750c647f1a02": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no final rope length."
+  },
+  "gsm8k_train_1023_8fc6b54834722a": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated multiplication by number of walls, no total bricks."
+  },
+  "gsm8k_train_0593_f88e295612e5a1": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated backwards calculation, no original depth."
+  },
+  "gsm8k_train_0411_704c49e629b237": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit twenty-eight grandchildren is wrong."
+  },
+  "gsm8k_train_0122_3b95d6b24cc0ab": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no attendance count."
+  },
+  "gsm8k_train_0122_a0c8d0c1b66598": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Capacity only, no attendance count."
+  },
+  "gsm8k_train_0819_637a97c913fab7": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "First days only, no remaining daily target."
+  },
+  "gsm8k_train_0593_b1b69c2a8b0b52": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no original drift depth."
+  },
+  "gsm8k_train_0723_1f9bbf4596172e": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit total three bags."
+  },
+  "gsm8k_train_0530_9745b4317e55b8": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit six desserts each is wrong."
+  },
+  "gsm8k_train_0898_1dcacdec7d05db": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated rope inputs, no final length."
+  },
+  "gsm8k_train_1023_316006403125b1": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit eight hundred total bricks."
+  },
+  "gsm8k_train_0530_d4a7c16d098578": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no allocation or total."
+  },
+  "gsm8k_train_0739_8c5d11eb6d82b1": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no daily people count."
+  },
+  "gsm8k_train_0664_3da2bc147ed603": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit fish lifespan twelve years."
+  },
+  "gsm8k_train_0530_0ea39e2fab50fa": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit per-person allocation sums to twenty-one and candy allocation is wrong."
+  },
+  "gsm8k_train_0739_00545e4d12d86e": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Daily blood volume only, no daily people count."
+  },
+  "gsm8k_train_0788_c04d0c2081b64c": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no monetary difference."
+  },
+  "gsm8k_train_0664_171277d4309705": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit fish lifespan twelve years."
+  },
+  "gsm8k_train_0530_071c05531b741d": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit eighteen desserts per person."
+  },
+  "gsm8k_train_0664_ef8d8917d47c4e": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit fish lifespan twelve years."
+  },
+  "gsm8k_train_0530_e0a2a80bd913f8": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Gives correct categorical shares but no combined total and ends before conclusion; alternative accepts complete allocation as answering the ambiguous wording.",
+    "ambiguous": true,
+    "complete_if_ambiguous": true,
+    "correct_if_ambiguous": true
+  },
+  "gsm8k_train_0739_0dd3610c306a9b": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit four people from daily requirement."
+  },
+  "gsm8k_train_0788_33e3943b3ca3d8": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit difference thirty-two quarters equals eight dollars; unit conversion preserves correct monetary quantity."
+  },
+  "gsm8k_train_0788_39581de70aacdc": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Initial inputs only, no difference."
+  },
+  "gsm8k_train_0664_3a15162747542a": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Dog lifespan only, no target fish lifespan."
+  },
+  "gsm8k_train_0215_9f8d7d00a384af": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Gives total children only, not excess over adults."
+  },
+  "gsm8k_train_0529_35b236be9b0f1a": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Symbolic setup only, no solved threshold."
+  },
+  "gsm8k_train_0393_142d72b2be386c": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit width five feet."
+  },
+  "gsm8k_train_0393_023aa132961ba3": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no width."
+  },
+  "gsm8k_train_0393_0b872827d77485": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no width."
+  },
+  "gsm8k_train_0529_531926855ad79b": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit minimum one ride is wrong."
+  },
+  "gsm8k_train_0502_71a43e4157fe6a": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit six dollars per animal."
+  },
+  "gsm8k_train_0839_1bd42893fc9e14": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no egg total."
+  },
+  "gsm8k_train_0502_05abdfa68850c4": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit twelve dollars per single animal is wrong."
+  },
+  "gsm8k_train_0502_c977dbe785221d": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Empty numbered item, no answer."
+  },
+  "gsm8k_train_0502_942692e3c5145c": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit correct six dollars despite unclosed math delimiter."
+  },
+  "gsm8k_train_0739_c977dbe785221d": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Empty numbered item, no answer."
+  },
+  "gsm8k_train_0529_8c0e30ba8cdb93": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit threshold over five rides is wrong."
+  },
+  "gsm8k_train_0839_08653ace8458c4": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Small-child omelet subtotal only, no egg count."
+  },
+  "gsm8k_train_0529_0ff2222bf22144": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Solved strict threshold over twenty-five rides means minimum integer twenty-six."
+  },
+  "gsm8k_train_0502_3006c892392187": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Sticker price only, not requested stuffed-animal price."
+  },
+  "gsm8k_train_0502_5835f21ce02879": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Combined two-animal price only, no single-animal target."
+  },
+  "gsm8k_train_0839_84d9d190fcb44c": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Partial category omelets only, no total eggs."
+  },
+  "gsm8k_train_0529_20dc0d39aaeb91": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "No numeric minimum; alternative interprets cheaper for every ride as an implicit wrong minimum of one.",
+    "ambiguous": true,
+    "complete_if_ambiguous": true
+  },
+  "gsm8k_train_0839_7ec4fc9f37b988": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no egg count."
+  },
+  "gsm8k_train_0393_499b35d85da177": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no width."
+  },
+  "gsm8k_train_0215_0b2f2389c75586": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit difference twenty-four."
+  },
+  "gsm8k_train_0502_fb656cff9c41a2": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit six dollars per animal."
+  },
+  "gsm8k_train_0393_f976a8659b9ee0": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated symbolic setup, no width."
+  },
+  "gsm8k_train_0998_82ad0b0fca10dd": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no fill duration."
+  },
+  "gsm8k_train_0088_eddbbda5abb813": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit correct two-year total 258."
+  },
+  "gsm8k_train_0429_f7b7bde73561cd": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Total English books only, no outside-country count."
+  },
+  "gsm8k_train_0611_17af28cba4afb8": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Describes pizza sharing without target pepperoni count."
+  },
+  "gsm8k_train_0908_f8dbb446edca21": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "First-period total and later hourly rate only, no combined revenue."
+  },
+  "gsm8k_train_0611_20c386f290e5d6": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Half-pizza intermediate only, no count after quartering and loss."
+  },
+  "gsm8k_train_0542_17bea5e5c95ad8": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit seventy-six frosting cans."
+  },
+  "gsm8k_train_0542_996d2112891f01": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Total cakes only, no frosting cans."
+  },
+  "gsm8k_train_0088_0cf1f7bad52f01": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit correct two-year total 258."
+  },
+  "gsm8k_train_0088_14f8c1a593f70b": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit correct two-year total 258."
+  },
+  "gsm8k_train_0792_0db5c7fa2af6de": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit Chrysler twenty-three floors."
+  },
+  "gsm8k_train_1043_f210f9e6a7434c": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Prediscount cost only, no amount paid."
+  },
+  "gsm8k_train_0792_901bfbff593b82": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit Chrysler twenty-three floors."
+  },
+  "gsm8k_train_0611_958f4ca0f743bf": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Stops at slice allocation before fallen pepperoni; alternative treats twenty as implicit incorrect delivered count.",
+    "ambiguous": true,
+    "complete_if_ambiguous": true
+  },
+  "gsm8k_train_0611_e43fbc1435be90": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Quarter-slice count before one falls off, no delivered remainder."
+  },
+  "gsm8k_train_0429_bf103ad91be9f2": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no outside-country count."
+  },
+  "gsm8k_train_0429_501b83130c6191": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit 1300 outside-country books is incorrect."
+  },
+  "gsm8k_train_0792_7659275d4c0b2e": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Symbolic relation only, no target floor count."
+  },
+  "gsm8k_train_0502_9f29a130438b81": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Standalone 1.5 dollars is incorrect."
+  },
+  "gsm8k_train_0972_d053c92b010c00": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit thirteen floors."
+  },
+  "gsm8k_train_0605_38e0bac976af05": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit sixty dice altogether."
+  },
+  "gsm8k_train_0972_6c00764d52df32": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "First move only, no final top floor."
+  },
+  "gsm8k_train_0983_0fcb1217ccf3df": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Betty explicitly thirty-six inches, equivalent to three feet; requested quantity correct in alternate unit."
+  },
+  "gsm8k_train_0713_a0675cb3dabae3": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit six fewer sticks."
+  },
+  "gsm8k_train_0365_a14ed10776c60f": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit total seventy runner-hours matching target."
+  },
+  "gsm8k_train_0713_d310dc6b328983": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Boys subtotal only, no difference."
+  },
+  "gsm8k_train_0908_f0774ffc23bf78": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "First-period revenue only, no total."
+  },
+  "gsm8k_train_0895_6f9be4fbde6720": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Total wall area only, no paint gallons."
+  },
+  "gsm8k_train_0713_2c43861ae5430f": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit final difference forty is incorrect."
+  },
+  "gsm8k_train_0713_2e958e63b91423": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit six fewer sticks."
+  },
+  "gsm8k_train_0972_138a3743c72bda": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Solves final top floor as thirteen and identifies it as building floor count."
+  },
+  "gsm8k_train_0972_1027cf75590101": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit thirteen floors."
+  },
+  "gsm8k_train_0365_12acaf2cd4b77b": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit total forty hours is wrong."
+  },
+  "gsm8k_train_0972_7da226810f4d49": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit thirteen floors."
+  },
+  "gsm8k_train_0365_5adefc2e49613a": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Individual group times only, no evaluated or closed-expression total."
+  },
+  "gsm8k_train_0365_e0258ea58bbc99": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit total thirty-eight hours is wrong."
+  },
+  "gsm8k_train_0895_cfccbe91569bfc": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit three gallons paint."
+  },
+  "gsm8k_train_0897_f89983833ba6cb": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit screen height one hundred centimeters."
+  },
+  "gsm8k_train_0897_942b4f5faddb7b": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit screen height one hundred centimeters."
+  },
+  "gsm8k_train_0895_8e1d04beeb280a": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit three gallons paint."
+  },
+  "gsm8k_train_0605_f146c98e060b7a": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit sixty dice altogether."
+  },
+  "gsm8k_train_0726_0c5b79267dc5c1": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Jed age only, no sum of present ages."
+  },
+  "gsm8k_train_0726_dc6cea5e909d23": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Jed age only, no sum of present ages."
+  },
+  "gsm8k_train_0897_e783d5712a6890": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit screen height one hundred centimeters."
+  },
+  "gsm8k_train_0897_77bee178fca9e3": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Paper perimeter only, no screen height."
+  },
+  "gsm8k_train_0876_24bae5f2798e3e": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "First two verse counts only, no final newcomers."
+  },
+  "gsm8k_train_0605_3a9b4b7b1b81b9": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit correct combined sixty dice; John is a final name typo."
+  },
+  "gsm8k_train_0726_cab93023525ecb": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Wrong individual age only, no sum."
+  },
+  "gsm8k_train_0897_360bc5eb712237": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit screen height one hundred centimeters."
+  },
+  "gsm8k_train_0726_69641d886e7688": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit present-age sum twenty."
+  },
+  "gsm8k_train_0895_452329c79c996f": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Wall area only, no gallons paint."
+  },
+  "gsm8k_train_0897_6d6f2dae2fa8cf": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Paper perimeter only, no screen height."
+  },
+  "gsm8k_train_0895_3ce7460f630ef0": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Room areas only, no paint gallons."
+  },
+  "gsm8k_train_0605_245bb4481e1b3f": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit sixty dice together."
+  },
+  "gsm8k_train_0843_69d304f751314b": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Balance before ice cream only, no final balance."
+  },
+  "gsm8k_train_0843_0fa3238466dc4d": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Balance before ice cream only, no final balance."
+  },
+  "gsm8k_train_0559_8dcd56e409a739": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Symbolic setup only, no total budget."
+  },
+  "gsm8k_train_1010_de49789fe80f91": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Total ounces only, no serving time."
+  },
+  "gsm8k_train_1138_375354cb497c62": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit 140 differs from frozen gold sixty; alternative accepts cumulative four-week interpretation of ambiguous wording.",
+    "ambiguous": true,
+    "correct_if_ambiguous": true
+  },
+  "gsm8k_train_0507_27f8a282afe2fe": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Paid-for weight only, no monetary payment."
+  },
+  "gsm8k_train_0876_da6b87e0be5633": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "First two verse counts only, no final newcomers."
+  },
+  "gsm8k_train_0141_b45e648e54ebe2": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Stops at blank total after listing components, no target result or closed numeric expression."
+  },
+  "gsm8k_train_1010_3e77b27a0baade": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no serving time."
+  },
+  "gsm8k_train_0507_6ae3dcd1dfc99d": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Paid-for weight only, no monetary payment."
+  },
+  "gsm8k_train_1010_1ae3c3f756f6ac": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no serving time."
+  },
+  "gsm8k_train_0141_bc16416ba9e545": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit final ninety minutes overrides earlier correct operands."
+  },
+  "gsm8k_train_1010_c6ee484a0fa2d4": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no serving time."
+  },
+  "gsm8k_train_1138_a19f0ff53c8b37": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Four-week schedule only, no total or one-month-from-now target; alternative regards week-four fifty as wrong final answer.",
+    "ambiguous": true,
+    "complete_if_ambiguous": true
+  },
+  "gsm8k_train_0627_fd4ad04465dc27": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Chair subtotal only, no table-plus-chairs total."
+  },
+  "gsm8k_train_0627_07461a12fa75d4": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit combined cost 220."
+  },
+  "gsm8k_train_1138_0785137da9f884": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Concluding ninety-dollar sum is wrong; alternative sees only a three-week intermediate.",
+    "ambiguous": true,
+    "complete_if_ambiguous": false
+  },
+  "gsm8k_train_1138_6b2ead35ae2bc2": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Inputs only, no month target."
+  },
+  "gsm8k_train_0141_88b94a5ba9e306": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit sixty daily minutes is wrong."
+  },
+  "gsm8k_train_0559_8a4e4e921e38e0": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit final answer 150 is wrong for total budget."
+  },
+  "gsm8k_train_0559_1a7f69900dbf7e": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit total budget 240 is wrong."
+  },
+  "gsm8k_train_1010_0d9fe07f1a961d": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit unrounded 15.2 differs from requested integer fifteen; alternative accepts subsequent nearest-minute rounding.",
+    "ambiguous": true,
+    "correct_if_ambiguous": true
+  },
+  "gsm8k_train_0141_f3f9ad449bb3e9": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit ninety daily minutes is wrong."
+  },
+  "gsm8k_train_1138_0225032b0045f5": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Weekly values only, no month total or correct month-from-now target; alternative regards final fifty as wrong target.",
+    "ambiguous": true,
+    "complete_if_ambiguous": true
+  },
+  "gsm8k_train_0876_780845e29264f5": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "First two verse counts only, no final newcomers."
+  },
+  "gsm8k_train_0559_0bbe330d75f4b7": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit total budget 210 is wrong."
+  },
+  "gsm8k_train_0627_f2cb2c7372293b": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit total cost 160 is wrong."
+  },
+  "gsm8k_train_1010_abb4ea88676d45": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit forty-eight minutes is incorrect."
+  },
+  "gsm8k_train_0559_a618dfe75a2dd2": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Symbolic setup only, no budget total."
+  },
+  "gsm8k_train_0177_313393d46b2d93": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit no out-of-pocket cost implies zero, incorrect."
+  },
+  "gsm8k_train_0847_4f521588be4aa1": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated method, no price per bag."
+  },
+  "gsm8k_train_0829_00c39e89dab260": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit eight additional tickets."
+  },
+  "gsm8k_train_0847_ce1ed5269a2bd1": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Partial costs only, no price per bag."
+  },
+  "gsm8k_train_0847_c92d70b3e25401": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no price per bag."
+  },
+  "gsm8k_train_0829_e518a20d149384": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit eight additional tickets."
+  },
+  "gsm8k_train_0588_cf5901fa4d112b": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit forty hours worked."
+  },
+  "gsm8k_train_0829_7ae84eba45f990": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit eight additional tickets."
+  },
+  "gsm8k_train_0177_4bb3b50e0cf799": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit one thousand out of pocket is incorrect."
+  },
+  "gsm8k_train_1051_e29d6d25d8d092": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit seven Rain Forest animals."
+  },
+  "gsm8k_train_1051_61165dbab54f03": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit seven Rain Forest animals."
+  },
+  "gsm8k_train_0847_11dd9fead533a5": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no price per bag."
+  },
+  "gsm8k_train_1051_ef9dba7f5187c2": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Symbolic relation only, no count."
+  },
+  "gsm8k_train_1051_6e8c6a3fc01b8f": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit target seven animals despite invalid arithmetic; numeric-answer metric, not reasoning validity."
+  },
+  "gsm8k_train_1051_93475e82413d3e": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit seven Rain Forest animals."
+  },
+  "gsm8k_train_0559_e04f4b12aa6f99": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit total 240 is incorrect; alternative treats it as repeated given rent-plus-food subtotal.",
+    "ambiguous": true,
+    "complete_if_ambiguous": false
+  },
+  "gsm8k_train_0177_0afc5828000879": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit four thousand out of pocket is incorrect."
+  },
+  "gsm8k_train_0559_777b6026bed544": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated symbolic setup, no total."
+  },
+  "gsm8k_train_0177_1ba18e4115b7f2": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit eleven thousand out of pocket."
+  },
+  "gsm8k_train_0829_5abdaf44803abf": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit seven extra tickets is incorrect."
+  },
+  "gsm8k_train_0177_559abc7a272f18": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated before monetary difference."
+  },
+  "gsm8k_train_0559_72d224719e7dc2": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit total 150 is incorrect."
+  },
+  "gsm8k_train_0329_a8d05c44b2c954": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit six doughnuts per person."
+  },
+  "gsm8k_train_0851_5f036c84bbfdf6": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated setup, no rounds."
+  },
+  "gsm8k_train_1141_64c9ee6d8766ac": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit twenty-five animals remaining."
+  },
+  "gsm8k_train_0851_716d96e6fe41d9": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Setup only, no rounds."
+  },
+  "gsm8k_train_0336_8a45b3a4d294ed": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated fraction calculation, no final slices."
+  },
+  "gsm8k_train_0336_d16d7ed2e8c519": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Initial slice count only, no final remainder."
+  },
+  "gsm8k_train_0336_42989abe0ee121": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit nine remaining slices is wrong."
+  },
+  "gsm8k_train_1141_4fb072f3b6eef2": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Initial animals only, no remainder."
+  },
+  "gsm8k_train_0336_edc61954a66914": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated initial allocation, no remainder."
+  },
+  "gsm8k_train_0329_31908a0921325e": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Total doughnuts only, no per-person allocation."
+  },
+  "gsm8k_train_1141_914f7ecd437aef": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Initial animals only, no remainder."
+  },
+  "gsm8k_train_0855_753d78734559b1": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit initial nine hundred dollars is wrong."
+  },
+  "gsm8k_train_0419_af5de3360515df": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit forty trumpet hours."
+  },
+  "gsm8k_train_0851_30a47af5b792ff": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit eight rounds matching frozen target."
+  },
+  "gsm8k_train_0329_17adda29d3df72": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Individual purchases only, no per-person allocation."
+  },
+  "gsm8k_train_0851_49092250bee1ed": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit eight rounds despite incorrect loss wording, numeric target correct."
+  },
+  "gsm8k_train_0780_305ba00725e7db": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "New hourly rate only, no two-hour count."
+  },
+  "gsm8k_train_0855_e46446209444ae": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit initial seventeen hundred dollars."
+  },
+  "gsm8k_train_0851_5da9be6607ba32": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no numeric rounds."
+  },
+  "gsm8k_train_0461_28e904f45f6716": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no total cost."
+  },
+  "gsm8k_train_0161_e7669cf809018d": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit four million remaining."
+  },
+  "gsm8k_train_0929_629ca76e353c62": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Separate half-order subtotals only, no total payment."
+  },
+  "gsm8k_train_0461_30b3990da1baaf": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Copying one manuscript only, no bound ten-copy total."
+  },
+  "gsm8k_train_0161_268f51f8def753": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit four million for public spaces."
+  },
+  "gsm8k_train_0419_df7ed276d7d79b": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit forty trumpet hours."
+  },
+  "gsm8k_train_0205_fd5baf765a91b1": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit forty-five total plates is wrong."
+  },
+  "gsm8k_train_0161_0a32f4549d0e20": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit ten million remaining is wrong."
+  },
+  "gsm8k_train_0205_0c7122eee4756f": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Additional guest count only, no plates."
+  },
+  "gsm8k_train_0461_66a2181a465e2f": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit seventy dollars total is wrong."
+  },
+  "gsm8k_train_0161_84de4234a09d16": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit four million remaining."
+  },
+  "gsm8k_train_0205_8a2498d643cdcc": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Additional guest count only, no plates."
+  },
+  "gsm8k_train_0205_4b1c52f5dd00d0": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated guest calculation, no plates."
+  },
+  "gsm8k_train_1028_24fffa77512991": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit total 2900 kilograms is wrong."
+  },
+  "gsm8k_train_0236_70a563fe846c95": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Balance before losing a fourth only, no final balance."
+  },
+  "gsm8k_train_0929_112613d3726299": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit total 625 is wrong."
+  },
+  "gsm8k_train_0205_b09e139b30d95e": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit 135 plates."
+  },
+  "gsm8k_train_0929_6a7dd1b154b589": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit total payment 375."
+  },
+  "gsm8k_train_0461_c3cc028bd443b4": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no total cost."
+  },
+  "gsm8k_train_0699_dc598b58120f94": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no lunch cost."
+  },
+  "gsm8k_train_0106_bf99bbdea41a01": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit fifty uncommon cards."
+  },
+  "gsm8k_train_0236_24b444274dd12f": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated purchases, no final balance."
+  },
+  "gsm8k_train_0430_36717e77d6e995": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Partial fruit inputs only, no plum count."
+  },
+  "gsm8k_train_0430_85a6c12d256370": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no plum count."
+  },
+  "gsm8k_train_1028_62e19ce555c156": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Individual metal weights only, no container total."
+  },
+  "gsm8k_train_0430_9869b037bc1a50": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Partial fruit inputs only, no plum count."
+  },
+  "gsm8k_train_0236_956444fa43c300": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Balance after motorcycle only, no final remainder."
+  },
+  "gsm8k_train_0236_4bb40d58f38edc": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Stops before final loss and balance."
+  },
+  "gsm8k_train_0699_667924d8b436dc": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Student count only, no lunch cost."
+  },
+  "gsm8k_train_0294_c92e27a5565597": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit twenty-five dollars remaining is incorrect."
+  },
+  "gsm8k_train_0929_f1567f45afc9ce": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit total payment 750 is incorrect."
+  },
+  "gsm8k_train_1028_7fa229c2f525ae": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated individual metal weights, no total."
+  },
+  "gsm8k_train_0106_a98ca886dbcb1d": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method fragment only, no uncommon count."
+  },
+  "gsm8k_train_0106_09ffedd01dfa38": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method fragment only, no uncommon count."
+  },
+  "gsm8k_train_0236_9cd985eb44abb4": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit final remaining 275 is incorrect."
+  },
+  "gsm8k_train_0106_12a246e5dcab2e": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit fifty uncommon cards."
+  },
+  "gsm8k_train_0929_843897684e9385": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit total payment 125 is incorrect."
+  },
+  "gsm8k_train_1028_06d308c415a230": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Individual metal weights only, no container total."
+  },
+  "gsm8k_train_0106_663fd205ceece3": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Closed numeric expression 200 divided by four explicitly gives target uncommon-card count."
+  },
+  "gsm8k_train_1002_7ce863809945cb": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Jethro amount only, no combined sum."
+  },
+  "gsm8k_train_0192_45611eff98bbeb": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "iPhone revenue only, no weighted average."
+  },
+  "gsm8k_train_1002_faa7a9385bc674": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Inputs only, no combined sum."
+  },
+  "gsm8k_train_0360_44391bedc8eab2": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit five ounces oil is wrong."
+  },
+  "gsm8k_train_0360_acbb6c10989973": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Stops at first step, no oil amount."
+  },
+  "gsm8k_train_0192_46ae60254d4007": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "iPhone revenue only, no average."
+  },
+  "gsm8k_train_1002_4ed3c3d92f1e65": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Inputs only, no combined sum."
+  },
+  "gsm8k_train_0360_58fb33e1ecb6f4": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit five ounces oil is wrong."
+  },
+  "gsm8k_train_0294_b524b980c831c9": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit fifty-one dollars remaining is wrong."
+  },
+  "gsm8k_train_0667_0ef7fc48808b98": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit three pointy-eared dogs is wrong."
+  },
+  "gsm8k_train_0699_09a4d26d913183": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no lunch cost."
+  },
+  "gsm8k_train_1002_e2ba02fe953ff8": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Individual balances only, no requested sum."
+  },
+  "gsm8k_train_0699_c2489a922c16e8": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no lunch cost."
+  },
+  "gsm8k_train_0360_6c8fd3b976a783": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit four ounces oil."
+  },
+  "gsm8k_train_0360_408bd5e068ab0f": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no oil amount."
+  },
+  "gsm8k_train_0835_3783f0f255d410": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Starting parking count only, not arrivals during play despite coincident gold number."
+  },
+  "gsm8k_train_0192_9ab4f332afe2a9": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Partial revenues only, no average."
+  },
+  "gsm8k_train_1002_a4445a0d96191c": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit total 127 is incorrect."
+  },
+  "gsm8k_train_0360_c8d5a25f2a3462": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Stops at first step, no oil amount."
+  },
+  "gsm8k_train_0192_cd229d80d616f3": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no average."
+  },
+  "gsm8k_train_0835_b6910202391e14": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Starting parking count only, not additional cars during play."
+  },
+  "gsm8k_train_0170_c1f3a3bbf7bd16": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit twenty-three years is wrong."
+  },
+  "gsm8k_train_0170_b29b329ba0b5ed": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit twenty-four years is wrong."
+  },
+  "gsm8k_train_0170_0387b071eafd3c": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit twenty-four years is wrong."
+  },
+  "gsm8k_train_0170_7376227cefd1c9": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit twenty-one years."
+  },
+  "gsm8k_train_1018_850638faf9f45b": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Couple-member count only, no yearly turns."
+  },
+  "gsm8k_train_0667_c977dbe785221d": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Empty numbered item, no answer."
+  },
+  "gsm8k_train_1018_de0e9c52a4a667": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit thirteen turns per year is wrong."
+  },
+  "gsm8k_train_0188_4f9ae5b6924828": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit ten broken glasses."
+  },
+  "gsm8k_train_0523_ef1a5366522e86": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit nineteen detergent packs is wrong."
+  },
+  "gsm8k_train_0667_5d6201c9cbef8f": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit six pointy-eared dogs."
+  },
+  "gsm8k_train_1018_287297b5ce0c82": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no yearly turns."
+  },
+  "gsm8k_train_0147_3a968596363546": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit nine crayons left."
+  },
+  "gsm8k_train_1018_c977dbe785221d": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Empty numbered item, no answer."
+  },
+  "gsm8k_train_0188_7e6b1c2dfb4e58": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit ten broken glasses."
+  },
+  "gsm8k_train_0170_2e73b5c17728d8": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit twenty-one years."
+  },
+  "gsm8k_train_0835_561b25b4363a11": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit four hundred arrivals differs from gold three hundred; alternative accepts two-times-more as twice-as-many reading.",
+    "ambiguous": true,
+    "correct_if_ambiguous": true
+  },
+  "gsm8k_train_0170_58b3d60a549fdf": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit twenty-one years."
+  },
+  "gsm8k_train_1135_5c552742bd03d4": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit thirty-eight dollars remaining."
+  },
+  "gsm8k_train_0147_46ef030ed71fef": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit nine crayons remaining."
+  },
+  "gsm8k_train_0938_5b0e593e0d70b6": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Team scores only, no point difference."
+  },
+  "gsm8k_train_0478_75bb0bafe0c422": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no combined weight."
+  },
+  "gsm8k_train_0478_51f1797e203c6c": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit 319 pounds combined."
+  },
+  "gsm8k_train_0854_f7181e8a2f763c": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Partial weekdays only, no full-week total."
+  },
+  "gsm8k_train_0147_fbe3b817eb0ff8": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit nine crayons remaining."
+  },
+  "gsm8k_train_0478_e38f360d1ce347": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit answer 107 is incorrect for combined weight."
+  },
+  "gsm8k_train_0854_bb3e6a95c1c67c": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit weekly total 210 is incorrect."
+  },
+  "gsm8k_train_0478_001a8c45dcbdd8": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no combined weight."
+  },
+  "gsm8k_train_0938_7e836ee6b34534": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit final answer eight points is wrong for difference."
+  },
+  "gsm8k_train_0147_a7374d33773e24": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated giveaway, no remaining count."
+  },
+  "gsm8k_train_0147_f3503fc97dde71": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit nine crayons remaining."
+  },
+  "gsm8k_train_0608_efc9d3381c6b9d": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit Jung age twenty-six."
+  },
+  "gsm8k_train_0854_b93f517b3c596e": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit weekly total 210 is incorrect."
+  },
+  "gsm8k_train_0523_e7a53c98f10630": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit four packs yearly."
+  },
+  "gsm8k_train_0523_25d5ed722c67cc": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit thirteen packs is incorrect."
+  },
+  "gsm8k_train_1135_c6a518af66b844": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit thirty-eight dollars remaining."
+  },
+  "gsm8k_train_0804_b8e028f4154c45": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit two baby pandas."
+  },
+  "gsm8k_train_1026_282dcf83869543": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit combined height twelve feet."
+  },
+  "gsm8k_train_0544_d6a967c0290331": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit initial twenty-five kilograms is wrong."
+  },
+  "gsm8k_train_1135_1fade8025f301c": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit thirty-eight dollars remaining."
+  },
+  "gsm8k_train_0896_ea959f7d61eaef": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Two rounds only, no total points."
+  },
+  "gsm8k_train_0676_9997aa1cb3301f": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Daily preinsurance cost only, no monthly payment."
+  },
+  "gsm8k_train_0896_5f6ac417998e00": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method and heading only, no total points."
+  },
+  "gsm8k_train_0896_2e6cb9bf492ed8": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated method, no total points."
+  },
+  "gsm8k_train_0538_528ac33744a03c": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no selling price or fully numeric expression."
+  },
+  "gsm8k_train_0804_898dd1e37ff792": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Ends at pregnant-couple count without baby count; alternative accepts one-to-one correspondence as target answer.",
+    "ambiguous": true,
+    "complete_if_ambiguous": true,
+    "correct_if_ambiguous": true
+  },
+  "gsm8k_train_0676_2da2993ecfdfb3": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Patient share percentage only, no monthly amount."
+  },
+  "gsm8k_train_0938_fe11da761461ca": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit three-point difference is wrong."
+  },
+  "gsm8k_train_1121_a8f8445224f994": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Concludes current age fifty-six, not age in five years; alternative treats boxed fifty-six as wrong final target.",
+    "ambiguous": true,
+    "complete_if_ambiguous": true
+  },
+  "gsm8k_train_0538_6c7b1ce5513e28": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Verbal recipe with original-price reference, no evaluated or fully numeric expression; alternative accepts it as a closed grounded calculation.",
+    "ambiguous": true,
+    "complete_if_ambiguous": true,
+    "correct_if_ambiguous": true
+  },
+  "gsm8k_train_0538_01d4b8518129fe": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit selling price 3450."
+  },
+  "gsm8k_train_0538_10eef3b36a8851": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit selling price 3450."
+  },
+  "gsm8k_train_0804_9d2a6e3bc87286": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit two baby pandas."
+  },
+  "gsm8k_train_0676_ac21ee046f0e8b": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Monthly pill count only, no payment."
+  },
+  "gsm8k_train_1013_182bd45f4bafc0": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit two striped jerseys."
+  },
+  "gsm8k_train_0856_cd6cf930239658": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Annual spending only, no initial balance."
+  },
+  "gsm8k_train_0945_4a5c949df0f7a2": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit April cost 120."
+  },
+  "gsm8k_train_0544_501f9dcf56c773": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no initial food amount."
+  },
+  "gsm8k_train_1026_2f29b22b13bb26": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit combined height twelve feet."
+  },
+  "gsm8k_train_0093_a53346d2af1010": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit total cost 14000."
+  },
+  "gsm8k_train_1121_01a4cd5e345090": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no future age."
+  },
+  "gsm8k_train_1121_29eded86b2e893": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Current-age intermediate only, no future age."
+  },
+  "gsm8k_train_0544_2f4a84448c7b45": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit initial fifteen kilograms."
+  },
+  "gsm8k_train_1121_d6bfdaca50547e": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no future age."
+  },
+  "gsm8k_train_0896_420b171f29225c": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no contest score."
+  },
+  "gsm8k_train_0856_fafcb27ac16002": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Annual spending only, no initial balance."
+  },
+  "gsm8k_train_0544_7a7adec8431d71": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit initial twenty-five kilograms is wrong."
+  },
+  "gsm8k_train_0459_5277ca67c74d35": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "One-item current cost expression only, no four-item total."
+  },
+  "gsm8k_train_1026_63dadf3921d013": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit combined height twelve feet."
+  },
+  "gsm8k_train_0459_f257f902979163": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated calculation, no total."
+  },
+  "gsm8k_train_0544_5283818d0638d1": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no initial food amount."
+  },
+  "gsm8k_train_0459_5244baf0685c7c": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Symbolic setup only, no total."
+  },
+  "gsm8k_train_0093_80d99abcd00ea9": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Partial component calculations only, no total cost."
+  },
+  "gsm8k_train_1121_54a8b68680366d": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Pen count only, no future age."
+  },
+  "gsm8k_train_0945_1aa95e4d0fd36c": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit April cost 120."
+  },
+  "gsm8k_train_0856_84b911d130bc90": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit initial balance two hundred."
+  },
+  "gsm8k_train_0856_c2e79af5ef4245": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Annual spending only, no initial balance."
+  },
+  "gsm8k_train_0093_42e178e30d4ce8": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated chicken cost, no total."
+  },
+  "gsm8k_train_0093_5ddbe08c73e435": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit total cost 14000."
+  },
+  "gsm8k_train_0506_9511be4196ab43": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Total-distance intermediate only, no average."
+  },
+  "gsm8k_train_0506_c4c84325c283aa": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no average."
+  },
+  "gsm8k_train_0997_6a8d472f788cb2": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Gives total catch only, not each-person allocation; alternative treats boxed eleven as wrong final answer.",
+    "ambiguous": true,
+    "complete_if_ambiguous": true
+  },
+  "gsm8k_train_1049_4d4b3836a4edbc": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Lowest-score intermediate only, no Mark score."
+  },
+  "gsm8k_train_1049_7c698dc0005672": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Incorrectly concludes information is insufficient rather than solving determined target."
+  },
+  "gsm8k_train_0182_b73a7c58dd2db5": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Concludes Carly-only spending, not combined total; alternative treats boxed 150 as wrong final answer.",
+    "ambiguous": true,
+    "complete_if_ambiguous": true
+  },
+  "gsm8k_train_0375_53caecbc97903c": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit wholesale price twenty dollars."
+  },
+  "gsm8k_train_0997_724f5c514fbf6a": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Gives total catch only, not each-person allocation; alternative treats boxed thirty-three as wrong final answer.",
+    "ambiguous": true,
+    "complete_if_ambiguous": true
+  },
+  "gsm8k_train_0375_0336934596d7f1": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no wholesale price."
+  },
+  "gsm8k_train_0766_a0b15838a43163": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no meal count."
+  },
+  "gsm8k_train_0269_aa17571435215b": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit thirty-three dollars needed is wrong."
+  },
+  "gsm8k_train_0506_dd4b205930f12f": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Partial daily inputs only, no average."
+  },
+  "gsm8k_train_0997_917aac2a98cbac": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Gives total catch only, not each-person allocation; alternative treats boxed eleven as wrong final answer.",
+    "ambiguous": true,
+    "complete_if_ambiguous": true
+  },
+  "gsm8k_train_0945_4dccf1426d5885": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Daily cost only, no April total."
+  },
+  "gsm8k_train_1013_328b648150456a": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Long-sleeve cost only, no striped jersey count."
+  },
+  "gsm8k_train_0182_bd43eeb55b2281": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Individual totals only, no combined spending."
+  },
+  "gsm8k_train_0152_b47679766c40d5": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit discounted price forty-four."
+  },
+  "gsm8k_train_0997_5b6e2bba06d14d": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no per-person fish count."
+  },
+  "gsm8k_train_0482_91cf3df54a95db": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Calories per night only, no five-day total."
+  },
+  "gsm8k_train_0182_a17e69f75915ec": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Lisa subtotal only, no combined spending."
+  },
+  "gsm8k_train_0269_538d2273000dac": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit final three dollars overrides correct subtraction operands."
+  },
+  "gsm8k_train_0997_cf55a361511eeb": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no per-person fish count."
+  },
+  "gsm8k_train_0482_65e6135d6f0f13": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Wrong distance intermediate only, no calories over five days."
+  },
+  "gsm8k_train_0182_ed00081cd2ff2f": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Lisa subtotal only, no combined spending."
+  },
+  "gsm8k_train_0766_bcbac14c62aa5b": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no meal count."
+  },
+  "gsm8k_train_0766_b3c8b77138c22d": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no meal count."
+  },
+  "gsm8k_train_0269_2dd9ca317a31c8": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit thirteen dollars needed."
+  },
+  "gsm8k_train_0997_70932e91dd766f": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no per-person fish count."
+  },
+  "gsm8k_train_0997_9d92685e749df9": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no per-person fish count."
+  },
+  "gsm8k_train_0657_6b201ba2728d30": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit departure 0730."
+  },
+  "gsm8k_train_0766_13cb2c117f9c81": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated inclusion-exclusion inputs, no target count."
+  },
+  "gsm8k_train_0997_5b7740df550c1f": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Explicit 3.67 fish per person is incorrect."
+  },
+  "gsm8k_train_0657_8c705341d3edf0": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated travel duration, no departure time."
+  },
+  "gsm8k_train_0657_c827016786f355": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Method only, no departure time."
+  },
+  "gsm8k_train_0482_9bfb691c3b298e": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Solves per-night calories only, no five-day total; alternative treats twenty as an incorrect concluding target.",
+    "ambiguous": true,
+    "complete_if_ambiguous": true
+  },
+  "gsm8k_train_0482_16e8e38eb41d86": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Per-night calculation yields twenty, omits five-day total; alternative treats twenty as an incorrect concluding target.",
+    "ambiguous": true,
+    "complete_if_ambiguous": true
+  },
+  "gsm8k_train_0657_af182d4c390f2f": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated travel duration, no departure time."
+  },
+  "gsm8k_train_0657_036eade9e1670c": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "Truncated journey inputs, no departure time."
+  }
+}

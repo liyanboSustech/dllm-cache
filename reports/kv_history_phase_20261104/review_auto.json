@@ -1,0 +1,297 @@
+{
+  "gsm8k_train_0049_ad94d8a21b3395": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0050_450826a043af5f": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0050_9a193a96aa0a27": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0050_a2b415e74088bb": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0050_f0dd94670b0542": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0051_38b16530b0f719": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0052_57db35afee18d9": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0053_3c3c2828af2065": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0054_8fdcda3d2eef05": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0054_92d1005735f6f4": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0054_beb7e578cb4dda": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0054_e99cc02938ffb9": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0055_a136af1358f4c6": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0056_8bf9abcf6c33ee": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0057_2e66f6ae8e6328": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0058_c9f01182b5fd09": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0058_db08a33a6ac47e": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0059_2f290e901d6620": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0059_838dd3da600350": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0059_95871167139e15": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0059_9dd25958d579da": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0060_27ba93f2e1e0e2": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0060_43449424688b4b": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0060_c79729d81cece2": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0061_6472111e195f1d": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0064_c5094340331368": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0064_ee1bd7b7745972": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0065_52f416170883e2": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0065_cebd136e08f194": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0066_06d02c091fa6f7": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0067_04ae5a51b45f35": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0067_d3125134e05bc6": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0068_76ee8318f99099": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0069_51ca72aebb3f99": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0069_893490cf21e95b": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0071_44562489b714e5": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0071_b46cea0bf82f64": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0072_63225fe34f20bd": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0072_8a42bd1800f877": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0072_e2dd7d39bf63ed": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0072_f15cb815da9b36": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0073_db745a99195e7f": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0074_f07f2280e4a9bf": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0074_f683633d196a25": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0075_f228bcb3b3cfc1": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0076_e88696034a8fec": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0077_3b3f808fe38610": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0078_03a9a504c95af8": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0078_5a03d55ea264f7": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0078_684dae8064aaae": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0078_760b5be01d07ec": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0078_aa5fd0e6d4a49c": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0078_d61bccb9857137": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0079_3dc26ba2394937": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0079_62b6e9132517b2": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0080_79df9984833300": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0080_a5e923b5ebe954": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0080_d68640c68c7ba9": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  },
+  "gsm8k_train_0080_ecbb1a5398838e": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit parseable Final answer, original numeric parser."
+  }
+}

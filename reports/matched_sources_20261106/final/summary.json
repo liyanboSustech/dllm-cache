@@ -1,0 +1,2165 @@
+{
+  "counts": {
+    "outputs": 1536,
+    "complete_model_questions": 320,
+    "unique_answers": 1006,
+    "automatic_or_inherited": 494,
+    "manual_required": 512,
+    "manual_done": 512,
+    "pending": 0
+  },
+  "quality": {
+    "development": {
+      "llada": {
+        "BASE": {
+          "n": 32,
+          "correct": 8,
+          "incomplete": 17,
+          "complete_wrong": 7,
+          "strict_correct": 1,
+          "alternative_correct": 8
+        },
+        "ALL": {
+          "n": 32,
+          "correct": 16,
+          "incomplete": 11,
+          "complete_wrong": 5,
+          "strict_correct": 13,
+          "alternative_correct": 16
+        },
+        "MASK_0": {
+          "n": 32,
+          "correct": 9,
+          "incomplete": 18,
+          "complete_wrong": 5,
+          "strict_correct": 1,
+          "alternative_correct": 9
+        },
+        "TEXT_0": {
+          "n": 32,
+          "correct": 8,
+          "incomplete": 17,
+          "complete_wrong": 7,
+          "strict_correct": 0,
+          "alternative_correct": 8
+        },
+        "MASK_1": {
+          "n": 32,
+          "correct": 9,
+          "incomplete": 19,
+          "complete_wrong": 4,
+          "strict_correct": 2,
+          "alternative_correct": 8
+        },
+        "TEXT_1": {
+          "n": 32,
+          "correct": 8,
+          "incomplete": 16,
+          "complete_wrong": 8,
+          "strict_correct": 0,
+          "alternative_correct": 8
+        },
+        "MASK_2": {
+          "n": 32,
+          "correct": 10,
+          "incomplete": 17,
+          "complete_wrong": 5,
+          "strict_correct": 2,
+          "alternative_correct": 10
+        },
+        "TEXT_2": {
+          "n": 32,
+          "correct": 8,
+          "incomplete": 15,
+          "complete_wrong": 9,
+          "strict_correct": 0,
+          "alternative_correct": 8
+        }
+      },
+      "dream": {
+        "BASE": {
+          "n": 32,
+          "correct": 15,
+          "incomplete": 4,
+          "complete_wrong": 13,
+          "strict_correct": 12,
+          "alternative_correct": 15
+        },
+        "ALL": {
+          "n": 32,
+          "correct": 21,
+          "incomplete": 1,
+          "complete_wrong": 10,
+          "strict_correct": 16,
+          "alternative_correct": 21
+        },
+        "MASK_0": {
+          "n": 32,
+          "correct": 17,
+          "incomplete": 2,
+          "complete_wrong": 13,
+          "strict_correct": 13,
+          "alternative_correct": 17
+        },
+        "TEXT_0": {
+          "n": 32,
+          "correct": 20,
+          "incomplete": 2,
+          "complete_wrong": 10,
+          "strict_correct": 14,
+          "alternative_correct": 20
+        },
+        "MASK_1": {
+          "n": 32,
+          "correct": 18,
+          "incomplete": 2,
+          "complete_wrong": 12,
+          "strict_correct": 14,
+          "alternative_correct": 18
+        },
+        "TEXT_1": {
+          "n": 32,
+          "correct": 18,
+          "incomplete": 3,
+          "complete_wrong": 11,
+          "strict_correct": 13,
+          "alternative_correct": 18
+        },
+        "MASK_2": {
+          "n": 32,
+          "correct": 19,
+          "incomplete": 2,
+          "complete_wrong": 11,
+          "strict_correct": 17,
+          "alternative_correct": 19
+        },
+        "TEXT_2": {
+          "n": 32,
+          "correct": 17,
+          "incomplete": 3,
+          "complete_wrong": 12,
+          "strict_correct": 12,
+          "alternative_correct": 17
+        }
+      }
+    },
+    "confirmation": {
+      "llada": {
+        "BASE": {
+          "n": 128,
+          "correct": 32,
+          "incomplete": 78,
+          "complete_wrong": 18,
+          "strict_correct": 4,
+          "alternative_correct": 33
+        },
+        "ALL": {
+          "n": 128,
+          "correct": 49,
+          "incomplete": 59,
+          "complete_wrong": 20,
+          "strict_correct": 30,
+          "alternative_correct": 50
+        },
+        "MASK_0": {
+          "n": 128,
+          "correct": 35,
+          "incomplete": 71,
+          "complete_wrong": 22,
+          "strict_correct": 8,
+          "alternative_correct": 36
+        },
+        "TEXT_0": {
+          "n": 128,
+          "correct": 36,
+          "incomplete": 75,
+          "complete_wrong": 17,
+          "strict_correct": 16,
+          "alternative_correct": 37
+        }
+      },
+      "dream": {
+        "BASE": {
+          "n": 128,
+          "correct": 77,
+          "incomplete": 7,
+          "complete_wrong": 44,
+          "strict_correct": 54,
+          "alternative_correct": 79
+        },
+        "ALL": {
+          "n": 128,
+          "correct": 85,
+          "incomplete": 8,
+          "complete_wrong": 35,
+          "strict_correct": 62,
+          "alternative_correct": 86
+        },
+        "MASK_0": {
+          "n": 128,
+          "correct": 74,
+          "incomplete": 6,
+          "complete_wrong": 48,
+          "strict_correct": 53,
+          "alternative_correct": 75
+        },
+        "TEXT_0": {
+          "n": 128,
+          "correct": 77,
+          "incomplete": 7,
+          "complete_wrong": 44,
+          "strict_correct": 61,
+          "alternative_correct": 78
+        }
+      }
+    }
+  },
+  "effects": {
+    "development": {
+      "llada": {
+        "ALL-BASE": {
+          "semantic_correct": {
+            "n": 32,
+            "difference": 0.25,
+            "ci95": [
+              0.0625,
+              0.4375
+            ],
+            "wins": 9,
+            "losses": 1,
+            "exact_p": 0.021484375
+          },
+          "complete": {
+            "n": 32,
+            "difference": 0.1875,
+            "ci95": [
+              0.03125,
+              0.34375
+            ],
+            "wins": 7,
+            "losses": 1,
+            "exact_p": 0.0703125
+          },
+          "strict_correct": {
+            "n": 32,
+            "difference": 0.375,
+            "ci95": [
+              0.21875,
+              0.5625
+            ],
+            "wins": 12,
+            "losses": 0,
+            "exact_p": 0.00048828125
+          },
+          "alternative_correct": {
+            "n": 32,
+            "difference": 0.25,
+            "ci95": [
+              0.0625,
+              0.4375
+            ],
+            "wins": 9,
+            "losses": 1,
+            "exact_p": 0.021484375
+          },
+          "alternative_complete": {
+            "n": 32,
+            "difference": 0.1875,
+            "ci95": [
+              0.03125,
+              0.34375
+            ],
+            "wins": 7,
+            "losses": 1,
+            "exact_p": 0.0703125
+          }
+        },
+        "MASK_0-BASE": {
+          "semantic_correct": {
+            "n": 32,
+            "difference": 0.03125,
+            "ci95": [
+              0.0,
+              0.09375
+            ],
+            "wins": 1,
+            "losses": 0,
+            "exact_p": 1.0
+          },
+          "complete": {
+            "n": 32,
+            "difference": -0.03125,
+            "ci95": [
+              -0.15625,
+              0.0625
+            ],
+            "wins": 1,
+            "losses": 2,
+            "exact_p": 1.0
+          },
+          "strict_correct": {
+            "n": 32,
+            "difference": 0.0,
+            "ci95": [
+              -0.09375,
+              0.09375
+            ],
+            "wins": 1,
+            "losses": 1,
+            "exact_p": 1.0
+          },
+          "alternative_correct": {
+            "n": 32,
+            "difference": 0.03125,
+            "ci95": [
+              0.0,
+              0.09375
+            ],
+            "wins": 1,
+            "losses": 0,
+            "exact_p": 1.0
+          },
+          "alternative_complete": {
+            "n": 32,
+            "difference": 0.03125,
+            "ci95": [
+              -0.0625,
+              0.125
+            ],
+            "wins": 2,
+            "losses": 1,
+            "exact_p": 1.0
+          }
+        },
+        "TEXT_0-BASE": {
+          "semantic_correct": {
+            "n": 32,
+            "difference": 0.0,
+            "ci95": [
+              -0.125,
+              0.125
+            ],
+            "wins": 2,
+            "losses": 2,
+            "exact_p": 1.0
+          },
+          "complete": {
+            "n": 32,
+            "difference": 0.0,
+            "ci95": [
+              -0.125,
+              0.125
+            ],
+            "wins": 2,
+            "losses": 2,
+            "exact_p": 1.0
+          },
+          "strict_correct": {
+            "n": 32,
+            "difference": -0.03125,
+            "ci95": [
+              -0.09375,
+              0.0
+            ],
+            "wins": 0,
+            "losses": 1,
+            "exact_p": 1.0
+          },
+          "alternative_correct": {
+            "n": 32,
+            "difference": 0.0,
+            "ci95": [
+              -0.125,
+              0.125
+            ],
+            "wins": 2,
+            "losses": 2,
+            "exact_p": 1.0
+          },
+          "alternative_complete": {
+            "n": 32,
+            "difference": 0.03125,
+            "ci95": [
+              -0.09375,
+              0.15625
+            ],
+            "wins": 3,
+            "losses": 2,
+            "exact_p": 1.0
+          }
+        },
+        "MASK_1-BASE": {
+          "semantic_correct": {
+            "n": 32,
+            "difference": 0.03125,
+            "ci95": [
+              0.0,
+              0.09375
+            ],
+            "wins": 1,
+            "losses": 0,
+            "exact_p": 1.0
+          },
+          "complete": {
+            "n": 32,
+            "difference": -0.0625,
+            "ci95": [
+              -0.1875,
+              0.0625
+            ],
+            "wins": 1,
+            "losses": 3,
+            "exact_p": 0.625
+          },
+          "strict_correct": {
+            "n": 32,
+            "difference": 0.03125,
+            "ci95": [
+              0.0,
+              0.09375
+            ],
+            "wins": 1,
+            "losses": 0,
+            "exact_p": 1.0
+          },
+          "alternative_correct": {
+            "n": 32,
+            "difference": 0.0,
+            "ci95": [
+              0.0,
+              0.0
+            ],
+            "wins": 0,
+            "losses": 0,
+            "exact_p": 1.0
+          },
+          "alternative_complete": {
+            "n": 32,
+            "difference": 0.0,
+            "ci95": [
+              -0.125,
+              0.125
+            ],
+            "wins": 2,
+            "losses": 2,
+            "exact_p": 1.0
+          }
+        },
+        "TEXT_1-BASE": {
+          "semantic_correct": {
+            "n": 32,
+            "difference": 0.0,
+            "ci95": [
+              -0.125,
+              0.125
+            ],
+            "wins": 2,
+            "losses": 2,
+            "exact_p": 1.0
+          },
+          "complete": {
+            "n": 32,
+            "difference": 0.03125,
+            "ci95": [
+              -0.0625,
+              0.125
+            ],
+            "wins": 2,
+            "losses": 1,
+            "exact_p": 1.0
+          },
+          "strict_correct": {
+            "n": 32,
+            "difference": -0.03125,
+            "ci95": [
+              -0.09375,
+              0.0
+            ],
+            "wins": 0,
+            "losses": 1,
+            "exact_p": 1.0
+          },
+          "alternative_correct": {
+            "n": 32,
+            "difference": 0.0,
+            "ci95": [
+              -0.125,
+              0.125
+            ],
+            "wins": 2,
+            "losses": 2,
+            "exact_p": 1.0
+          },
+          "alternative_complete": {
+            "n": 32,
+            "difference": 0.03125,
+            "ci95": [
+              -0.0625,
+              0.125
+            ],
+            "wins": 2,
+            "losses": 1,
+            "exact_p": 1.0
+          }
+        },
+        "MASK_2-BASE": {
+          "semantic_correct": {
+            "n": 32,
+            "difference": 0.0625,
+            "ci95": [
+              -0.0625,
+              0.1875
+            ],
+            "wins": 3,
+            "losses": 1,
+            "exact_p": 0.625
+          },
+          "complete": {
+            "n": 32,
+            "difference": 0.0,
+            "ci95": [
+              -0.125,
+              0.125
+            ],
+            "wins": 2,
+            "losses": 2,
+            "exact_p": 1.0
+          },
+          "strict_correct": {
+            "n": 32,
+            "difference": 0.03125,
+            "ci95": [
+              0.0,
+              0.09375
+            ],
+            "wins": 1,
+            "losses": 0,
+            "exact_p": 1.0
+          },
+          "alternative_correct": {
+            "n": 32,
+            "difference": 0.0625,
+            "ci95": [
+              -0.0625,
+              0.1875
+            ],
+            "wins": 3,
+            "losses": 1,
+            "exact_p": 0.625
+          },
+          "alternative_complete": {
+            "n": 32,
+            "difference": 0.03125,
+            "ci95": [
+              -0.09375,
+              0.15625
+            ],
+            "wins": 3,
+            "losses": 2,
+            "exact_p": 1.0
+          }
+        },
+        "TEXT_2-BASE": {
+          "semantic_correct": {
+            "n": 32,
+            "difference": 0.0,
+            "ci95": [
+              -0.125,
+              0.125
+            ],
+            "wins": 2,
+            "losses": 2,
+            "exact_p": 1.0
+          },
+          "complete": {
+            "n": 32,
+            "difference": 0.0625,
+            "ci95": [
+              -0.0625,
+              0.1875
+            ],
+            "wins": 3,
+            "losses": 1,
+            "exact_p": 0.625
+          },
+          "strict_correct": {
+            "n": 32,
+            "difference": -0.03125,
+            "ci95": [
+              -0.09375,
+              0.0
+            ],
+            "wins": 0,
+            "losses": 1,
+            "exact_p": 1.0
+          },
+          "alternative_correct": {
+            "n": 32,
+            "difference": 0.0,
+            "ci95": [
+              -0.125,
+              0.125
+            ],
+            "wins": 2,
+            "losses": 2,
+            "exact_p": 1.0
+          },
+          "alternative_complete": {
+            "n": 32,
+            "difference": 0.0625,
+            "ci95": [
+              -0.0625,
+              0.1875
+            ],
+            "wins": 3,
+            "losses": 1,
+            "exact_p": 0.625
+          }
+        },
+        "MASK_0-TEXT_0": {
+          "semantic_correct": {
+            "n": 32,
+            "difference": 0.03125,
+            "ci95": [
+              -0.09375,
+              0.15625
+            ],
+            "wins": 3,
+            "losses": 2,
+            "exact_p": 1.0
+          },
+          "complete": {
+            "n": 32,
+            "difference": -0.03125,
+            "ci95": [
+              -0.15625,
+              0.09375
+            ],
+            "wins": 2,
+            "losses": 3,
+            "exact_p": 1.0
+          },
+          "strict_correct": {
+            "n": 32,
+            "difference": 0.03125,
+            "ci95": [
+              0.0,
+              0.09375
+            ],
+            "wins": 1,
+            "losses": 0,
+            "exact_p": 1.0
+          },
+          "alternative_correct": {
+            "n": 32,
+            "difference": 0.03125,
+            "ci95": [
+              -0.09375,
+              0.15625
+            ],
+            "wins": 3,
+            "losses": 2,
+            "exact_p": 1.0
+          },
+          "alternative_complete": {
+            "n": 32,
+            "difference": 0.0,
+            "ci95": [
+              -0.125,
+              0.125
+            ],
+            "wins": 2,
+            "losses": 2,
+            "exact_p": 1.0
+          }
+        },
+        "MASK_1-TEXT_1": {
+          "semantic_correct": {
+            "n": 32,
+            "difference": 0.03125,
+            "ci95": [
+              -0.09375,
+              0.15625
+            ],
+            "wins": 3,
+            "losses": 2,
+            "exact_p": 1.0
+          },
+          "complete": {
+            "n": 32,
+            "difference": -0.09375,
+            "ci95": [
+              -0.25,
+              0.0625
+            ],
+            "wins": 2,
+            "losses": 5,
+            "exact_p": 0.453125
+          },
+          "strict_correct": {
+            "n": 32,
+            "difference": 0.0625,
+            "ci95": [
+              0.0,
+              0.15625
+            ],
+            "wins": 2,
+            "losses": 0,
+            "exact_p": 0.5
+          },
+          "alternative_correct": {
+            "n": 32,
+            "difference": 0.0,
+            "ci95": [
+              -0.125,
+              0.125
+            ],
+            "wins": 2,
+            "losses": 2,
+            "exact_p": 1.0
+          },
+          "alternative_complete": {
+            "n": 32,
+            "difference": -0.03125,
+            "ci95": [
+              -0.15625,
+              0.09375
+            ],
+            "wins": 2,
+            "losses": 3,
+            "exact_p": 1.0
+          }
+        },
+        "MASK_2-TEXT_2": {
+          "semantic_correct": {
+            "n": 32,
+            "difference": 0.0625,
+            "ci95": [
+              -0.125,
+              0.21875
+            ],
+            "wins": 5,
+            "losses": 3,
+            "exact_p": 0.7265625
+          },
+          "complete": {
+            "n": 32,
+            "difference": -0.0625,
+            "ci95": [
+              -0.21875,
+              0.09375
+            ],
+            "wins": 2,
+            "losses": 4,
+            "exact_p": 0.6875
+          },
+          "strict_correct": {
+            "n": 32,
+            "difference": 0.0625,
+            "ci95": [
+              0.0,
+              0.15625
+            ],
+            "wins": 2,
+            "losses": 0,
+            "exact_p": 0.5
+          },
+          "alternative_correct": {
+            "n": 32,
+            "difference": 0.0625,
+            "ci95": [
+              -0.125,
+              0.21875
+            ],
+            "wins": 5,
+            "losses": 3,
+            "exact_p": 0.7265625
+          },
+          "alternative_complete": {
+            "n": 32,
+            "difference": -0.03125,
+            "ci95": [
+              -0.15625,
+              0.09375
+            ],
+            "wins": 2,
+            "losses": 3,
+            "exact_p": 1.0
+          }
+        }
+      },
+      "dream": {
+        "ALL-BASE": {
+          "semantic_correct": {
+            "n": 32,
+            "difference": 0.1875,
+            "ci95": [
+              0.03125,
+              0.34375
+            ],
+            "wins": 7,
+            "losses": 1,
+            "exact_p": 0.0703125
+          },
+          "complete": {
+            "n": 32,
+            "difference": 0.09375,
+            "ci95": [
+              0.0,
+              0.1875
+            ],
+            "wins": 3,
+            "losses": 0,
+            "exact_p": 0.25
+          },
+          "strict_correct": {
+            "n": 32,
+            "difference": 0.125,
+            "ci95": [
+              -0.09375,
+              0.34375
+            ],
+            "wins": 8,
+            "losses": 4,
+            "exact_p": 0.3876953125
+          },
+          "alternative_correct": {
+            "n": 32,
+            "difference": 0.1875,
+            "ci95": [
+              0.03125,
+              0.34375
+            ],
+            "wins": 7,
+            "losses": 1,
+            "exact_p": 0.0703125
+          },
+          "alternative_complete": {
+            "n": 32,
+            "difference": 0.09375,
+            "ci95": [
+              0.0,
+              0.1875
+            ],
+            "wins": 3,
+            "losses": 0,
+            "exact_p": 0.25
+          }
+        },
+        "MASK_0-BASE": {
+          "semantic_correct": {
+            "n": 32,
+            "difference": 0.0625,
+            "ci95": [
+              -0.0625,
+              0.1875
+            ],
+            "wins": 3,
+            "losses": 1,
+            "exact_p": 0.625
+          },
+          "complete": {
+            "n": 32,
+            "difference": 0.0625,
+            "ci95": [
+              0.0,
+              0.15625
+            ],
+            "wins": 2,
+            "losses": 0,
+            "exact_p": 0.5
+          },
+          "strict_correct": {
+            "n": 32,
+            "difference": 0.03125,
+            "ci95": [
+              -0.09375,
+              0.15625
+            ],
+            "wins": 3,
+            "losses": 2,
+            "exact_p": 1.0
+          },
+          "alternative_correct": {
+            "n": 32,
+            "difference": 0.0625,
+            "ci95": [
+              -0.0625,
+              0.1875
+            ],
+            "wins": 3,
+            "losses": 1,
+            "exact_p": 0.625
+          },
+          "alternative_complete": {
+            "n": 32,
+            "difference": 0.0625,
+            "ci95": [
+              0.0,
+              0.15625
+            ],
+            "wins": 2,
+            "losses": 0,
+            "exact_p": 0.5
+          }
+        },
+        "TEXT_0-BASE": {
+          "semantic_correct": {
+            "n": 32,
+            "difference": 0.15625,
+            "ci95": [
+              0.03125,
+              0.28125
+            ],
+            "wins": 5,
+            "losses": 0,
+            "exact_p": 0.0625
+          },
+          "complete": {
+            "n": 32,
+            "difference": 0.0625,
+            "ci95": [
+              0.0,
+              0.15625
+            ],
+            "wins": 2,
+            "losses": 0,
+            "exact_p": 0.5
+          },
+          "strict_correct": {
+            "n": 32,
+            "difference": 0.0625,
+            "ci95": [
+              -0.125,
+              0.25
+            ],
+            "wins": 6,
+            "losses": 4,
+            "exact_p": 0.75390625
+          },
+          "alternative_correct": {
+            "n": 32,
+            "difference": 0.15625,
+            "ci95": [
+              0.03125,
+              0.28125
+            ],
+            "wins": 5,
+            "losses": 0,
+            "exact_p": 0.0625
+          },
+          "alternative_complete": {
+            "n": 32,
+            "difference": 0.0625,
+            "ci95": [
+              0.0,
+              0.15625
+            ],
+            "wins": 2,
+            "losses": 0,
+            "exact_p": 0.5
+          }
+        },
+        "MASK_1-BASE": {
+          "semantic_correct": {
+            "n": 32,
+            "difference": 0.09375,
+            "ci95": [
+              0.0,
+              0.21875
+            ],
+            "wins": 3,
+            "losses": 0,
+            "exact_p": 0.25
+          },
+          "complete": {
+            "n": 32,
+            "difference": 0.0625,
+            "ci95": [
+              -0.0625,
+              0.1875
+            ],
+            "wins": 3,
+            "losses": 1,
+            "exact_p": 0.625
+          },
+          "strict_correct": {
+            "n": 32,
+            "difference": 0.0625,
+            "ci95": [
+              -0.0625,
+              0.1875
+            ],
+            "wins": 3,
+            "losses": 1,
+            "exact_p": 0.625
+          },
+          "alternative_correct": {
+            "n": 32,
+            "difference": 0.09375,
+            "ci95": [
+              0.0,
+              0.21875
+            ],
+            "wins": 3,
+            "losses": 0,
+            "exact_p": 0.25
+          },
+          "alternative_complete": {
+            "n": 32,
+            "difference": 0.0625,
+            "ci95": [
+              -0.0625,
+              0.1875
+            ],
+            "wins": 3,
+            "losses": 1,
+            "exact_p": 0.625
+          }
+        },
+        "TEXT_1-BASE": {
+          "semantic_correct": {
+            "n": 32,
+            "difference": 0.09375,
+            "ci95": [
+              0.0,
+              0.1875
+            ],
+            "wins": 3,
+            "losses": 0,
+            "exact_p": 0.25
+          },
+          "complete": {
+            "n": 32,
+            "difference": 0.03125,
+            "ci95": [
+              0.0,
+              0.09375
+            ],
+            "wins": 1,
+            "losses": 0,
+            "exact_p": 1.0
+          },
+          "strict_correct": {
+            "n": 32,
+            "difference": 0.03125,
+            "ci95": [
+              -0.09375,
+              0.15625
+            ],
+            "wins": 3,
+            "losses": 2,
+            "exact_p": 1.0
+          },
+          "alternative_correct": {
+            "n": 32,
+            "difference": 0.09375,
+            "ci95": [
+              0.0,
+              0.1875
+            ],
+            "wins": 3,
+            "losses": 0,
+            "exact_p": 0.25
+          },
+          "alternative_complete": {
+            "n": 32,
+            "difference": 0.03125,
+            "ci95": [
+              0.0,
+              0.09375
+            ],
+            "wins": 1,
+            "losses": 0,
+            "exact_p": 1.0
+          }
+        },
+        "MASK_2-BASE": {
+          "semantic_correct": {
+            "n": 32,
+            "difference": 0.125,
+            "ci95": [
+              0.03125,
+              0.25
+            ],
+            "wins": 4,
+            "losses": 0,
+            "exact_p": 0.125
+          },
+          "complete": {
+            "n": 32,
+            "difference": 0.0625,
+            "ci95": [
+              0.0,
+              0.15625
+            ],
+            "wins": 2,
+            "losses": 0,
+            "exact_p": 0.5
+          },
+          "strict_correct": {
+            "n": 32,
+            "difference": 0.15625,
+            "ci95": [
+              0.03125,
+              0.28125
+            ],
+            "wins": 5,
+            "losses": 0,
+            "exact_p": 0.0625
+          },
+          "alternative_correct": {
+            "n": 32,
+            "difference": 0.125,
+            "ci95": [
+              0.03125,
+              0.25
+            ],
+            "wins": 4,
+            "losses": 0,
+            "exact_p": 0.125
+          },
+          "alternative_complete": {
+            "n": 32,
+            "difference": 0.0625,
+            "ci95": [
+              0.0,
+              0.15625
+            ],
+            "wins": 2,
+            "losses": 0,
+            "exact_p": 0.5
+          }
+        },
+        "TEXT_2-BASE": {
+          "semantic_correct": {
+            "n": 32,
+            "difference": 0.0625,
+            "ci95": [
+              -0.0625,
+              0.1875
+            ],
+            "wins": 3,
+            "losses": 1,
+            "exact_p": 0.625
+          },
+          "complete": {
+            "n": 32,
+            "difference": 0.03125,
+            "ci95": [
+              0.0,
+              0.09375
+            ],
+            "wins": 1,
+            "losses": 0,
+            "exact_p": 1.0
+          },
+          "strict_correct": {
+            "n": 32,
+            "difference": 0.0,
+            "ci95": [
+              -0.1875,
+              0.1875
+            ],
+            "wins": 4,
+            "losses": 4,
+            "exact_p": 1.0
+          },
+          "alternative_correct": {
+            "n": 32,
+            "difference": 0.0625,
+            "ci95": [
+              -0.0625,
+              0.1875
+            ],
+            "wins": 3,
+            "losses": 1,
+            "exact_p": 0.625
+          },
+          "alternative_complete": {
+            "n": 32,
+            "difference": 0.03125,
+            "ci95": [
+              0.0,
+              0.09375
+            ],
+            "wins": 1,
+            "losses": 0,
+            "exact_p": 1.0
+          }
+        },
+        "MASK_0-TEXT_0": {
+          "semantic_correct": {
+            "n": 32,
+            "difference": -0.09375,
+            "ci95": [
+              -0.25,
+              0.0625
+            ],
+            "wins": 2,
+            "losses": 5,
+            "exact_p": 0.453125
+          },
+          "complete": {
+            "n": 32,
+            "difference": 0.0,
+            "ci95": [
+              -0.09375,
+              0.09375
+            ],
+            "wins": 1,
+            "losses": 1,
+            "exact_p": 1.0
+          },
+          "strict_correct": {
+            "n": 32,
+            "difference": -0.03125,
+            "ci95": [
+              -0.25,
+              0.1875
+            ],
+            "wins": 6,
+            "losses": 7,
+            "exact_p": 1.0
+          },
+          "alternative_correct": {
+            "n": 32,
+            "difference": -0.09375,
+            "ci95": [
+              -0.25,
+              0.0625
+            ],
+            "wins": 2,
+            "losses": 5,
+            "exact_p": 0.453125
+          },
+          "alternative_complete": {
+            "n": 32,
+            "difference": 0.0,
+            "ci95": [
+              -0.09375,
+              0.09375
+            ],
+            "wins": 1,
+            "losses": 1,
+            "exact_p": 1.0
+          }
+        },
+        "MASK_1-TEXT_1": {
+          "semantic_correct": {
+            "n": 32,
+            "difference": 0.0,
+            "ci95": [
+              -0.125,
+              0.125
+            ],
+            "wins": 2,
+            "losses": 2,
+            "exact_p": 1.0
+          },
+          "complete": {
+            "n": 32,
+            "difference": 0.03125,
+            "ci95": [
+              -0.0625,
+              0.15625
+            ],
+            "wins": 2,
+            "losses": 1,
+            "exact_p": 1.0
+          },
+          "strict_correct": {
+            "n": 32,
+            "difference": 0.03125,
+            "ci95": [
+              -0.125,
+              0.1875
+            ],
+            "wins": 4,
+            "losses": 3,
+            "exact_p": 1.0
+          },
+          "alternative_correct": {
+            "n": 32,
+            "difference": 0.0,
+            "ci95": [
+              -0.125,
+              0.125
+            ],
+            "wins": 2,
+            "losses": 2,
+            "exact_p": 1.0
+          },
+          "alternative_complete": {
+            "n": 32,
+            "difference": 0.03125,
+            "ci95": [
+              -0.0625,
+              0.15625
+            ],
+            "wins": 2,
+            "losses": 1,
+            "exact_p": 1.0
+          }
+        },
+        "MASK_2-TEXT_2": {
+          "semantic_correct": {
+            "n": 32,
+            "difference": 0.0625,
+            "ci95": [
+              -0.09375,
+              0.21875
+            ],
+            "wins": 4,
+            "losses": 2,
+            "exact_p": 0.6875
+          },
+          "complete": {
+            "n": 32,
+            "difference": 0.03125,
+            "ci95": [
+              0.0,
+              0.09375
+            ],
+            "wins": 1,
+            "losses": 0,
+            "exact_p": 1.0
+          },
+          "strict_correct": {
+            "n": 32,
+            "difference": 0.15625,
+            "ci95": [
+              -0.03125,
+              0.34375
+            ],
+            "wins": 8,
+            "losses": 3,
+            "exact_p": 0.2265625
+          },
+          "alternative_correct": {
+            "n": 32,
+            "difference": 0.0625,
+            "ci95": [
+              -0.09375,
+              0.21875
+            ],
+            "wins": 4,
+            "losses": 2,
+            "exact_p": 0.6875
+          },
+          "alternative_complete": {
+            "n": 32,
+            "difference": 0.03125,
+            "ci95": [
+              0.0,
+              0.09375
+            ],
+            "wins": 1,
+            "losses": 0,
+            "exact_p": 1.0
+          }
+        }
+      }
+    },
+    "confirmation": {
+      "llada": {
+        "ALL-BASE": {
+          "semantic_correct": {
+            "n": 128,
+            "difference": 0.1328125,
+            "ci95": [
+              0.046875,
+              0.21875
+            ],
+            "wins": 25,
+            "losses": 8,
+            "exact_p": 0.004551384132355452
+          },
+          "complete": {
+            "n": 128,
+            "difference": 0.1484375,
+            "ci95": [
+              0.0546875,
+              0.2421875
+            ],
+            "wins": 29,
+            "losses": 10,
+            "exact_p": 0.0033778479119064286
+          },
+          "strict_correct": {
+            "n": 128,
+            "difference": 0.203125,
+            "ci95": [
+              0.125,
+              0.28125
+            ],
+            "wins": 29,
+            "losses": 3,
+            "exact_p": 2.5560148060321808e-06
+          },
+          "alternative_correct": {
+            "n": 128,
+            "difference": 0.1328125,
+            "ci95": [
+              0.046875,
+              0.21875
+            ],
+            "wins": 25,
+            "losses": 8,
+            "exact_p": 0.004551384132355452
+          },
+          "alternative_complete": {
+            "n": 128,
+            "difference": 0.140625,
+            "ci95": [
+              0.046875,
+              0.2265625
+            ],
+            "wins": 28,
+            "losses": 10,
+            "exact_p": 0.0050976432976312935
+          }
+        },
+        "MASK_0-BASE": {
+          "semantic_correct": {
+            "n": 128,
+            "difference": 0.0234375,
+            "ci95": [
+              -0.03125,
+              0.0859375
+            ],
+            "wins": 9,
+            "losses": 6,
+            "exact_p": 0.6072387695312499,
+            "holm_p": 1.0
+          },
+          "complete": {
+            "n": 128,
+            "difference": 0.0546875,
+            "ci95": [
+              -0.015625,
+              0.125
+            ],
+            "wins": 14,
+            "losses": 7,
+            "exact_p": 0.18924713134765625,
+            "holm_p": 0.756988525390625
+          },
+          "strict_correct": {
+            "n": 128,
+            "difference": 0.03125,
+            "ci95": [
+              -0.0078125,
+              0.078125
+            ],
+            "wins": 6,
+            "losses": 2,
+            "exact_p": 0.2890625,
+            "holm_p": 0.578125
+          },
+          "alternative_correct": {
+            "n": 128,
+            "difference": 0.0234375,
+            "ci95": [
+              -0.03125,
+              0.078125
+            ],
+            "wins": 8,
+            "losses": 5,
+            "exact_p": 0.5810546875,
+            "holm_p": 1.0
+          },
+          "alternative_complete": {
+            "n": 128,
+            "difference": 0.046875,
+            "ci95": [
+              -0.0234375,
+              0.1171875
+            ],
+            "wins": 13,
+            "losses": 7,
+            "exact_p": 0.26317596435546875,
+            "holm_p": 1.0
+          }
+        },
+        "TEXT_0-BASE": {
+          "semantic_correct": {
+            "n": 128,
+            "difference": 0.03125,
+            "ci95": [
+              -0.0390625,
+              0.1015625
+            ],
+            "wins": 13,
+            "losses": 9,
+            "exact_p": 0.5234670639038086
+          },
+          "complete": {
+            "n": 128,
+            "difference": 0.0234375,
+            "ci95": [
+              -0.046875,
+              0.09375
+            ],
+            "wins": 13,
+            "losses": 10,
+            "exact_p": 0.6776394844055176
+          },
+          "strict_correct": {
+            "n": 128,
+            "difference": 0.09375,
+            "ci95": [
+              0.03125,
+              0.15625
+            ],
+            "wins": 15,
+            "losses": 3,
+            "exact_p": 0.007537841796875
+          },
+          "alternative_correct": {
+            "n": 128,
+            "difference": 0.03125,
+            "ci95": [
+              -0.0390625,
+              0.1015625
+            ],
+            "wins": 12,
+            "losses": 8,
+            "exact_p": 0.5034446716308594
+          },
+          "alternative_complete": {
+            "n": 128,
+            "difference": 0.015625,
+            "ci95": [
+              -0.0546875,
+              0.0859375
+            ],
+            "wins": 12,
+            "losses": 10,
+            "exact_p": 0.8318119049072266
+          }
+        },
+        "MASK_0-TEXT_0": {
+          "semantic_correct": {
+            "n": 128,
+            "difference": -0.0078125,
+            "ci95": [
+              -0.0859375,
+              0.0703125
+            ],
+            "wins": 13,
+            "losses": 14,
+            "exact_p": 1.0,
+            "holm_p": 1.0
+          },
+          "complete": {
+            "n": 128,
+            "difference": 0.03125,
+            "ci95": [
+              -0.046875,
+              0.1171875
+            ],
+            "wins": 17,
+            "losses": 13,
+            "exact_p": 0.5846647117286922,
+            "holm_p": 1.0
+          },
+          "strict_correct": {
+            "n": 128,
+            "difference": -0.0625,
+            "ci95": [
+              -0.1328125,
+              0.0078125
+            ],
+            "wins": 7,
+            "losses": 15,
+            "exact_p": 0.13380050659179688,
+            "holm_p": 0.5352020263671875
+          },
+          "alternative_correct": {
+            "n": 128,
+            "difference": -0.0078125,
+            "ci95": [
+              -0.0859375,
+              0.0703125
+            ],
+            "wins": 13,
+            "losses": 14,
+            "exact_p": 1.0,
+            "holm_p": 1.0
+          },
+          "alternative_complete": {
+            "n": 128,
+            "difference": 0.03125,
+            "ci95": [
+              -0.046875,
+              0.1171875
+            ],
+            "wins": 17,
+            "losses": 13,
+            "exact_p": 0.5846647117286922,
+            "holm_p": 1.0
+          }
+        }
+      },
+      "dream": {
+        "ALL-BASE": {
+          "semantic_correct": {
+            "n": 128,
+            "difference": 0.0625,
+            "ci95": [
+              -0.015625,
+              0.140625
+            ],
+            "wins": 17,
+            "losses": 9,
+            "exact_p": 0.16863754391670227
+          },
+          "complete": {
+            "n": 128,
+            "difference": -0.0078125,
+            "ci95": [
+              -0.046875,
+              0.03125
+            ],
+            "wins": 3,
+            "losses": 4,
+            "exact_p": 1.0
+          },
+          "strict_correct": {
+            "n": 128,
+            "difference": 0.0625,
+            "ci95": [
+              -0.03125,
+              0.15625
+            ],
+            "wins": 22,
+            "losses": 14,
+            "exact_p": 0.24298495403490966
+          },
+          "alternative_correct": {
+            "n": 128,
+            "difference": 0.0546875,
+            "ci95": [
+              -0.03125,
+              0.1328125
+            ],
+            "wins": 18,
+            "losses": 11,
+            "exact_p": 0.26493089646101
+          },
+          "alternative_complete": {
+            "n": 128,
+            "difference": 0.0,
+            "ci95": [
+              -0.03125,
+              0.03125
+            ],
+            "wins": 2,
+            "losses": 2,
+            "exact_p": 1.0
+          }
+        },
+        "MASK_0-BASE": {
+          "semantic_correct": {
+            "n": 128,
+            "difference": -0.0234375,
+            "ci95": [
+              -0.078125,
+              0.03125
+            ],
+            "wins": 5,
+            "losses": 8,
+            "exact_p": 0.5810546875,
+            "holm_p": 1.0
+          },
+          "complete": {
+            "n": 128,
+            "difference": 0.0078125,
+            "ci95": [
+              -0.015625,
+              0.03125
+            ],
+            "wins": 2,
+            "losses": 1,
+            "exact_p": 1.0,
+            "holm_p": 1.0
+          },
+          "strict_correct": {
+            "n": 128,
+            "difference": -0.0078125,
+            "ci95": [
+              -0.0703125,
+              0.0546875
+            ],
+            "wins": 7,
+            "losses": 8,
+            "exact_p": 1.0,
+            "holm_p": 1.0
+          },
+          "alternative_correct": {
+            "n": 128,
+            "difference": -0.03125,
+            "ci95": [
+              -0.0859375,
+              0.0234375
+            ],
+            "wins": 5,
+            "losses": 9,
+            "exact_p": 0.4239501953125,
+            "holm_p": 1.0
+          },
+          "alternative_complete": {
+            "n": 128,
+            "difference": -0.0078125,
+            "ci95": [
+              -0.0234375,
+              0.0
+            ],
+            "wins": 0,
+            "losses": 1,
+            "exact_p": 1.0,
+            "holm_p": 1.0
+          }
+        },
+        "TEXT_0-BASE": {
+          "semantic_correct": {
+            "n": 128,
+            "difference": 0.0,
+            "ci95": [
+              -0.0703125,
+              0.0703125
+            ],
+            "wins": 11,
+            "losses": 11,
+            "exact_p": 1.0
+          },
+          "complete": {
+            "n": 128,
+            "difference": 0.0,
+            "ci95": [
+              -0.0390625,
+              0.0390625
+            ],
+            "wins": 3,
+            "losses": 3,
+            "exact_p": 1.0
+          },
+          "strict_correct": {
+            "n": 128,
+            "difference": 0.0546875,
+            "ci95": [
+              -0.0234375,
+              0.1328125
+            ],
+            "wins": 16,
+            "losses": 9,
+            "exact_p": 0.2295229434967041
+          },
+          "alternative_correct": {
+            "n": 128,
+            "difference": -0.0078125,
+            "ci95": [
+              -0.078125,
+              0.0625
+            ],
+            "wins": 11,
+            "losses": 12,
+            "exact_p": 1.0
+          },
+          "alternative_complete": {
+            "n": 128,
+            "difference": -0.0078125,
+            "ci95": [
+              -0.046875,
+              0.0234375
+            ],
+            "wins": 2,
+            "losses": 3,
+            "exact_p": 1.0
+          }
+        },
+        "MASK_0-TEXT_0": {
+          "semantic_correct": {
+            "n": 128,
+            "difference": -0.0234375,
+            "ci95": [
+              -0.1015625,
+              0.0546875
+            ],
+            "wins": 12,
+            "losses": 15,
+            "exact_p": 0.7011080384254456,
+            "holm_p": 1.0
+          },
+          "complete": {
+            "n": 128,
+            "difference": 0.0078125,
+            "ci95": [
+              -0.03125,
+              0.046875
+            ],
+            "wins": 4,
+            "losses": 3,
+            "exact_p": 1.0,
+            "holm_p": 1.0
+          },
+          "strict_correct": {
+            "n": 128,
+            "difference": -0.0625,
+            "ci95": [
+              -0.140625,
+              0.015625
+            ],
+            "wins": 9,
+            "losses": 17,
+            "exact_p": 0.16863754391670227,
+            "holm_p": 0.5352020263671875
+          },
+          "alternative_correct": {
+            "n": 128,
+            "difference": -0.0234375,
+            "ci95": [
+              -0.1015625,
+              0.0546875
+            ],
+            "wins": 12,
+            "losses": 15,
+            "exact_p": 0.7011080384254456,
+            "holm_p": 1.0
+          },
+          "alternative_complete": {
+            "n": 128,
+            "difference": 0.0,
+            "ci95": [
+              -0.0390625,
+              0.0390625
+            ],
+            "wins": 3,
+            "losses": 3,
+            "exact_p": 1.0,
+            "holm_p": 1.0
+          }
+        }
+      }
+    }
+  },
+  "primary": {
+    "llada:MASK_0-BASE": {
+      "n": 128,
+      "difference": 0.0234375,
+      "ci95": [
+        -0.03125,
+        0.0859375
+      ],
+      "wins": 9,
+      "losses": 6,
+      "exact_p": 0.6072387695312499,
+      "holm_p": 1.0
+    },
+    "llada:MASK_0-TEXT_0": {
+      "n": 128,
+      "difference": -0.0078125,
+      "ci95": [
+        -0.0859375,
+        0.0703125
+      ],
+      "wins": 13,
+      "losses": 14,
+      "exact_p": 1.0,
+      "holm_p": 1.0
+    },
+    "dream:MASK_0-BASE": {
+      "n": 128,
+      "difference": -0.0234375,
+      "ci95": [
+        -0.078125,
+        0.03125
+      ],
+      "wins": 5,
+      "losses": 8,
+      "exact_p": 0.5810546875,
+      "holm_p": 1.0
+    },
+    "dream:MASK_0-TEXT_0": {
+      "n": 128,
+      "difference": -0.0234375,
+      "ci95": [
+        -0.1015625,
+        0.0546875
+      ],
+      "wins": 12,
+      "losses": 15,
+      "exact_p": 0.7011080384254456,
+      "holm_p": 1.0
+    }
+  },
+  "sensitivity": {
+    "semantic_correct": {
+      "llada:MASK_0-BASE": {
+        "n": 128,
+        "difference": 0.0234375,
+        "ci95": [
+          -0.03125,
+          0.0859375
+        ],
+        "wins": 9,
+        "losses": 6,
+        "exact_p": 0.6072387695312499,
+        "holm_p": 1.0
+      },
+      "llada:MASK_0-TEXT_0": {
+        "n": 128,
+        "difference": -0.0078125,
+        "ci95": [
+          -0.0859375,
+          0.0703125
+        ],
+        "wins": 13,
+        "losses": 14,
+        "exact_p": 1.0,
+        "holm_p": 1.0
+      },
+      "dream:MASK_0-BASE": {
+        "n": 128,
+        "difference": -0.0234375,
+        "ci95": [
+          -0.078125,
+          0.03125
+        ],
+        "wins": 5,
+        "losses": 8,
+        "exact_p": 0.5810546875,
+        "holm_p": 1.0
+      },
+      "dream:MASK_0-TEXT_0": {
+        "n": 128,
+        "difference": -0.0234375,
+        "ci95": [
+          -0.1015625,
+          0.0546875
+        ],
+        "wins": 12,
+        "losses": 15,
+        "exact_p": 0.7011080384254456,
+        "holm_p": 1.0
+      }
+    },
+    "complete": {
+      "llada:MASK_0-BASE": {
+        "n": 128,
+        "difference": 0.0546875,
+        "ci95": [
+          -0.015625,
+          0.125
+        ],
+        "wins": 14,
+        "losses": 7,
+        "exact_p": 0.18924713134765625,
+        "holm_p": 0.756988525390625
+      },
+      "llada:MASK_0-TEXT_0": {
+        "n": 128,
+        "difference": 0.03125,
+        "ci95": [
+          -0.046875,
+          0.1171875
+        ],
+        "wins": 17,
+        "losses": 13,
+        "exact_p": 0.5846647117286922,
+        "holm_p": 1.0
+      },
+      "dream:MASK_0-BASE": {
+        "n": 128,
+        "difference": 0.0078125,
+        "ci95": [
+          -0.015625,
+          0.03125
+        ],
+        "wins": 2,
+        "losses": 1,
+        "exact_p": 1.0,
+        "holm_p": 1.0
+      },
+      "dream:MASK_0-TEXT_0": {
+        "n": 128,
+        "difference": 0.0078125,
+        "ci95": [
+          -0.03125,
+          0.046875
+        ],
+        "wins": 4,
+        "losses": 3,
+        "exact_p": 1.0,
+        "holm_p": 1.0
+      }
+    },
+    "strict_correct": {
+      "llada:MASK_0-BASE": {
+        "n": 128,
+        "difference": 0.03125,
+        "ci95": [
+          -0.0078125,
+          0.078125
+        ],
+        "wins": 6,
+        "losses": 2,
+        "exact_p": 0.2890625,
+        "holm_p": 0.578125
+      },
+      "llada:MASK_0-TEXT_0": {
+        "n": 128,
+        "difference": -0.0625,
+        "ci95": [
+          -0.1328125,
+          0.0078125
+        ],
+        "wins": 7,
+        "losses": 15,
+        "exact_p": 0.13380050659179688,
+        "holm_p": 0.5352020263671875
+      },
+      "dream:MASK_0-BASE": {
+        "n": 128,
+        "difference": -0.0078125,
+        "ci95": [
+          -0.0703125,
+          0.0546875
+        ],
+        "wins": 7,
+        "losses": 8,
+        "exact_p": 1.0,
+        "holm_p": 1.0
+      },
+      "dream:MASK_0-TEXT_0": {
+        "n": 128,
+        "difference": -0.0625,
+        "ci95": [
+          -0.140625,
+          0.015625
+        ],
+        "wins": 9,
+        "losses": 17,
+        "exact_p": 0.16863754391670227,
+        "holm_p": 0.5352020263671875
+      }
+    },
+    "alternative_correct": {
+      "llada:MASK_0-BASE": {
+        "n": 128,
+        "difference": 0.0234375,
+        "ci95": [
+          -0.03125,
+          0.078125
+        ],
+        "wins": 8,
+        "losses": 5,
+        "exact_p": 0.5810546875,
+        "holm_p": 1.0
+      },
+      "llada:MASK_0-TEXT_0": {
+        "n": 128,
+        "difference": -0.0078125,
+        "ci95": [
+          -0.0859375,
+          0.0703125
+        ],
+        "wins": 13,
+        "losses": 14,
+        "exact_p": 1.0,
+        "holm_p": 1.0
+      },
+      "dream:MASK_0-BASE": {
+        "n": 128,
+        "difference": -0.03125,
+        "ci95": [
+          -0.0859375,
+          0.0234375
+        ],
+        "wins": 5,
+        "losses": 9,
+        "exact_p": 0.4239501953125,
+        "holm_p": 1.0
+      },
+      "dream:MASK_0-TEXT_0": {
+        "n": 128,
+        "difference": -0.0234375,
+        "ci95": [
+          -0.1015625,
+          0.0546875
+        ],
+        "wins": 12,
+        "losses": 15,
+        "exact_p": 0.7011080384254456,
+        "holm_p": 1.0
+      }
+    },
+    "alternative_complete": {
+      "llada:MASK_0-BASE": {
+        "n": 128,
+        "difference": 0.046875,
+        "ci95": [
+          -0.0234375,
+          0.1171875
+        ],
+        "wins": 13,
+        "losses": 7,
+        "exact_p": 0.26317596435546875,
+        "holm_p": 1.0
+      },
+      "llada:MASK_0-TEXT_0": {
+        "n": 128,
+        "difference": 0.03125,
+        "ci95": [
+          -0.046875,
+          0.1171875
+        ],
+        "wins": 17,
+        "losses": 13,
+        "exact_p": 0.5846647117286922,
+        "holm_p": 1.0
+      },
+      "dream:MASK_0-BASE": {
+        "n": 128,
+        "difference": -0.0078125,
+        "ci95": [
+          -0.0234375,
+          0.0
+        ],
+        "wins": 0,
+        "losses": 1,
+        "exact_p": 1.0,
+        "holm_p": 1.0
+      },
+      "dream:MASK_0-TEXT_0": {
+        "n": 128,
+        "difference": 0.0,
+        "ci95": [
+          -0.0390625,
+          0.0390625
+        ],
+        "wins": 3,
+        "losses": 3,
+        "exact_p": 1.0,
+        "holm_p": 1.0
+      }
+    }
+  },
+  "decision": {
+    "llada": false,
+    "dream": false
+  },
+  "cross_model_supported": false,
+  "label_manifest": {
+    "auto": "247ed9757df869d50a0e819ff87dfd0cbda673181a0302f3078009281e54e2d0",
+    "manual": "fa6b8e38ef7eaf7b08b1961810cf565f99d1eee664eb0fde0cad6cb5f9e10317"
+  },
+  "limits": [
+    "Fresh128 confirmation separate from32 reused development; same GSM8K train task, not unseen task or official test.",
+    "Uniform equal-count regional subset, not every possible MASK selector; TEXT=prompt in first block.",
+    "Matched MASK/TEXT augmented budgets; BASE lower and ALL full, no fixed25% deployment claim.",
+    "Assistant review not independent human; inherited exact-text labels unchanged.",
+    "One block transient intervention then S25; no universal layer/stage claim or deployment speed/novelty proof."
+  ]
+}

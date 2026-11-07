@@ -1,0 +1,2238 @@
+{
+  "gsm8k_train_0049_064ddfb7bd2f0d": {
+    "complete": true,
+    "correct": true,
+    "rule": "Derives Ben12 and explicitly concludes boxed Alan48.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0049_42ab45153c9fdc": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit Alan collected48 shells.",
+    "inherited_from": "reports/kv_generalization_20261104/review_semantic.json"
+  },
+  "gsm8k_train_0049_46f4604ed84ef4": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit requested Alan quantity 48.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_semantic.json"
+  },
+  "gsm8k_train_0049_887b093ea54a6c": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit Alan48.",
+    "inherited_from": "reports/kv_generalization_20261104/review_semantic.json"
+  },
+  "gsm8k_train_0049_8de031ea91a99e": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_previous.json"
+  },
+  "gsm8k_train_0049_a6916010b5ba4b": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0049_aa1054b4cbfa69": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确给出Alan收集48个，正确。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0049_ad94d8a21b3395": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0049_d42ed0dfad6dce": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0049_fee29a901f369d": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit Alan36 is incorrect; answer completed.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0050_08595504182e89": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0050_162f79fd206cda": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0050_1c93bf4497237e": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0050_21c5c2355110e4": {
+    "complete": false,
+    "correct": false,
+    "rule": "Concludes total chores, but never gives requested monthly average. Consistent with prior review.",
+    "ambiguous": true,
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0050_2203a55ce49944": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0050_2209c64e9cb951": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0050_2ba177c1356705": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0050_2e19e5596f37ac": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0050_42a220f48a7dcf": {
+    "complete": false,
+    "correct": false,
+    "ambiguous": true,
+    "rule": "Consistency review: gives800 chores without monthly average or explicit final declaration; conservative incomplete, sensitivity counts complete-wrong.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0050_444449888e4ea3": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0050_45b5dd4a07a6cd": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0050_4a48e0b584fe50": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确给出每月50项，目标每月5项，完整错误。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0050_4c44963025c772": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0050_5012a448c001c0": {
+    "complete": false,
+    "correct": false,
+    "rule": "States400 savings over8 months but never computes chores per month.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0050_59aa27623f4c2b": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算出赛季支出400元，未给每月任务数量。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0050_71b34408889603": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0050_7757b95cae4494": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0050_936f81b25d384d": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0050_9a193a96aa0a27": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_auto.json"
+  },
+  "gsm8k_train_0050_a0cb0a58f90a14": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0050_c71db5c897a553": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0050_da63bc111da853": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0050_ebccae89fa19f5": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0050_f5478756f64afa": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0050_f6f94829f38272": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0050_f856919ad9dc7a": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "仅称共需800项，未给每月平均；若将错误总量当作对问题的隐含回答则完整错误。",
+    "ambiguous": true,
+    "complete_if_ambiguous": true,
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0051_2bd3116819a86b": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0051_754cc32000d2e4": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只有解法描述，没有数值计算或目标结果。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0051_917c8672122eb8": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0051_a5c3ba10b958e2": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0051_ae27544e1bbe22": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "给出剩余面积168平方英尺，目标160，完整错误。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0051_cd0ce7466b6975": {
+    "complete": false,
+    "correct": false,
+    "rule": "Calculation plan only, no result.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0051_e07c244a3cf589": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "卧室面积处截断，未给剩余面积。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0051_f7d82de352c26f": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0052_0f69c59a1d2ed7": {
+    "complete": true,
+    "correct": true,
+    "rule": "Concludes requested per-box quantity 5.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_semantic.json"
+  },
+  "gsm8k_train_0052_12a35872092bda": {
+    "complete": false,
+    "correct": false,
+    "rule": "Only computes50 total pencils, never divides by10 boxes.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0052_2d292e0f34ded3": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算出总共50支，未给每盒数量。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0052_477dfa534db194": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算出总共50支，未除以十盒给出每盒数量。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0052_5bc8060d50669f": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0052_79d509788366e3": {
+    "complete": true,
+    "correct": true,
+    "rule": "Concludes requested per-box quantity 5.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_semantic.json"
+  },
+  "gsm8k_train_0052_893aafa8389f39": {
+    "complete": true,
+    "correct": true,
+    "rule": "Defines x as pencils per box and solves x5; requested target is reached, even if closing prose lacks units.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0052_b40c49bc320e2d": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0052_bbf28dca72ca14": {
+    "complete": false,
+    "correct": false,
+    "rule": "Only concludes total pencils 50, not requested per-box quantity.",
+    "ambiguous": true,
+    "inherited_from": "reports/kv_history_phase_20261104/review_semantic.json"
+  },
+  "gsm8k_train_0052_fa96c391c24a48": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "解题引言后截断，未给每盒数量。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0053_034e26b4ba1a93": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0053_0d4330e14b92bd": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0053_1daa788b074ad6": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0053_3c3c2828af2065": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_auto.json"
+  },
+  "gsm8k_train_0053_42cd6e46717f28": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0053_705bc76e77a206": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit requested target calculation and correct final quantity.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_semantic.json"
+  },
+  "gsm8k_train_0053_824305ec3c86cf": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "仅给两项错误支出各40，未明确计算多花多少；若把相等支出视为隐含差额0则完整错误。",
+    "ambiguous": true,
+    "complete_if_ambiguous": true,
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0053_8b0e0f529c03ed": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0053_934772bae4f774": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit40 more, wrong.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0053_b0a9f27ce6fc3c": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0053_c68d0580824a2d": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0053_eecc7d8d8679e0": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0053_ffe52e912bfadb": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0054_1ebcb33ed673ed": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0054_380e0c702676a3": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_previous.json"
+  },
+  "gsm8k_train_0054_46cf6be1576211": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0054_519f284b32803f": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0054_6870ad2c30fff1": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit requested target calculation and correct final quantity.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0054_77991a68841f4f": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0054_87b8bff34fc7b8": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit requested target calculation and correct final quantity.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_semantic.json"
+  },
+  "gsm8k_train_0054_8fdcda3d2eef05": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_auto.json"
+  },
+  "gsm8k_train_0054_92d1005735f6f4": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_auto.json"
+  },
+  "gsm8k_train_0054_adc2229e02ac17": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0054_c3e1833cc557d7": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit lost12, wrong target.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0054_cbe08eaa9c9196": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0054_cf1050889ffdbc": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0054_ec2af64a6724b7": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确回答损失11美元，正确。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0055_0d91bdf8a7a16f": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0055_1f8687520a4c64": {
+    "complete": false,
+    "correct": false,
+    "rule": "Only solution plan or total flower count; no requested non-rose percentage.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_semantic.json"
+  },
+  "gsm8k_train_0055_471a852fce49c7": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只有计算思路，未给百分比。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0055_56815d3b2fed12": {
+    "complete": false,
+    "correct": false,
+    "rule": "Only solution plan or total flower count; no requested non-rose percentage.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0055_75b070ed751aad": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0055_9703f55830c37c": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0055_a136af1358f4c6": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0055_efd89651e18638": {
+    "complete": false,
+    "correct": false,
+    "rule": "Calculation plan only; no requested result.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0056_0f6dedbd8cfd7a": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确给出第三部分45分钟，正确。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0056_1af617746ccea3": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0056_23b35446773c57": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit requested target calculation and correct final quantity.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_semantic.json"
+  },
+  "gsm8k_train_0056_33de7e20840f2d": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0056_442a780f708dc3": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0056_46c2f1903b077c": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确宣称解为75，目标45分钟，完整错误。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0056_5386a62347ba60": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0056_5d6e6d95295b2c": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final requested target with correct number.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0056_65e975d3e0e1de": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只给总时间和第二部分，未算第三部分。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0056_6701ee20261600": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "仅换算总时间120分钟，未给第三部分时间。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0056_7abe46e5414c7c": {
+    "complete": false,
+    "correct": false,
+    "rule": "Only first/second-part time or total conversion, no third-part duration.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0056_8bf9abcf6c33ee": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_auto.json"
+  },
+  "gsm8k_train_0056_93909df5653bc4": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0056_a525383853855a": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0056_a93104b1e1566b": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0057_0a820ec45b9a63": {
+    "complete": true,
+    "correct": true,
+    "reason": "Concludes requested remaining butter is 2 kg.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_semantic.json"
+  },
+  "gsm8k_train_0057_2e66f6ae8e6328": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0057_84e697ca7aa946": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "前两种用量后截断，未算最终剩余。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0057_860598fee600cf": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0057_93f731ff295537": {
+    "complete": false,
+    "correct": false,
+    "ambiguous": true,
+    "reason": "Computes remaining butter after only two cookie types; third use omitted. Completed-looking intermediate, conservatively incomplete.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0057_ba8283b6269656": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算前两种饼干后剩余3千克，未处理第三种用量。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0057_c0bf4794bd4d74": {
+    "complete": false,
+    "correct": false,
+    "rule": "Only plans, prompt restatement or intermediate quantity; requested target not reached.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0057_ecc88fa21c8c2e": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0057_f2d7be0694fd62": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0058_01a27dfd8d28a9": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0058_1fc2e22f821b73": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0058_51dc34f26a6019": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0058_5e8b53538d2d9c": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0058_5f1973cbcb54c0": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0058_650e7b0cb746fb": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0058_a7a30ad7f49920": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "仅概述计算步骤，无目标结果。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0058_acf378cef22c58": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "第一组人数乘法处截断，未给总金额。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0058_c8998bb3ec4de6": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只有解题引言，无目标结果。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0058_c8fe52a85166f3": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0058_c9f01182b5fd09": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_auto.json"
+  },
+  "gsm8k_train_0058_d9c1dc8d5fce0f": {
+    "complete": false,
+    "correct": false,
+    "rule": "Only plans, prompt restatement or intermediate quantity; requested target not reached.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0058_da004a69e5f6eb": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0058_db08a33a6ac47e": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_auto.json"
+  },
+  "gsm8k_train_0058_ea0e7c8917625d": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0058_eba9adf17bcd94": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0058_f6ff4cc2e60634": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit boxed final conclusion, but wrong target quantity/number.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0059_0c3bbedf54558b": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只列各小时收集数，未求和扣除给出的15枚。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0059_0ddb06fcdd30f2": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_previous.json"
+  },
+  "gsm8k_train_0059_23fd80a31acb4e": {
+    "complete": false,
+    "correct": false,
+    "ambiguous": true,
+    "rule": "Only first three hours total85, omits fourth-hour update; conservative incomplete, sensitivity counts complete-wrong.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0059_2f290e901d6620": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0059_45ceca80a337ad": {
+    "complete": false,
+    "correct": false,
+    "rule": "Only totals the first three hours; omits the requested fourth-hour update.",
+    "ambiguous": true,
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0059_6fcd5297af3225": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0059_7f82d00b3b72f4": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0059_838dd3da600350": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_auto.json"
+  },
+  "gsm8k_train_0059_8ba4c42fe62fc2": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0059_95871167139e15": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0059_e1059e20655020": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0059_f0b1596b68d52e": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0059_f0c57979529256": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0060_159a7fc9078161": {
+    "complete": false,
+    "correct": false,
+    "reason": "Stops mid practice calculation; requested total not computed.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0060_27ba93f2e1e0e2": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0060_3dbbeecdec6eed": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "列条件时截断，未给总小时数。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0060_50da6d9e69a16a": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确给出总64小时，漏计部分训练，目标96，完整错误。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0060_6a055095c4b4b4": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0060_6cbdcf02392240": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0060_768bced6990b79": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0060_7e2f800c6c02cf": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0060_8d38ad02dc68b0": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0060_ac7c5ec891be51": {
+    "complete": false,
+    "correct": false,
+    "rule": "Plan or partial facts only; no requested target answer.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0060_bb3b6a16116d18": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0060_f4d28037140687": {
+    "complete": true,
+    "correct": true,
+    "reason": "Explicitly gives requested total 96 hours; trailing prose does not erase the completed numeric answer.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_semantic.json"
+  },
+  "gsm8k_train_0061_2466c3b3aea968": {
+    "complete": false,
+    "correct": false,
+    "rule": "Only plan/intermediates or unfinished final calculation; requested target absent. A coincidentally correct intermediate number is not the requested answer.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0061_2803c6ad978380": {
+    "complete": true,
+    "correct": true,
+    "reason": "Explicitly concludes requested small-animal gain is 200 pounds.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_semantic.json"
+  },
+  "gsm8k_train_0061_50b3c99db4d6fb": {
+    "complete": false,
+    "correct": false,
+    "ambiguous": true,
+    "rule": "Explicitly only concludes salmon gain200, never small-animal gain or generic final answer; conservative incomplete. Numeric coincidence alone does not establish requested-target answer.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0061_5c7773704d80b8": {
+    "complete": false,
+    "correct": false,
+    "reason": "Stops mid salmon fraction; small-animal contribution not calculated.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0061_6472111e195f1d": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0061_6b037d6823cda1": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "第2步计算前截断，未给目标结果。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0061_b56cd83faf330b": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只列到鲑鱼贡献200磅，第6步为空，未给小动物贡献。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0062_02b4f3fa7fdf1d": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0062_28cc38bcb3638e": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0062_37e2ed03afccf5": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0062_5667c5034621d6": {
+    "complete": false,
+    "correct": false,
+    "reason": "Only computes first 10 cans, then stops before remaining oil calculation.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_semantic.json"
+  },
+  "gsm8k_train_0062_5841e8d2106609": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0062_6ee13669b3efd3": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0062_83c0c399c09366": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0062_a0acccb1ef9616": {
+    "complete": false,
+    "correct": false,
+    "reason": "Only computes first 10 cans, then stops mid sentence.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_semantic.json"
+  },
+  "gsm8k_train_0062_a2db9b10d2a8ec": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0062_ac7739dfbaa487": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只有计算提示，未给每个剩余罐的油量。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0062_c39574a2498e07": {
+    "complete": false,
+    "correct": false,
+    "rule": "Plan only; no target calculation.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0062_f5c25175f11ea1": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0062_f689a1ebf44321": {
+    "complete": false,
+    "correct": false,
+    "rule": "Only plan/intermediates or unfinished final calculation; requested target absent. A coincidentally correct intermediate number is not the requested answer.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0063_05a55a9f61abbd": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确给出15个，目标59，完整错误。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0063_1451c3f8104cfb": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit Wednesday situp answer differs from 59.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0063_1b94f936d562f6": {
+    "complete": true,
+    "correct": false,
+    "reason": "Explicit final30 is incorrect.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_semantic.json"
+  },
+  "gsm8k_train_0063_287cfd0a6580ab": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确给出星期三9个，目标59，完整错误。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0063_35cc5ad62fc69a": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0063_5c6e4c54675042": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确给出19个，目标59，完整错误。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0063_8e2f3305997d0b": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0063_95d408fdbd01e6": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit Wednesday situp answer differs from 59.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0063_be6c5ff3c69566": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0063_ee631d1b4da366": {
+    "complete": true,
+    "correct": false,
+    "reason": "Explicit final19 is incorrect.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0064_22cd3bb0d70cb9": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0064_22fbf754ceebcf": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0064_3aed1fee91159a": {
+    "complete": true,
+    "correct": false,
+    "rule": "Last explicitly declared answer is 240, overriding earlier 840.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0064_4e4b84c54af629": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确给出周收入900，目标840，完整错误。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0064_700fc75811d821": {
+    "complete": false,
+    "correct": false,
+    "rule": "Only plan/intermediates or unfinished final calculation; requested target absent. A coincidentally correct intermediate number is not the requested answer.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0064_8ea942ba10fe81": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确给出周收入760，目标840，完整错误。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0064_c5094340331368": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0064_c9af0114645f7b": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0064_d170f7360cf048": {
+    "complete": true,
+    "correct": false,
+    "reason": "Explicit weekly total720 is incorrect.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_semantic.json"
+  },
+  "gsm8k_train_0064_d24771496ba1ea": {
+    "complete": false,
+    "correct": false,
+    "rule": "Only plan/intermediates or unfinished final calculation; requested target absent. A coincidentally correct intermediate number is not the requested answer.",
+    "inherited_from": "reports/kv_generalization_20261104/review_semantic.json"
+  },
+  "gsm8k_train_0064_d696cd7d72f292": {
+    "complete": false,
+    "correct": false,
+    "reason": "Stops midway through main-job earnings; requested weekly total absent.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0064_e052d7eb217f4a": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0064_ee1bd7b7745972": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_auto.json"
+  },
+  "gsm8k_train_0065_0723cf2a2feb24": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit total 338 differs from 558.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0065_1a5cf002809c28": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0065_2f85aa6372f3ed": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit total 338 differs from 558.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_previous.json"
+  },
+  "gsm8k_train_0065_50c45bf6234783": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit total 338 rather than 558.",
+    "inherited_from": "reports/kv_generalization_20261104/review_semantic.json"
+  },
+  "gsm8k_train_0065_6df18831e72533": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确收入3348，目标558，完整错误。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0065_70bc9b47b03b8a": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0065_92ca6d7acf5669": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确总收入558，正确，格式损坏不影响目标答案。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0065_af1718e431841e": {
+    "complete": true,
+    "correct": true,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确总收入558，正确。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0065_c0e9a99e8da433": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确收入538，目标558，完整错误。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0065_cebd136e08f194": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_auto.json"
+  },
+  "gsm8k_train_0066_06d02c091fa6f7": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0066_2a54d41c7c139a": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0066_51ad1b81a06150": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0066_5b15737bf1b66b": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0066_72d9051d1fb8b3": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算首付和780余额，未扣四个月分期给最终余额。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0066_95d4e73f9e9311": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0066_a08b7829bc6d55": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "仅步骤列表，无最终余额。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0066_a277cc43f0ab88": {
+    "complete": false,
+    "correct": false,
+    "ambiguous": true,
+    "reason": "Gives balance after down payment only, omitting four monthly payments. Completed-looking intermediate, conservative incomplete.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0066_a4fb3e390187bd": {
+    "complete": false,
+    "correct": false,
+    "rule": "Concludes a monthly payment, not the requested remaining balance after four payments.",
+    "ambiguous": true,
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0066_aec98750f8ec65": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0066_e3f807b79ec479": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0066_f9f9f5bbe59922": {
+    "complete": false,
+    "correct": false,
+    "rule": "Plan or partial facts only; no requested target answer.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0066_ff63905c6506a5": {
+    "complete": true,
+    "correct": true,
+    "reason": "Explicit requested balance after four months is520.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_semantic.json"
+  },
+  "gsm8k_train_0067_04ae5a51b45f35": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_auto.json"
+  },
+  "gsm8k_train_0067_102367d01dd350": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只有Jesse跑步开头，未给平均里程。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0067_1e0dd560456346": {
+    "complete": false,
+    "correct": false,
+    "ambiguous": true,
+    "reason": "Only Jesse remaining total18 miles, not either daily average or joint average; completed-looking intermediate.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_semantic.json"
+  },
+  "gsm8k_train_0067_43148c1aca7ac1": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确最终每天10英里，目标6，完整错误。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0067_7d94ce79951480": {
+    "complete": false,
+    "correct": false,
+    "rule": "Only Jesse intermediate distance; no requested final average.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0067_84f3854b5d8164": {
+    "complete": true,
+    "correct": false,
+    "rule": "Concludes requested average with wrong numeric answer.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0067_aac1bfdcd6251e": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0067_d0ba760069441f": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "开头即截断，未给目标平均值。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0067_d3125134e05bc6": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_auto.json"
+  },
+  "gsm8k_train_0068_13c03b43830a69": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0068_1c6a114e892c59": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只有计算步骤，无目标数值。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0068_6797fa31cf91ad": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0068_6c7f2087d79cb2": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只有计算提示，无剩余金币数。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0068_6d262c26e2c3cd": {
+    "complete": false,
+    "correct": false,
+    "rule": "Plan only; no requested target calculation.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0068_76ee8318f99099": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_auto.json"
+  },
+  "gsm8k_train_0068_7e3665abbd1638": {
+    "complete": false,
+    "correct": false,
+    "reason": "Only states ratio and total equations; requested remainder not calculated.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_semantic.json"
+  },
+  "gsm8k_train_0068_8b5c5c58ff5869": {
+    "complete": true,
+    "correct": true,
+    "reasoning_error": true,
+    "unit_mismatch": true,
+    "reason": "Explicitly concludes requested remaining90; reasoning misstates spent fraction and labels coins dollars. Numeric target criterion satisfied, reasoning is not correct.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0068_92545ee3c7ec37": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只有计算步骤，未给剩余金币数。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0068_af64010254e1ef": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0068_cac3a432cf1eb7": {
+    "complete": false,
+    "correct": false,
+    "rule": "Plan only; no requested target calculation.",
+    "inherited_from": "reports/kv_generalization_20261104/review_semantic.json"
+  },
+  "gsm8k_train_0069_0bcb2b88c9fd8b": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0069_0bfba23e839b74": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0069_0f0842865c78bb": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0069_43fe9f33b2874f": {
+    "complete": true,
+    "correct": true,
+    "rule": "Computes requested total 49 arms.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0069_73aaa55fdd9eda": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算七只海星35条臂，未加另一只14条。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0069_893490cf21e95b": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0069_903e3596a4a9df": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0069_a2f9413d3182cf": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0069_be9a0b95b7ef9e": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0069_f9e2470ed940f9": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0070_233d3ac45ef7bd": {
+    "complete": true,
+    "correct": false,
+    "rule": "Final boxed answer 10 overrides earlier intermediate 19.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0070_6acef8fcf07725": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只称Tim有68个，没有Harry目标；若将错误除2表达式视为隐含目标则完整错误。",
+    "ambiguous": true,
+    "complete_if_ambiguous": true,
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0070_a820d7e35e2d37": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0070_abe5b5fc75a48c": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0070_b0c17f3575b990": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0070_e1f2bd2909376f": {
+    "complete": true,
+    "correct": true,
+    "rule": "Computes requested Harry quantity 19.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0071_16b2bafa1badf0": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0071_44562489b714e5": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0071_6e5805366e872a": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0071_859310d7c100b7": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0071_9b1f626fd5f627": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0071_9fe407cfefbcc5": {
+    "complete": true,
+    "correct": true,
+    "reason": "Concludes requested post-deposit remainder25.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_semantic.json"
+  },
+  "gsm8k_train_0071_acde2784446d96": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0071_b46cea0bf82f64": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_auto.json"
+  },
+  "gsm8k_train_0071_bf0a82eacdd100": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_previous.json"
+  },
+  "gsm8k_train_0071_dcf3bab3a8ad61": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算存款前收入43元，未扣18元求剩余。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0071_fb12a22ade21c0": {
+    "complete": false,
+    "correct": false,
+    "rule": "Only earnings before deposit; does not compute amount left after deposit.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0072_08cb2922ab9942": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0072_14c9b726413a0e": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算初次半满36立方英尺，未处理洒出和补水后的最终体积。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0072_160f76dd1120e1": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0072_18236ff2c421d5": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0072_3169af436fad89": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0072_367012c06dbf11": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0072_3b46b341010490": {
+    "complete": false,
+    "correct": false,
+    "reason": "Only calculates initial half-full volume36; subsequent spill and tripling absent.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0072_63225fe34f20bd": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_auto.json"
+  },
+  "gsm8k_train_0072_8a42bd1800f877": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0072_91f48d1357d6c4": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0072_af0e4a4b5626ce": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit answer 72 rather than 54.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0072_c384d6e584ca56": {
+    "complete": true,
+    "correct": true,
+    "reason": "Explicitly concludes final water volume54 cubic feet.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_semantic.json"
+  },
+  "gsm8k_train_0072_e216322c330683": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0072_e2dd7d39bf63ed": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_auto.json"
+  },
+  "gsm8k_train_0072_f6d1bbb5588730": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0073_29664fe3b86c69": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0073_377a235c5bca39": {
+    "complete": false,
+    "correct": false,
+    "rule": "Plan only; no required pack count.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0073_65b11bac7e66df": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0073_7608c4933b762c": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确需要18包，目标3包，完整错误。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0073_9cb73bf01bf6f0": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0073_a17e99d2427273": {
+    "complete": false,
+    "correct": false,
+    "rule": "Plan only; no required pack count.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0073_d96c0dbfd6e88b": {
+    "complete": true,
+    "correct": true,
+    "rule": "Concludes 3 packs; earlier 13+4+2=18 equation is erroneous.",
+    "reasoning_error": true,
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0073_db745a99195e7f": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_auto.json"
+  },
+  "gsm8k_train_0073_e2716a2ee0e112": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0073_e40abfaaa3c847": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "明确需要18包，目标3包，完整错误。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0074_0f4ee259ad01d5": {
+    "complete": true,
+    "correct": true,
+    "reason": "Concludes each remaining person lost28kg.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0074_45c84035751e29": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0074_5122a8423f7123": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0074_552b43f482188a": {
+    "complete": true,
+    "correct": true,
+    "reason": "Concludes each remaining person lost28kg.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_semantic.json"
+  },
+  "gsm8k_train_0074_7a40eddf9141d2": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0074_7c85b393251f70": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0074_d04ad8b32bf27d": {
+    "complete": true,
+    "correct": false,
+    "rule": "Supplies a wrong quantity for the third person, one of the requested equal last two quantities.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0074_ef023a460d459b": {
+    "complete": true,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "给出第四人26千克且题设末两人相等，目标28，完整错误。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0074_f683633d196a25": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0075_28e615adea449b": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0075_2ec3fc3669c2ba": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只给两人各自错误价格4和8，未给总价；若把两个分项视为隐含总价12则完整错误。",
+    "ambiguous": true,
+    "complete_if_ambiguous": true,
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0075_3f6213cbf39985": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只算Dale的8英镑，未给两人总价。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0075_4ab636bd63d70a": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0075_57cbd9f8de11e6": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0075_59f87e4d41d37b": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0075_5cb26bb926b2e5": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0075_6075db9459b58a": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_previous.json"
+  },
+  "gsm8k_train_0075_7e5c8c75b8af9d": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0075_7ffdece36b2ab3": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0075_81738396473be3": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0075_89365461536a8f": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0075_907524b18a8d51": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0075_be97b4e474ac6a": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0075_d2bd8abd98335d": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只给Dale的错误价格，缺Andrew及总价。",
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0075_f228bcb3b3cfc1": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0075_f2565a8a774024": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit combined total 8 rather than 15.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0075_ff8c228455b1b1": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0076_0d79c5bae3ab94": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit requested total 768.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0076_22ca4c7499291f": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0076_4522f0a38720e5": {
+    "complete": true,
+    "correct": false,
+    "rule": "Concludes wrong vegetable total.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0076_80c2c4e8907577": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0076_a037dedeb59c38": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit requested total 768.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0076_e88696034a8fec": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0077_2c07782484aeb8": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0077_32276d9e202eec": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0077_3b3f808fe38610": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_auto.json"
+  },
+  "gsm8k_train_0077_3ff255103c35c6": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0077_46814084800261": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0077_49c95a9c92d844": {
+    "complete": false,
+    "correct": false,
+    "rule": "Only computes weight loss 12; never subtracts from initial weight.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0077_bd26fb2de9a16d": {
+    "complete": true,
+    "correct": true,
+    "reason": "Concludes final weight85kg.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_semantic.json"
+  },
+  "gsm8k_train_0077_ded93470f0cbe9": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final boxer weight 85.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0077_e3e8f96a9902e9": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_previous.json"
+  },
+  "gsm8k_train_0077_f1ddb3cc4659b2": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0078_03a9a504c95af8": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0078_0b8104e26b4a41": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0078_304850a05ac5c7": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0078_451e6516c76521": {
+    "complete": false,
+    "correct": false,
+    "rule": "Only initial slice count 30; no remainder.",
+    "inherited_from": "reports/kv_generalization_20261104/review_semantic.json"
+  },
+  "gsm8k_train_0078_6787eb5bda1f38": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0078_732c91148273de": {
+    "complete": true,
+    "correct": false,
+    "reason": "Explicit remaining5 is incorrect.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_semantic.json"
+  },
+  "gsm8k_train_0078_760b5be01d07ec": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_auto.json"
+  },
+  "gsm8k_train_0078_8740e1b05d4248": {
+    "complete": true,
+    "correct": false,
+    "reason": "Explicit remaining5 is incorrect.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_semantic.json"
+  },
+  "gsm8k_train_0078_95b4531a834309": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0078_aa5fd0e6d4a49c": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_auto.json"
+  },
+  "gsm8k_train_0078_d518a56a80782d": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0078_dc1b9190625e4c": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0078_dcac8a63c44b03": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit remaining slice count 4.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0078_e90b21491aff64": {
+    "complete": false,
+    "correct": false,
+    "label_source": "Assistant semantic review with method hidden; not an independent human review.",
+    "reason": "只给错误取用量30，没有剩余量；若按全取走隐含剩余0则完整错误。",
+    "ambiguous": true,
+    "complete_if_ambiguous": true,
+    "inherited_from": "reports/decision_paths_20261106/review_semantic.json"
+  },
+  "gsm8k_train_0078_fa8bcc03840bc8": {
+    "complete": true,
+    "correct": false,
+    "reason": "Explicit remaining3 is incorrect.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0079_1e5ebf6a7dd458": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0079_1fadf14681260b": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "inherited_from": "reports/kv_generalization_20261104/review_auto.json"
+  },
+  "gsm8k_train_0079_2750876c7cbd41": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0079_3dc26ba2394937": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_auto.json"
+  },
+  "gsm8k_train_0079_62b6e9132517b2": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_auto.json"
+  },
+  "gsm8k_train_0079_843ea98d0b6cc2": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit combined experience 70 years.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_previous.json"
+  },
+  "gsm8k_train_0079_8a812bfc2eedad": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit combined experience 70 years.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0079_90d9a019bead36": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0079_971cbf37e5d0a6": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0079_97d0f32b649a6e": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0079_9ca003e959e505": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "label_source": "Prior identical question and exact answer text; prior label unchanged.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0079_a8b93bc82a3e6d": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0080_23a1e142d4617b": {
+    "complete": false,
+    "correct": false,
+    "reason": "Only repeats ratio and headings; no requested total.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_semantic.json"
+  },
+  "gsm8k_train_0080_2617101e51f99a": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit requested total 100 cans.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0080_63e7b10d0bcc21": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0080_6ec64deedf253c": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0080_76052bdac53819": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0080_79df9984833300": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_auto.json"
+  },
+  "gsm8k_train_0080_924bdb9ab2266f": {
+    "complete": false,
+    "correct": false,
+    "reason": "Computes additional60 only, then stops after Therefore Jennifer brought home without requested total100.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_semantic.json"
+  },
+  "gsm8k_train_0080_a5e923b5ebe954": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0080_c753ca0f7b5191": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0080_d68640c68c7ba9": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  },
+  "gsm8k_train_0080_eb9d7c1f6b2176": {
+    "correct": false,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match."
+  },
+  "gsm8k_train_0080_ecbb1a5398838e": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit parseable Final answer, original numeric parser.",
+    "inherited_from": "reports/kv_history_phase_20261104/review_auto.json"
+  },
+  "gsm8k_train_0080_ff180a6fe84faf": {
+    "correct": true,
+    "complete": true,
+    "label_source": "Explicit parseable Final, frozen numeric target match.",
+    "inherited_from": "reports/decision_paths_20261106/review_auto.json"
+  }
+}

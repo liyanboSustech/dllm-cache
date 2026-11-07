@@ -1,0 +1,1509 @@
+{
+  "scope": "Prospective first-block deletion-set prediction on64 new questions/model. Conditions transient; this is not a deployed-selector comparison or speed benchmark.",
+  "counts": {
+    "outputs": 1280,
+    "completed_cases": 128,
+    "by_model": {
+      "dream": 640,
+      "llada": 640
+    },
+    "unique_answers": 981,
+    "automatic_final": 448,
+    "manual_required": 533,
+    "manual_done": 533,
+    "pending": 0,
+    "numerical_failures": 0
+  },
+  "quality": {
+    "llada": {
+      "S25": {
+        "n": 64,
+        "target_correct": 14,
+        "incomplete": 42,
+        "strict_final_correct": 2,
+        "incomplete_with_stop": 42,
+        "incomplete_without_stop": 0,
+        "numerical_failures": 0
+      },
+      "K4_B0": {
+        "n": 64,
+        "target_correct": 17,
+        "incomplete": 36,
+        "strict_final_correct": 6,
+        "incomplete_with_stop": 36,
+        "incomplete_without_stop": 0,
+        "numerical_failures": 0
+      },
+      "ALL_NEXT": {
+        "n": 64,
+        "target_correct": 18,
+        "incomplete": 30,
+        "strict_final_correct": 7,
+        "incomplete_with_stop": 30,
+        "incomplete_without_stop": 0,
+        "numerical_failures": 0
+      },
+      "ALL_FAR": {
+        "n": 64,
+        "target_correct": 9,
+        "incomplete": 42,
+        "strict_final_correct": 2,
+        "incomplete_with_stop": 42,
+        "incomplete_without_stop": 0,
+        "numerical_failures": 0
+      },
+      "PROMPT": {
+        "n": 64,
+        "target_correct": 14,
+        "incomplete": 32,
+        "strict_final_correct": 8,
+        "incomplete_with_stop": 32,
+        "incomplete_without_stop": 0,
+        "numerical_failures": 0
+      },
+      "MIX25": {
+        "n": 64,
+        "target_correct": 11,
+        "incomplete": 40,
+        "strict_final_correct": 1,
+        "incomplete_with_stop": 40,
+        "incomplete_without_stop": 0,
+        "numerical_failures": 0
+      },
+      "MIX50": {
+        "n": 64,
+        "target_correct": 3,
+        "incomplete": 48,
+        "strict_final_correct": 2,
+        "incomplete_with_stop": 48,
+        "incomplete_without_stop": 0,
+        "numerical_failures": 0
+      },
+      "UNIFORM": {
+        "n": 64,
+        "target_correct": 7,
+        "incomplete": 32,
+        "strict_final_correct": 3,
+        "incomplete_with_stop": 32,
+        "incomplete_without_stop": 0,
+        "numerical_failures": 0
+      },
+      "FULL_B0_THEN_S25": {
+        "n": 64,
+        "target_correct": 28,
+        "incomplete": 28,
+        "strict_final_correct": 15,
+        "incomplete_with_stop": 28,
+        "incomplete_without_stop": 0,
+        "numerical_failures": 0
+      },
+      "C100_ALL": {
+        "n": 64,
+        "target_correct": 56,
+        "incomplete": 0,
+        "strict_final_correct": 51,
+        "incomplete_with_stop": 0,
+        "incomplete_without_stop": 0,
+        "numerical_failures": 0
+      }
+    },
+    "dream": {
+      "S25": {
+        "n": 64,
+        "target_correct": 37,
+        "incomplete": 2,
+        "strict_final_correct": 29,
+        "incomplete_with_stop": 2,
+        "incomplete_without_stop": 0,
+        "numerical_failures": 0
+      },
+      "K4_B0": {
+        "n": 64,
+        "target_correct": 40,
+        "incomplete": 3,
+        "strict_final_correct": 33,
+        "incomplete_with_stop": 3,
+        "incomplete_without_stop": 0,
+        "numerical_failures": 0
+      },
+      "ALL_NEXT": {
+        "n": 64,
+        "target_correct": 35,
+        "incomplete": 3,
+        "strict_final_correct": 29,
+        "incomplete_with_stop": 3,
+        "incomplete_without_stop": 0,
+        "numerical_failures": 0
+      },
+      "ALL_FAR": {
+        "n": 64,
+        "target_correct": 34,
+        "incomplete": 5,
+        "strict_final_correct": 23,
+        "incomplete_with_stop": 5,
+        "incomplete_without_stop": 0,
+        "numerical_failures": 0
+      },
+      "PROMPT": {
+        "n": 64,
+        "target_correct": 36,
+        "incomplete": 6,
+        "strict_final_correct": 31,
+        "incomplete_with_stop": 6,
+        "incomplete_without_stop": 0,
+        "numerical_failures": 0
+      },
+      "MIX25": {
+        "n": 64,
+        "target_correct": 39,
+        "incomplete": 3,
+        "strict_final_correct": 31,
+        "incomplete_with_stop": 3,
+        "incomplete_without_stop": 0,
+        "numerical_failures": 0
+      },
+      "MIX50": {
+        "n": 64,
+        "target_correct": 38,
+        "incomplete": 4,
+        "strict_final_correct": 33,
+        "incomplete_with_stop": 4,
+        "incomplete_without_stop": 0,
+        "numerical_failures": 0
+      },
+      "UNIFORM": {
+        "n": 64,
+        "target_correct": 21,
+        "incomplete": 14,
+        "strict_final_correct": 12,
+        "incomplete_with_stop": 14,
+        "incomplete_without_stop": 0,
+        "numerical_failures": 0
+      },
+      "FULL_B0_THEN_S25": {
+        "n": 64,
+        "target_correct": 33,
+        "incomplete": 6,
+        "strict_final_correct": 24,
+        "incomplete_with_stop": 6,
+        "incomplete_without_stop": 0,
+        "numerical_failures": 0
+      },
+      "C100_ALL": {
+        "n": 64,
+        "target_correct": 56,
+        "incomplete": 0,
+        "strict_final_correct": 54,
+        "incomplete_with_stop": 0,
+        "incomplete_without_stop": 0,
+        "numerical_failures": 0
+      }
+    }
+  },
+  "prediction": {
+    "llada": {
+      "replication": {
+        "error": {
+          "informative_questions": 17,
+          "auc": {
+            "impact": 0.6337885154061624,
+            "qk_risk": 0.6469187675070028,
+            "attention_mass_deleted": 0.6505952380952381,
+            "mean_query_impact": 0.6416316526610644,
+            "native_qk_rank_risk": 0.6301120448179272
+          },
+          "auc95_ci": {
+            "impact": [
+              0.4634427521008403,
+              0.7949964985994398
+            ],
+            "qk_risk": [
+              0.4852205882352941,
+              0.7974789915966387
+            ],
+            "attention_mass_deleted": [
+              0.4806696428571428,
+              0.8113821778711485
+            ],
+            "mean_query_impact": [
+              0.4715940126050421,
+              0.8035022759103642
+            ],
+            "native_qk_rank_risk": [
+              0.4650481442577031,
+              0.7823538165266106
+            ]
+          },
+          "delta_impact_minus_qk": -0.013130252100840342,
+          "delta_97_5_ci": [
+            -0.05409707633053224,
+            0.027941176470588247
+          ],
+          "delta95_ci": [
+            -0.04929971988795512,
+            0.022655812324929973
+          ],
+          "global_auc_secondary": {
+            "impact": 0.6079561297518357,
+            "qk_risk": 0.6293335811878428,
+            "attention_mass_deleted": 0.6318431080955479,
+            "mean_query_impact": 0.638999907054559,
+            "native_qk_rank_risk": 0.6111162747467237
+          },
+          "global_candidate_count": 256,
+          "global_failures": 203
+        },
+        "incomplete": {
+          "informative_questions": 24,
+          "auc": {
+            "impact": 0.5207837301587301,
+            "qk_risk": 0.5407986111111112,
+            "attention_mass_deleted": 0.5239583333333333,
+            "mean_query_impact": 0.5261656746031745,
+            "native_qk_rank_risk": 0.5276289682539682
+          },
+          "auc95_ci": {
+            "impact": [
+              0.41624317956349205,
+              0.6241815476190476
+            ],
+            "qk_risk": [
+              0.4371019345238096,
+              0.6395777529761902
+            ],
+            "attention_mass_deleted": [
+              0.4185962301587302,
+              0.6309796626984129
+            ],
+            "mean_query_impact": [
+              0.42214657738095246,
+              0.6278546626984128
+            ],
+            "native_qk_rank_risk": [
+              0.42556795634920624,
+              0.6250998263888888
+            ]
+          },
+          "delta_impact_minus_qk": -0.02001488095238095,
+          "delta_97_5_ci": [
+            -0.04836309523809529,
+            0.006721230158730274
+          ],
+          "delta95_ci": [
+            -0.04494233630952387,
+            0.003645833333333405
+          ],
+          "global_auc_secondary": {
+            "impact": 0.49845474613686536,
+            "qk_risk": 0.528792179123305,
+            "attention_mass_deleted": 0.5274676758120467,
+            "mean_query_impact": 0.5282876064333017,
+            "native_qk_rank_risk": 0.5147902869757175
+          },
+          "global_candidate_count": 256,
+          "global_failures": 151
+        }
+      },
+      "confirmation": {
+        "error": {
+          "informative_questions": 12,
+          "auc": {
+            "impact": 0.6464781746031746,
+            "qk_risk": 0.682688492063492,
+            "attention_mass_deleted": 0.6447420634920634,
+            "mean_query_impact": 0.6582837301587302,
+            "native_qk_rank_risk": 0.6823412698412699
+          },
+          "auc95_ci": {
+            "impact": [
+              0.5040674603174603,
+              0.7770337301587301
+            ],
+            "qk_risk": [
+              0.550735367063492,
+              0.7999999999999999
+            ],
+            "attention_mass_deleted": [
+              0.5093253968253968,
+              0.7711309523809523
+            ],
+            "mean_query_impact": [
+              0.5168650793650794,
+              0.7833333333333333
+            ],
+            "native_qk_rank_risk": [
+              0.5416666666666666,
+              0.8041666666666667
+            ]
+          },
+          "delta_impact_minus_qk": -0.03621031746031747,
+          "delta_97_5_ci": [
+            -0.07718377976190481,
+            0.005564236111111814
+          ],
+          "delta95_ci": [
+            -0.07262648809523795,
+            0.001388888888888884
+          ],
+          "global_auc_secondary": {
+            "impact": 0.6083333333333333,
+            "qk_risk": 0.6450231481481481,
+            "attention_mass_deleted": 0.6453703703703704,
+            "mean_query_impact": 0.6591435185185185,
+            "native_qk_rank_risk": 0.6243055555555556
+          },
+          "global_candidate_count": 256,
+          "global_failures": 216
+        },
+        "incomplete": {
+          "informative_questions": 23,
+          "auc": {
+            "impact": 0.5050207039337474,
+            "qk_risk": 0.5226449275362319,
+            "attention_mass_deleted": 0.5132246376811596,
+            "mean_query_impact": 0.510636645962733,
+            "native_qk_rank_risk": 0.5152173913043478
+          },
+          "auc95_ci": {
+            "impact": [
+              0.3853189699792961,
+              0.6275122929606626
+            ],
+            "qk_risk": [
+              0.40742753623188405,
+              0.6403480848861286
+            ],
+            "attention_mass_deleted": [
+              0.3926999223602484,
+              0.635482013457557
+            ],
+            "mean_query_impact": [
+              0.3911225414078675,
+              0.6327672101449276
+            ],
+            "native_qk_rank_risk": [
+              0.395573887163561,
+              0.6353021480331262
+            ]
+          },
+          "delta_impact_minus_qk": -0.017624223602484473,
+          "delta_97_5_ci": [
+            -0.04148583074534153,
+            0.0061610377846792784
+          ],
+          "delta95_ci": [
+            -0.038690476190476275,
+            0.0034420289855072754
+          ],
+          "global_auc_secondary": {
+            "impact": 0.47795648060548723,
+            "qk_risk": 0.5145380006307159,
+            "attention_mass_deleted": 0.4900662251655629,
+            "mean_query_impact": 0.49977924944812363,
+            "native_qk_rank_risk": 0.5298013245033113
+          },
+          "global_candidate_count": 256,
+          "global_failures": 151
+        }
+      },
+      "all64": {
+        "error": {
+          "informative_questions": 29,
+          "auc": {
+            "impact": 0.639039408866995,
+            "qk_risk": 0.6617200328407226,
+            "attention_mass_deleted": 0.6481732348111658,
+            "mean_query_impact": 0.6485221674876848,
+            "native_qk_rank_risk": 0.6517241379310346
+          },
+          "auc95_ci": {
+            "impact": [
+              0.5218539614121511,
+              0.7492267036124794
+            ],
+            "qk_risk": [
+              0.5508410303776684,
+              0.7620294540229886
+            ],
+            "attention_mass_deleted": [
+              0.533165537766831,
+              0.7563731527093597
+            ],
+            "mean_query_impact": [
+              0.5300897988505746,
+              0.758128078817734
+            ],
+            "native_qk_rank_risk": [
+              0.538135775862069,
+              0.7541671798029558
+            ]
+          },
+          "delta_impact_minus_qk": -0.022680623973727426,
+          "delta_97_5_ci": [
+            -0.052299620279146225,
+            0.008538587848932468
+          ],
+          "delta95_ci": [
+            -0.049096880131362715,
+            0.00455665024630536
+          ],
+          "global_auc_secondary": {
+            "impact": 0.6106705674031873,
+            "qk_risk": 0.6352811353196294,
+            "attention_mass_deleted": 0.6406189852952499,
+            "mean_query_impact": 0.6512690225062232,
+            "native_qk_rank_risk": 0.6158801036774707
+          },
+          "global_candidate_count": 512,
+          "global_failures": 419
+        },
+        "incomplete": {
+          "informative_questions": 47,
+          "auc": {
+            "impact": 0.5130699088145896,
+            "qk_risk": 0.5319148936170212,
+            "attention_mass_deleted": 0.5187056737588651,
+            "mean_query_impact": 0.5185663627152988,
+            "native_qk_rank_risk": 0.5215552178318136
+          },
+          "auc95_ci": {
+            "impact": [
+              0.43382630445795345,
+              0.5926038500506585
+            ],
+            "qk_risk": [
+              0.45391274062816617,
+              0.6079663753799393
+            ],
+            "attention_mass_deleted": [
+              0.4372960992907801,
+              0.5989273049645389
+            ],
+            "mean_query_impact": [
+              0.4389304711246201,
+              0.5973546732522798
+            ],
+            "native_qk_rank_risk": [
+              0.443452380952381,
+              0.597941679331307
+            ]
+          },
+          "delta_impact_minus_qk": -0.01884498480243161,
+          "delta_97_5_ci": [
+            -0.03737351190476203,
+            -0.0007084283181357742
+          ],
+          "delta95_ci": [
+            -0.03495472391084101,
+            -0.002925215298885435
+          ],
+          "global_auc_secondary": {
+            "impact": 0.4889940081993062,
+            "qk_risk": 0.5210816777041942,
+            "attention_mass_deleted": 0.5093661305581836,
+            "mean_query_impact": 0.514411857458215,
+            "native_qk_rank_risk": 0.522075055187638
+          },
+          "global_candidate_count": 512,
+          "global_failures": 302
+        }
+      }
+    },
+    "dream": {
+      "replication": {
+        "error": {
+          "informative_questions": 25,
+          "auc": {
+            "impact": 0.6839761904761904,
+            "qk_risk": 0.6871904761904761,
+            "attention_mass_deleted": 0.6831428571428572,
+            "mean_query_impact": 0.6808095238095239,
+            "native_qk_rank_risk": 0.6906904761904761
+          },
+          "auc95_ci": {
+            "impact": [
+              0.5737589285714285,
+              0.7906744047619048
+            ],
+            "qk_risk": [
+              0.5845934523809524,
+              0.7890005952380953
+            ],
+            "attention_mass_deleted": [
+              0.5791428571428571,
+              0.784675
+            ],
+            "mean_query_impact": [
+              0.5722845238095238,
+              0.7853333333333334
+            ],
+            "native_qk_rank_risk": [
+              0.5863803571428572,
+              0.7920511904761904
+            ]
+          },
+          "delta_impact_minus_qk": -0.0032142857142857173,
+          "delta_97_5_ci": [
+            -0.045596428571428496,
+            0.0401190476190475
+          ],
+          "delta95_ci": [
+            -0.039882142857142935,
+            0.0347392857142858
+          ],
+          "global_auc_secondary": {
+            "impact": 0.5598036683027642,
+            "qk_risk": 0.5806639111340739,
+            "attention_mass_deleted": 0.5676827693102557,
+            "mean_query_impact": 0.5642598811676569,
+            "native_qk_rank_risk": 0.5847972100232498
+          },
+          "global_candidate_count": 256,
+          "global_failures": 98
+        },
+        "incomplete": {
+          "informative_questions": 11,
+          "auc": {
+            "impact": 0.9366883116883117,
+            "qk_risk": 0.9237012987012986,
+            "attention_mass_deleted": 0.9310064935064936,
+            "mean_query_impact": 0.9253246753246753,
+            "native_qk_rank_risk": 0.9237012987012986
+          },
+          "auc95_ci": {
+            "impact": [
+              0.8831168831168829,
+              0.987012987012987
+            ],
+            "qk_risk": [
+              0.8571428571428572,
+              0.987012987012987
+            ],
+            "attention_mass_deleted": [
+              0.8701298701298703,
+              0.987012987012987
+            ],
+            "mean_query_impact": [
+              0.8636363636363634,
+              0.987012987012987
+            ],
+            "native_qk_rank_risk": [
+              0.8571428571428572,
+              0.987012987012987
+            ]
+          },
+          "delta_impact_minus_qk": 0.012987012987012981,
+          "delta_97_5_ci": [
+            -0.038961038961038974,
+            0.06493506493506507
+          ],
+          "delta95_ci": [
+            -0.025974025974026205,
+            0.051948051948052076
+          ],
+          "global_auc_secondary": {
+            "impact": 0.8816410861865407,
+            "qk_risk": 0.8600944510035419,
+            "attention_mass_deleted": 0.8778040141676505,
+            "mean_query_impact": 0.8730814639905549,
+            "native_qk_rank_risk": 0.8468122786304605
+          },
+          "global_candidate_count": 256,
+          "global_failures": 14
+        }
+      },
+      "confirmation": {
+        "error": {
+          "informative_questions": 19,
+          "auc": {
+            "impact": 0.6058897243107769,
+            "qk_risk": 0.61265664160401,
+            "attention_mass_deleted": 0.5944862155388471,
+            "mean_query_impact": 0.6214285714285714,
+            "native_qk_rank_risk": 0.6170426065162907
+          },
+          "auc95_ci": {
+            "impact": [
+              0.4662875939849624,
+              0.7417387218045111
+            ],
+            "qk_risk": [
+              0.49097117794486217,
+              0.7328446115288219
+            ],
+            "attention_mass_deleted": [
+              0.4568859649122808,
+              0.7263189223057644
+            ],
+            "mean_query_impact": [
+              0.5006265664160402,
+              0.7406046365914788
+            ],
+            "native_qk_rank_risk": [
+              0.4962374686716792,
+              0.737719298245614
+            ]
+          },
+          "delta_impact_minus_qk": -0.006766917293233088,
+          "delta_97_5_ci": [
+            -0.06416353383458667,
+            0.04197994987468656
+          ],
+          "delta95_ci": [
+            -0.055266290726817206,
+            0.035964912280701866
+          ],
+          "global_auc_secondary": {
+            "impact": 0.5550526058233423,
+            "qk_risk": 0.5422681673599217,
+            "attention_mass_deleted": 0.5508319060435527,
+            "mean_query_impact": 0.5404330804991436,
+            "native_qk_rank_risk": 0.5493026669929043
+          },
+          "global_candidate_count": 256,
+          "global_failures": 134
+        },
+        "incomplete": {
+          "informative_questions": 14,
+          "auc": {
+            "impact": 0.6253401360544217,
+            "qk_risk": 0.6258503401360545,
+            "attention_mass_deleted": 0.6168367346938776,
+            "mean_query_impact": 0.6414965986394557,
+            "native_qk_rank_risk": 0.6318027210884354
+          },
+          "auc95_ci": {
+            "impact": [
+              0.42925170068027213,
+              0.8122619047619046
+            ],
+            "qk_risk": [
+              0.4231207482993197,
+              0.8204081632653061
+            ],
+            "attention_mass_deleted": [
+              0.4170068027210885,
+              0.8086777210884354
+            ],
+            "mean_query_impact": [
+              0.4494855442176871,
+              0.8221130952380953
+            ],
+            "native_qk_rank_risk": [
+              0.427891156462585,
+              0.8239795918367346
+            ]
+          },
+          "delta_impact_minus_qk": -0.0005102040816326453,
+          "delta_97_5_ci": [
+            -0.05153061224489808,
+            0.06598639455782296
+          ],
+          "delta95_ci": [
+            -0.046598639455782465,
+            0.05527210884353739
+          ],
+          "global_auc_secondary": {
+            "impact": 0.5812709030100335,
+            "qk_risk": 0.5468227424749164,
+            "attention_mass_deleted": 0.565886287625418,
+            "mean_query_impact": 0.5697324414715719,
+            "native_qk_rank_risk": 0.5426421404682275
+          },
+          "global_candidate_count": 256,
+          "global_failures": 26
+        }
+      },
+      "all64": {
+        "error": {
+          "informative_questions": 44,
+          "auc": {
+            "impact": 0.6502570346320348,
+            "qk_risk": 0.6550054112554112,
+            "attention_mass_deleted": 0.6448593073593074,
+            "mean_query_impact": 0.655167748917749,
+            "native_qk_rank_risk": 0.658887987012987
+          },
+          "auc95_ci": {
+            "impact": [
+              0.5621063311688311,
+              0.7360852949134199
+            ],
+            "qk_risk": [
+              0.5771915584415586,
+              0.7342955221861474
+            ],
+            "attention_mass_deleted": [
+              0.5613896780303029,
+              0.727556818181818
+            ],
+            "mean_query_impact": [
+              0.5732663690476191,
+              0.7364448051948053
+            ],
+            "native_qk_rank_risk": [
+              0.5797730654761906,
+              0.7388548430735932
+            ]
+          },
+          "delta_impact_minus_qk": -0.004748376623376627,
+          "delta_97_5_ci": [
+            -0.038325723755411274,
+            0.02753026920995681
+          ],
+          "delta95_ci": [
+            -0.033658685064934905,
+            0.023620806277056247
+          ],
+          "global_auc_secondary": {
+            "impact": 0.5633620689655172,
+            "qk_risk": 0.5619304187192118,
+            "attention_mass_deleted": 0.5658559113300493,
+            "mean_query_impact": 0.5582050492610837,
+            "native_qk_rank_risk": 0.5628694581280789
+          },
+          "global_candidate_count": 512,
+          "global_failures": 232
+        },
+        "incomplete": {
+          "informative_questions": 25,
+          "auc": {
+            "impact": 0.7623333333333332,
+            "qk_risk": 0.7569047619047619,
+            "attention_mass_deleted": 0.7550714285714286,
+            "mean_query_impact": 0.7663809523809523,
+            "native_qk_rank_risk": 0.7602380952380952
+          },
+          "auc95_ci": {
+            "impact": [
+              0.6314273809523808,
+              0.8788571428571429
+            ],
+            "qk_risk": [
+              0.6231404761904763,
+              0.8761940476190476
+            ],
+            "attention_mass_deleted": [
+              0.6220654761904764,
+              0.8740238095238095
+            ],
+            "mean_query_impact": [
+              0.6381904761904762,
+              0.8793333333333334
+            ],
+            "native_qk_rank_risk": [
+              0.6268571428571428,
+              0.8784785714285714
+            ]
+          },
+          "delta_impact_minus_qk": 0.00542857142857143,
+          "delta_97_5_ci": [
+            -0.031809523809523954,
+            0.04799999999999982
+          ],
+          "delta95_ci": [
+            -0.027147619047619247,
+            0.041999999999999926
+          ],
+          "global_auc_secondary": {
+            "impact": 0.7029131355932203,
+            "qk_risk": 0.6617055084745763,
+            "attention_mass_deleted": 0.6909427966101694,
+            "mean_query_impact": 0.691843220338983,
+            "native_qk_rank_risk": 0.6460805084745763
+          },
+          "global_candidate_count": 512,
+          "global_failures": 40
+        }
+      }
+    }
+  },
+  "gate": {
+    "llada": {
+      "error": {
+        "checks": {
+          "informative_n_at_least12": true,
+          "impact_auc_at_least_060": true,
+          "delta_at_least_005": false,
+          "paired97_5_lower_positive": false,
+          "replication_direction_nonnegative": false
+        },
+        "passed": false,
+        "insufficient_events": false
+      },
+      "incomplete": {
+        "checks": {
+          "informative_n_at_least12": true,
+          "impact_auc_at_least_060": false,
+          "delta_at_least_005": false,
+          "paired97_5_lower_positive": false,
+          "replication_direction_nonnegative": false
+        },
+        "passed": false,
+        "insufficient_events": false
+      },
+      "passed": false
+    },
+    "dream": {
+      "error": {
+        "checks": {
+          "informative_n_at_least12": true,
+          "impact_auc_at_least_060": true,
+          "delta_at_least_005": false,
+          "paired97_5_lower_positive": false,
+          "replication_direction_nonnegative": false
+        },
+        "passed": false,
+        "insufficient_events": false
+      },
+      "incomplete": {
+        "checks": {
+          "informative_n_at_least12": true,
+          "impact_auc_at_least_060": true,
+          "delta_at_least_005": false,
+          "paired97_5_lower_positive": false,
+          "replication_direction_nonnegative": true
+        },
+        "passed": false,
+        "insufficient_events": false
+      },
+      "passed": false
+    },
+    "any_model_passed": false
+  },
+  "causal_reference_harm": {
+    "llada": {
+      "error": {
+        "informative_questions": 21,
+        "auc": {
+          "impact": 0.6823696145124718,
+          "qk_risk": 0.7206349206349207,
+          "attention_mass_deleted": 0.6957766439909298,
+          "mean_query_impact": 0.698639455782313,
+          "native_qk_rank_risk": 0.7168083900226758
+        },
+        "auc95_ci": {
+          "impact": [
+            0.57609197845805,
+            0.7855732709750567
+          ],
+          "qk_risk": [
+            0.6299574829931972,
+            0.8078521825396825
+          ],
+          "attention_mass_deleted": [
+            0.589765447845805,
+            0.7977891156462584
+          ],
+          "mean_query_impact": [
+            0.5930513038548753,
+            0.8000566893424035
+          ],
+          "native_qk_rank_risk": [
+            0.6295039682539681,
+            0.8012195294784581
+          ]
+        },
+        "delta_impact_minus_qk": -0.03826530612244898,
+        "delta_97_5_ci": [
+          -0.07383928571428591,
+          0.0006257086167801826
+        ],
+        "delta95_ci": [
+          -0.06978458049886616,
+          -0.004676870748299472
+        ],
+        "global_auc_secondary": {
+          "impact": 0.6604026845637584,
+          "qk_risk": 0.6643400447427293,
+          "attention_mass_deleted": 0.6628187919463088,
+          "mean_query_impact": 0.6755257270693512,
+          "native_qk_rank_risk": 0.6467114093959732
+        },
+        "global_candidate_count": 224,
+        "global_failures": 149
+      },
+      "incomplete": {
+        "informative_questions": 29,
+        "auc": {
+          "impact": 0.49164614121510675,
+          "qk_risk": 0.5302339901477834,
+          "attention_mass_deleted": 0.4938013136288999,
+          "mean_query_impact": 0.4983990147783252,
+          "native_qk_rank_risk": 0.5212438423645321
+        },
+        "auc95_ci": {
+          "impact": [
+            0.4048629926108374,
+            0.5817959770114942
+          ],
+          "qk_risk": [
+            0.4463433908045977,
+            0.6139177955665025
+          ],
+          "attention_mass_deleted": [
+            0.4073686371100165,
+            0.5828653530377669
+          ],
+          "mean_query_impact": [
+            0.4113090106732348,
+            0.5873983990147785
+          ],
+          "native_qk_rank_risk": [
+            0.4395309934318555,
+            0.6006978653530377
+          ]
+        },
+        "delta_impact_minus_qk": -0.03858784893267652,
+        "delta_97_5_ci": [
+          -0.06094083538587844,
+          -0.016133004926108363
+        ],
+        "delta95_ci": [
+          -0.05827227011494266,
+          -0.018575533661740584
+        ],
+        "global_auc_secondary": {
+          "impact": 0.47142997639653816,
+          "qk_risk": 0.5065401258851299,
+          "attention_mass_deleted": 0.47747836349331235,
+          "mean_query_impact": 0.48942761605035406,
+          "native_qk_rank_risk": 0.5108674272226593
+        },
+        "global_candidate_count": 288,
+        "global_failures": 124
+      }
+    },
+    "dream": {
+      "error": {
+        "informative_questions": 25,
+        "auc": {
+          "impact": 0.7582619047619048,
+          "qk_risk": 0.7675238095238095,
+          "attention_mass_deleted": 0.752095238095238,
+          "mean_query_impact": 0.7615714285714285,
+          "native_qk_rank_risk": 0.7676904761904761
+        },
+        "auc95_ci": {
+          "impact": [
+            0.6425238095238096,
+            0.8589303571428571
+          ],
+          "qk_risk": [
+            0.6685714285714286,
+            0.8566690476190478
+          ],
+          "attention_mass_deleted": [
+            0.6407619047619048,
+            0.849095238095238
+          ],
+          "mean_query_impact": [
+            0.663997619047619,
+            0.8498119047619048
+          ],
+          "native_qk_rank_risk": [
+            0.6670458333333334,
+            0.8581672619047619
+          ]
+        },
+        "delta_impact_minus_qk": -0.009261904761904763,
+        "delta_97_5_ci": [
+          -0.053286904761904855,
+          0.02949999999999997
+        ],
+        "delta95_ci": [
+          -0.047048809523809694,
+          0.02499999999999991
+        ],
+        "global_auc_secondary": {
+          "impact": 0.6451797385620915,
+          "qk_risk": 0.68390522875817,
+          "attention_mass_deleted": 0.6497549019607843,
+          "mean_query_impact": 0.6385620915032679,
+          "native_qk_rank_risk": 0.6857843137254902
+        },
+        "global_candidate_count": 264,
+        "global_failures": 60
+      },
+      "incomplete": {
+        "informative_questions": 20,
+        "auc": {
+          "impact": 0.8023214285714285,
+          "qk_risk": 0.8127976190476189,
+          "attention_mass_deleted": 0.7991964285714286,
+          "mean_query_impact": 0.8032142857142859,
+          "native_qk_rank_risk": 0.8127976190476189
+        },
+        "auc95_ci": {
+          "impact": [
+            0.6571428571428571,
+            0.9280357142857142
+          ],
+          "qk_risk": [
+            0.6661860119047619,
+            0.9357247023809523
+          ],
+          "attention_mass_deleted": [
+            0.6531510416666667,
+            0.9236346726190475
+          ],
+          "mean_query_impact": [
+            0.6617857142857143,
+            0.9217857142857143
+          ],
+          "native_qk_rank_risk": [
+            0.6661860119047619,
+            0.9357247023809523
+          ]
+        },
+        "delta_impact_minus_qk": -0.010476190476190472,
+        "delta_97_5_ci": [
+          -0.04238095238095252,
+          0.020952380952380945
+        ],
+        "delta95_ci": [
+          -0.03904761904761911,
+          0.017142857142857237
+        ],
+        "global_auc_secondary": {
+          "impact": 0.7062504394290937,
+          "qk_risk": 0.6893763622301905,
+          "attention_mass_deleted": 0.6997820431695142,
+          "mean_query_impact": 0.6938761161498981,
+          "native_qk_rank_risk": 0.684384447725515
+        },
+        "global_candidate_count": 464,
+        "global_failures": 33
+      }
+    }
+  },
+  "ambiguity_sensitivity": {
+    "llada": {
+      "error": {
+        "informative_questions": 12,
+        "auc": {
+          "impact": 0.6464781746031746,
+          "qk_risk": 0.682688492063492,
+          "attention_mass_deleted": 0.6447420634920634,
+          "mean_query_impact": 0.6582837301587302,
+          "native_qk_rank_risk": 0.6823412698412699
+        },
+        "auc95_ci": {
+          "impact": [
+            0.5040674603174603,
+            0.7770337301587301
+          ],
+          "qk_risk": [
+            0.550735367063492,
+            0.7999999999999999
+          ],
+          "attention_mass_deleted": [
+            0.5093253968253968,
+            0.7711309523809523
+          ],
+          "mean_query_impact": [
+            0.5168650793650794,
+            0.7833333333333333
+          ],
+          "native_qk_rank_risk": [
+            0.5416666666666666,
+            0.8041666666666667
+          ]
+        },
+        "delta_impact_minus_qk": -0.03621031746031747,
+        "delta_97_5_ci": [
+          -0.07718377976190481,
+          0.005564236111111814
+        ],
+        "delta95_ci": [
+          -0.07262648809523795,
+          0.001388888888888884
+        ],
+        "global_auc_secondary": {
+          "impact": 0.6083333333333333,
+          "qk_risk": 0.6450231481481481,
+          "attention_mass_deleted": 0.6453703703703704,
+          "mean_query_impact": 0.6591435185185185,
+          "native_qk_rank_risk": 0.6243055555555556
+        },
+        "global_candidate_count": 256,
+        "global_failures": 216
+      },
+      "incomplete": {
+        "informative_questions": 22,
+        "auc": {
+          "impact": 0.5579816017316017,
+          "qk_risk": 0.5695887445887445,
+          "attention_mass_deleted": 0.5719155844155845,
+          "mean_query_impact": 0.5675054112554112,
+          "native_qk_rank_risk": 0.5654761904761906
+        },
+        "auc95_ci": {
+          "impact": [
+            0.41225649350649357,
+            0.6992985660173161
+          ],
+          "qk_risk": [
+            0.4299208603896104,
+            0.7051697781385281
+          ],
+          "attention_mass_deleted": [
+            0.4315476190476191,
+            0.7098221049783551
+          ],
+          "mean_query_impact": [
+            0.42756561147186145,
+            0.7044920183982684
+          ],
+          "native_qk_rank_risk": [
+            0.4205350378787878,
+            0.706413014069264
+          ]
+        },
+        "delta_impact_minus_qk": -0.011607142857142856,
+        "delta_97_5_ci": [
+          -0.034307359307359175,
+          0.009605654761904867
+        ],
+        "delta95_ci": [
+          -0.03089826839826837,
+          0.007201704545454587
+        ],
+        "global_auc_secondary": {
+          "impact": 0.476984126984127,
+          "qk_risk": 0.5349206349206349,
+          "attention_mass_deleted": 0.5073260073260073,
+          "mean_query_impact": 0.5173992673992674,
+          "native_qk_rank_risk": 0.5577533577533578
+        },
+        "global_candidate_count": 256,
+        "global_failures": 126
+      }
+    },
+    "dream": {
+      "error": {
+        "informative_questions": 17,
+        "auc": {
+          "impact": 0.5712885154061624,
+          "qk_risk": 0.5827731092436975,
+          "attention_mass_deleted": 0.5624649859943978,
+          "mean_query_impact": 0.5964985994397758,
+          "native_qk_rank_risk": 0.5876750700280113
+        },
+        "auc95_ci": {
+          "impact": [
+            0.42660364145658264,
+            0.7140126050420167
+          ],
+          "qk_risk": [
+            0.46148109243697477,
+            0.7099439775910364
+          ],
+          "attention_mass_deleted": [
+            0.42156512605042007,
+            0.7019642857142858
+          ],
+          "mean_query_impact": [
+            0.4746498599439776,
+            0.7229761904761904
+          ],
+          "native_qk_rank_risk": [
+            0.4672233893557423,
+            0.7148459383753502
+          ]
+        },
+        "delta_impact_minus_qk": -0.011484593837535025,
+        "delta_97_5_ci": [
+          -0.07283088235294125,
+          0.044117647058823484
+        ],
+        "delta95_ci": [
+          -0.06386554621848745,
+          0.0372549019607844
+        ],
+        "global_auc_secondary": {
+          "impact": 0.5486568986568987,
+          "qk_risk": 0.5260683760683761,
+          "attention_mass_deleted": 0.5437118437118437,
+          "mean_query_impact": 0.5276556776556777,
+          "native_qk_rank_risk": 0.5337606837606838
+        },
+        "global_candidate_count": 256,
+        "global_failures": 130
+      },
+      "incomplete": {
+        "informative_questions": 13,
+        "auc": {
+          "impact": 0.6613553113553114,
+          "qk_risk": 0.6787545787545787,
+          "attention_mass_deleted": 0.6736263736263736,
+          "mean_query_impact": 0.6833333333333333,
+          "native_qk_rank_risk": 0.6846153846153845
+        },
+        "auc95_ci": {
+          "impact": [
+            0.4613553113553114,
+            0.8505494505494505
+          ],
+          "qk_risk": [
+            0.4736172161172162,
+            0.8673992673992674
+          ],
+          "attention_mass_deleted": [
+            0.46812271062271066,
+            0.8630036630036629
+          ],
+          "mean_query_impact": [
+            0.4853479853479854,
+            0.8659844322344316
+          ],
+          "native_qk_rank_risk": [
+            0.4721611721611722,
+            0.878021978021978
+          ]
+        },
+        "delta_impact_minus_qk": -0.017399267399267386,
+        "delta_97_5_ci": [
+          -0.05732829670329672,
+          0.019230769230769218
+        ],
+        "delta95_ci": [
+          -0.05274725274725278,
+          0.014670329670329565
+        ],
+        "global_auc_secondary": {
+          "impact": 0.5872183372183373,
+          "qk_risk": 0.5574980574980575,
+          "attention_mass_deleted": 0.5802253302253302,
+          "mean_query_impact": 0.5790598290598291,
+          "native_qk_rank_risk": 0.5505050505050505
+        },
+        "global_candidate_count": 256,
+        "global_failures": 22
+      }
+    }
+  },
+  "unique_mask_sensitivity": {
+    "llada": {
+      "error": {
+        "informative_questions": 12,
+        "auc": {
+          "impact": 0.6464781746031746,
+          "qk_risk": 0.682688492063492,
+          "attention_mass_deleted": 0.6447420634920634,
+          "mean_query_impact": 0.6582837301587302,
+          "native_qk_rank_risk": 0.6823412698412699
+        },
+        "auc95_ci": {
+          "impact": [
+            0.5040674603174603,
+            0.7770337301587301
+          ],
+          "qk_risk": [
+            0.550735367063492,
+            0.7999999999999999
+          ],
+          "attention_mass_deleted": [
+            0.5093253968253968,
+            0.7711309523809523
+          ],
+          "mean_query_impact": [
+            0.5168650793650794,
+            0.7833333333333333
+          ],
+          "native_qk_rank_risk": [
+            0.5416666666666666,
+            0.8041666666666667
+          ]
+        },
+        "delta_impact_minus_qk": -0.03621031746031747,
+        "delta_97_5_ci": [
+          -0.07718377976190481,
+          0.005564236111111814
+        ],
+        "delta95_ci": [
+          -0.07262648809523795,
+          0.001388888888888884
+        ],
+        "global_auc_secondary": {
+          "impact": 0.6083333333333333,
+          "qk_risk": 0.6450231481481481,
+          "attention_mass_deleted": 0.6453703703703704,
+          "mean_query_impact": 0.6591435185185185,
+          "native_qk_rank_risk": 0.6243055555555556
+        },
+        "global_candidate_count": 256,
+        "global_failures": 216
+      },
+      "incomplete": {
+        "informative_questions": 23,
+        "auc": {
+          "impact": 0.5050207039337474,
+          "qk_risk": 0.5226449275362319,
+          "attention_mass_deleted": 0.5132246376811596,
+          "mean_query_impact": 0.510636645962733,
+          "native_qk_rank_risk": 0.5152173913043478
+        },
+        "auc95_ci": {
+          "impact": [
+            0.3853189699792961,
+            0.6275122929606626
+          ],
+          "qk_risk": [
+            0.40742753623188405,
+            0.6403480848861286
+          ],
+          "attention_mass_deleted": [
+            0.3926999223602484,
+            0.635482013457557
+          ],
+          "mean_query_impact": [
+            0.3911225414078675,
+            0.6327672101449276
+          ],
+          "native_qk_rank_risk": [
+            0.395573887163561,
+            0.6353021480331262
+          ]
+        },
+        "delta_impact_minus_qk": -0.017624223602484473,
+        "delta_97_5_ci": [
+          -0.04148583074534153,
+          0.0061610377846792784
+        ],
+        "delta95_ci": [
+          -0.038690476190476275,
+          0.0034420289855072754
+        ],
+        "global_auc_secondary": {
+          "impact": 0.47795648060548723,
+          "qk_risk": 0.5145380006307159,
+          "attention_mass_deleted": 0.4900662251655629,
+          "mean_query_impact": 0.49977924944812363,
+          "native_qk_rank_risk": 0.5298013245033113
+        },
+        "global_candidate_count": 256,
+        "global_failures": 151
+      }
+    },
+    "dream": {
+      "error": {
+        "informative_questions": 19,
+        "auc": {
+          "impact": 0.6058897243107769,
+          "qk_risk": 0.61265664160401,
+          "attention_mass_deleted": 0.5944862155388471,
+          "mean_query_impact": 0.6214285714285714,
+          "native_qk_rank_risk": 0.6170426065162907
+        },
+        "auc95_ci": {
+          "impact": [
+            0.4662875939849624,
+            0.7417387218045111
+          ],
+          "qk_risk": [
+            0.49097117794486217,
+            0.7328446115288219
+          ],
+          "attention_mass_deleted": [
+            0.4568859649122808,
+            0.7263189223057644
+          ],
+          "mean_query_impact": [
+            0.5006265664160402,
+            0.7406046365914788
+          ],
+          "native_qk_rank_risk": [
+            0.4962374686716792,
+            0.737719298245614
+          ]
+        },
+        "delta_impact_minus_qk": -0.006766917293233088,
+        "delta_97_5_ci": [
+          -0.06416353383458667,
+          0.04197994987468656
+        ],
+        "delta95_ci": [
+          -0.055266290726817206,
+          0.035964912280701866
+        ],
+        "global_auc_secondary": {
+          "impact": 0.5550526058233423,
+          "qk_risk": 0.5422681673599217,
+          "attention_mass_deleted": 0.5508319060435527,
+          "mean_query_impact": 0.5404330804991436,
+          "native_qk_rank_risk": 0.5493026669929043
+        },
+        "global_candidate_count": 256,
+        "global_failures": 134
+      },
+      "incomplete": {
+        "informative_questions": 14,
+        "auc": {
+          "impact": 0.6253401360544217,
+          "qk_risk": 0.6258503401360545,
+          "attention_mass_deleted": 0.6168367346938776,
+          "mean_query_impact": 0.6414965986394557,
+          "native_qk_rank_risk": 0.6318027210884354
+        },
+        "auc95_ci": {
+          "impact": [
+            0.42925170068027213,
+            0.8122619047619046
+          ],
+          "qk_risk": [
+            0.4231207482993197,
+            0.8204081632653061
+          ],
+          "attention_mass_deleted": [
+            0.4170068027210885,
+            0.8086777210884354
+          ],
+          "mean_query_impact": [
+            0.4494855442176871,
+            0.8221130952380953
+          ],
+          "native_qk_rank_risk": [
+            0.427891156462585,
+            0.8239795918367346
+          ]
+        },
+        "delta_impact_minus_qk": -0.0005102040816326453,
+        "delta_97_5_ci": [
+          -0.05153061224489808,
+          0.06598639455782296
+        ],
+        "delta95_ci": [
+          -0.046598639455782465,
+          0.05527210884353739
+        ],
+        "global_auc_secondary": {
+          "impact": 0.5812709030100335,
+          "qk_risk": 0.5468227424749164,
+          "attention_mass_deleted": 0.565886287625418,
+          "mean_query_impact": 0.5697324414715719,
+          "native_qk_rank_risk": 0.5426421404682275
+        },
+        "global_candidate_count": 256,
+        "global_failures": 26
+      }
+    }
+  },
+  "numerical_validation": {
+    "all_source_hash_checks": true,
+    "four_official_replays_passed": true,
+    "cpu_operator_validation": {
+      "passed": true,
+      "gqa_and_non_gqa": true,
+      "S25_and_K4_exact_selected_tensor": true,
+      "full_keep_null": true,
+      "explicit_sdpa_max_error": 1.1920928955078125e-07
+    }
+  },
+  "score_and_label_manifest": {
+    "protocol": "8b88725820522947302b3fd68817085c557592a752b4612e7ec1f09dac347bb4",
+    "analysis": "2954840f32cb4eda1878dc7034d55a3cb003be6f313742b7c3ff68d9d3f819bb",
+    "review_auto": "390546962fca8aa86687d53cde995aee1a687b40b4f8013bbd870ded493bebd4",
+    "review_semantic": "6c663513923601315374d2f6fe49b61171ea0b54c25ee53bb46b06ca23516b10"
+  }
+}

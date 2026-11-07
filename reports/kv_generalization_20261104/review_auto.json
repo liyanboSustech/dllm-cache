@@ -1,0 +1,1332 @@
+{
+  "gsm8k_train_0049_74763cace8363f": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0049_8de031ea91a99e": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0049_989964fdc85e0b": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0049_a13c424e4ac4a9": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0049_a6916010b5ba4b": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0050_30e82f67160c5a": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0050_47fb61b3895855": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0050_60eeb1efe962ef": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0050_a54d92705720b8": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0050_a77311101807e5": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0050_df40244a10f7e9": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0050_e8d8230bba32af": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0051_0ca03bd29070cc": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0051_2ae2629edeb98c": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0051_2bd3116819a86b": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0051_b6d2827aed28c5": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0051_b99a7681a65c58": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0051_ccaa74032f53f7": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0051_d8bf8d8de0b050": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0051_dbcc187bd16a2c": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0051_e6d13dcad06b6f": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0051_edb6684104edb7": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0051_f4be61c0256101": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0052_0a655af9af9b1e": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0052_217a9e27b0945e": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0052_333308286900c3": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0052_42d0b55dd0612e": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0052_443481f7989909": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0052_4818bab8666e2b": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0052_4d1be62456f6dd": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0052_839bdeeb72b71e": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0052_ada3e648807f62": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0052_c568d7733d42ab": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0052_e9cc93b6e91ef7": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0053_1062efd42bf021": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0053_1daa788b074ad6": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0053_47709bf3b5c0bb": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0053_4f87b8ae3ba350": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0053_85cdbbb8f03d14": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0053_c1c9906b382331": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0053_c68d0580824a2d": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0054_1880fafb6caafb": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0054_2470e00970886b": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0054_380e0c702676a3": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0054_519f284b32803f": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0054_525d08d2234d35": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0054_7be50fa3cc1be0": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0054_9acab19449c752": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0054_dacf9c490db262": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0055_0d91bdf8a7a16f": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0055_3921389823ad3d": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0055_556aea23ac0bb0": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0055_66e86fb98598c2": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0055_77cd0cd130cf79": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0055_a06310df0ce560": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0055_a508006ed558a5": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0055_cdc8925a17e5a4": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0055_f75c942f989c98": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0056_05c54c9f21f5f1": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0056_1249646091a82f": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0056_2c45a8c4120c1b": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0056_2eddb0bb827e88": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0056_5dfdc7fd5067df": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0056_a28ea3c765f848": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0056_c9b138618f1606": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0057_073321a9f81a64": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0057_1c94081a896694": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0057_7313e82438f98d": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0057_751873813a0017": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0057_79af7bd13d0075": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0057_860598fee600cf": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0057_a084d630010b88": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0057_c711352467ba68": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0057_fd9c3a78d7ff8f": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0058_29d36652ad8d79": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0058_2d7d6b3f36a8f5": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0058_3b7a102bee8ed3": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0058_6ff2df74c13fe1": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0058_8a5b2e422e8f33": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0058_96d2f6659820e2": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0058_9bd13874a46f75": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0058_a5bf77967d2eaf": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0058_c98eb22b2bccec": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0058_cdfab314417026": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0058_dace721941b9f4": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0058_f38cbf5b1b87fc": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0059_03b8f7e2822e83": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0059_0532daa6e7fa29": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0059_0bf2d436313a4d": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0059_0ddb06fcdd30f2": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0059_2d340d8d113580": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0059_41fecf6bdee8ad": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0059_4eb2e8b6c2951b": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0059_70da9f09309661": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0059_7f82d00b3b72f4": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0059_c18ee8242a3be7": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0059_f3fd0eb132856c": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0059_fc356f97c85554": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0059_fd6a78c0744b53": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0060_2ca78d4cdbbf38": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0060_4801c65ea31867": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0060_8d38ad02dc68b0": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0060_a8f07d1eefbfe2": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0060_c2e29e01879601": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0060_cd744c75bceabe": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0060_d3b4bf113465da": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0060_d9feae1435297d": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0060_e61ff6c251a053": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0061_0055fdff2b12dd": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0061_0d14211c2855a8": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0061_16fa2f3f67defa": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0061_2d5265c9f6241e": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0061_6d0600ea2d3ecd": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0061_92cbcab06753b2": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0061_e204386846f854": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0061_fb3cef7ccdb04d": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0062_02b4f3fa7fdf1d": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0062_1455811c10cec8": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0062_3646f300bc655b": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0062_519b6f7cf5f8e5": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0062_83c0c399c09366": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0062_948a793756e09c": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0062_a7feebf758c1f6": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0062_afb699034e0ab3": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0062_b973ae452b4bff": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0062_e0494b530eaeb8": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0062_f45454b8fb753d": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0063_35cc5ad62fc69a": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0063_63f092bb6bbc1c": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0063_8e2f3305997d0b": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0063_ad18697ca646e5": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0063_b64a1597ffd658": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0063_ebd5a8c3ba0e1e": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0064_439e6b20bffac5": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0064_492df79dca8b28": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0064_5db9277e477624": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0064_854018f3583411": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0064_9cff60c35f4d85": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0064_9fc714de85e289": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0064_b9731f07451186": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0064_c5aeb7b131c669": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0064_d6992ebcab632e": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0064_f2b9fc517528d1": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0064_f4f77dd7b9b4f4": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0065_1a5cf002809c28": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0065_8649834f2de92a": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0065_94f266c6cbb691": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0065_973cd2c51bf6c0": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0065_d792afe1f057e8": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0066_02181216cae974": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0066_0ef7208897b42c": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0066_11e16cde32764f": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0066_201054b0b9c349": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0066_30a51b54c7ec71": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0066_32bae4b7f1b9b7": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0066_482bdeff6a757d": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0066_6b99e076a68e54": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0066_841fbe03e60aca": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0066_e12a0feff66612": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0067_1a09604e55e141": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0067_47951c6b50c1d0": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0067_5fbcf85437815f": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0067_8330f3120c218b": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0067_b8f6696a7e776f": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0067_bbe194e536705e": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0067_c80b5b4a13ca05": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0067_eb4b01bad408fd": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0068_01c2c799eeb4fa": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0068_030b5ca69da867": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0068_36038b655a8ac3": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0068_6797fa31cf91ad": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0068_6e0af5794a6610": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0068_d3b3fff6f54e1e": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0069_0bcb2b88c9fd8b": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0069_490af133a0a9ec": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0069_6b0920e7bd7277": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0069_6ce4d68a4d319b": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0069_903e3596a4a9df": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0069_9c34ef35132cff": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0069_bc61d4bf29ce45": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0070_7b93ce7b9b35cc": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0070_abe5b5fc75a48c": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0070_b27acfe7307fee": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0070_bf0f235f85316f": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0071_00370509e7b189": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0071_16b2bafa1badf0": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0071_bf0a82eacdd100": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0071_c69f67ede4431f": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0071_cf3d8af2660fac": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0071_d7967ac7d4bc83": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0071_f773efd7631016": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0072_052dfbc96fc069": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0072_0bcafff826b0d7": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0072_2687bc4f42c3eb": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0072_3169af436fad89": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0072_794993f1a4af6b": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0072_81d01850b8ac9e": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0072_afa429d1a905b3": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0072_cbed28e9a61d04": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0072_e45a66acd910f6": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0072_eca77d092d9be5": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0072_ed182db8029ae7": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0072_f9efbeccad8b01": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0072_fdfb20689400d8": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0073_0ce0c6b25b7022": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0073_2a452db408d8eb": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0073_5fa580a2b5beb6": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0073_64482b52165c64": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0073_d8048a572196fd": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0073_e2716a2ee0e112": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0073_e5b2c2b59c56c0": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0074_0a51b68c7702e7": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0074_39ec358cdd7a31": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0074_45c84035751e29": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0074_69798dc8a62869": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0074_6b87960bc9a456": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0074_8628c846172462": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0074_9b2e64e3dfd290": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0074_f583ee1ddee771": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0075_4f91e5d43c968d": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0075_6075db9459b58a": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0075_6df602a1889273": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0075_8ed0fd6a275644": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0075_9992b9d4daf6dc": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0075_ab8e65b738cf82": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0075_c257b60991a80d": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0075_db76efb7369076": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0075_f59b891342a961": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0075_fd270e8893a8a8": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0075_ff8c228455b1b1": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0076_02b97b8c7f02fc": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0076_1a8610abde0881": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0076_1c6c8a96fdc3e5": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0076_22ca4c7499291f": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0076_a871f5ed3eb35b": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0076_b853b12b080e46": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0076_ea8fe02749c278": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0077_73a6b2496c7088": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0077_7f019b5619bb43": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0077_d592d46f5cfcd5": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0077_e3e8f96a9902e9": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0078_2450fdbf4bf2fa": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0078_2e7c1a343ebc90": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0078_304850a05ac5c7": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0078_511650fd161bab": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0078_7f36b1b67d21b0": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0078_9171ca6897262e": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0078_a8b32a77cf1c21": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0078_c09a463c547420": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0078_d92736e8c5673b": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0079_1fadf14681260b": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0079_90d9a019bead36": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0079_9ca003e959e505": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0079_b11b938d693f50": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0079_d90acc6c43dc5e": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0080_2773f3bdc55be9": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0080_2baff38509de92": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0080_30bab5cd48c6aa": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0080_3b4684f17d80bd": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0080_76052bdac53819": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0080_760ad7e6d055d5": {
+    "complete": true,
+    "correct": false,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0080_8257a4ae5c736f": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0080_c6f9dd314bc93a": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0080_f13364c94fbe0a": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0080_f57b39e2fe8adf": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  },
+  "gsm8k_train_0080_fbbd13ced8543c": {
+    "complete": true,
+    "correct": true,
+    "rule": "Explicit final numeric answer, original strict parser."
+  }
+}
